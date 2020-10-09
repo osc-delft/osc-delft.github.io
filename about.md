@@ -16,7 +16,7 @@ photos:
 
 Please do note that we expect everyone to follow our [Code of Conduct]({{ site.github.repository_url }}/blob/master/CODE_OF_CONDUCT.md).
 
-# What is the benefit of being part of OSC Delft?
+# What are the benefits?
 - **Network building**: you will be able to connect with, learn from and collaborate with others interested in open science:
   - From other departments and faculties in TU Delft, including ICT and other service providers
   - From all around the world- OSC Delft is part of a larger network of more than 10 open science communities in the Netherlands and beyond.
