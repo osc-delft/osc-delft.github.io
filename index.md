@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Open Science Community Delft
 image: /images/about.jpg
 photos:
   name: Bérénice Batut
@@ -19,7 +19,7 @@ The Open Science Community Delft is a *some definition of what this community is
 Please do note that we expect everyone to follow our [Code of Conduct]({{ site.github.repository_url }}/blob/master/CODE_OF_CONDUCT.md).
 
 # What does the community do?
-- We share our experiences and learn from each other through bi-annual meetings and discussions in our Slack space. 
+- We share our experiences and learn from each other through bi-annual meetings and discussions in our Slack space.
 - We help each other out towards working more openly.
 - more points
 
