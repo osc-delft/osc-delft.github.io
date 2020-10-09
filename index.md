@@ -1,120 +1,42 @@
 ---
-layout: default
-title: Open Life Science
-description: Sharing - Connecting - Empowering
-image: /images/index.jpg
+layout: page
+title: About
+image: /images/about.jpg
 photos:
   name: Bérénice Batut
   license: CC BY-SA 4.0
-  url: https://flic.kr/p/2gHMJah
+  url: https://flic.kr/p/2gHNtNq
 ---
 
-# A mentoring & training program for Open Science ambassadors
+The Open Science Community Delft is a *some definition of what this community is*.
 
-The Open Life Science (OLS) program helps **individuals and stakeholders in research** to become **Open Science ambassadors**.
+# Who can join the Open Science Community Delft?
+**Everyone** who is interested in any aspects of open science.
+- There are many different aspects of open science, including open research, open education, open-source software and hardware - you don't have to be interested in everything to join us, you are encouraged to be participate and contribute in a way that you feel comfortable with.
+- You absolutely *don't* have to be an expert - most of us don't know everything about open science. The important thing is to come with an open mind, to share and to learning
+- OSC Delft is not built for researchers only. We welcome everyone, whether you are supporting researchers in their work, or more involved in policy or teaching - we would love to learn from you and your perspective.
 
-## About
+Please do note that we expect everyone to follow our [Code of Conduct]({{ site.github.repository_url }}/blob/master/CODE_OF_CONDUCT.md).
 
-This is a **16-week long personal mentorship and cohort-based training**, where participants (organisers, hosts, mentors and project leads/mentees) of this program will:
-- share their expertise and gain knowledge essential to create, lead, and sustain an Open Science project
-- connect with members across different projects, communities, backgrounds, and identities
-- empower each other to become effective Open Science ambassadors in their communities
+# What does the community do?
+- We share our experiences and learn from each other through bi-annual meetings and discussions in our Slack space. 
+- We help each other out towards working more openly.
+- more points
 
-## Applications
+# What are the benefits?
+- **Network building**: you will be able to connect with, learn from and collaborate with others interested in open science:
+  - From other departments and faculties in TU Delft, including ICT and other service providers
+  - From all around the world- OSC Delft is part of a larger network of more than 10 open science communities in the Netherlands and beyond.
+  - You will receive information about open science conferences and workshops
+- **Inform development of the [TU Delft Open Science Programme](https://www.tudelft.nl/library/actuele-themas/tu-delft-open-science/os/open-science-programme/)**: you will be invited to contribute as consultants and beta-testers for new services and policies offered as part of the TU Delft Open Science Programme
+- **Learn and practise new skills**: you can attend training and workshops to learn more about open science. Also, by presenting to other researchers at departmental and faculty events and training, you will have opportunity to learn and practise effective and engaging communications, and to build a speaker profile.
+- **Increased impact**: become the local open science expert in your community! You will be recognised as a community member on this website, and have the opportunity to be featured on the community blog.
 
-After the success of our [first cohort](ols-1) from January to April 2020, we have launched the 2nd cohort of this program:
+# Get involved
 
-{% include _includes/ols-2-timeline.md %}
+Sign up to join the Open Science Community Delft.
 
-The call for applications is **open**! 
-Please visit [EasyChair](https://easychair.org/conferences/?conf=ols2) to view our application instructions and upload your application before the end of the day on June 30, 2020. 
-
-Have a question or need any support to join this cohort? 
-We are here to help - feel free to email [{{ site.email|replace:'@','[at]' }}](mailto:{{ site.email }}), chat in real-time on [Gitter](https://gitter.im/{{ site.gitter }}) or connect on Twitter [@{{ site.twitter }}](https://twitter.com/{{ site.twitter }}). 
-
-## Projects
-
-{% assign projects = site.data.ols-1-projects %}
-
-{% assign all-participants = '' %}
-{% assign all-mentors = '' %}
-{% for project in projects %}
-    {% assign p-pparticipants = '' %}
-    {% for p in project.participants %}
-        {% capture all-participants %}{{ all-participants}}, {{ p }} {% endcapture %}
-    {% endfor %}
-    {% for m in project.mentors %}
-        {% capture all-mentors %}{{ all-mentors }}, {{ m }} {% endcapture %}
-    {% endfor %}
-{% endfor %}
-
-{% assign p-participants = all-participants | remove_first: ', ' | split: " , " | uniq | sort %}
-{% assign p-mentors = all-mentors | remove_first: ', ' | split: " , " | uniq | sort %}
-
-Participants join this program with a project that they either are already working on or want to develop during this program individually or in teams. 
-Project ideas can range from solving technical questions to creating an open data project or report, developing an open source software project, writing an open publication, facilitating community/team culture movements, advancing open educational resources or contributing to other existing projects/communities.
-
-**Check out the projects developed in the first cohort by [{{ p-participants | size }} participants](/ols-1/projects-participants#participants) with [{{ projects | size }} projects](/ols-1/projects-participants#projects).**
-
-All applications are welcome, whether the project is just an idea at this stage or something that is running for years, but, the projects must:
-
-- promote one or several Open Science practices (i.e. Open Access, Open Source, Citizen Science, ) in life science
-- state a possible measurable outcome (i.e. feature, module, or minimum viable product) from this program
-- create an inclusive space and welcome contributions from their community members
-
-## Does OLS only accept life science projects?
-
-Modern science and scientific communities stand in the interface of computation and other research fields. Life science is one of them.
-This interdisciplinary position provides an exciting opportunity for new scientists to understand and welcome open leadership practices -- skills that aren’t necessarily taught in the traditional education system.
-
-OLS fills this gap by offering structured training and mentoring to help participants implement “open by design” principles in their projects systematically.
-
-The founders of this program come from the life science backgrounds and have an extensive network of Open Science practitioners from this field who are experts and mentors in this program.
-Therefore, OLS was initially designed with life science researchers and projects in mind.
-
-However, with the growing interest from the community members and the transferable nature of lessons learned in this program, we have expanded the scope to other fields where these skills will be directly applicable.
-
-## What's in it for you?
-
-We want to make this program mutually beneficial for all the participants.
-Here are a few values we think you will receive from participating in this project.
-
-- Become a contributing member of this community
-- Collaborate with others in Open Science projects
-- Exchange skills with others and build your profiles
-- Highlight and promote your resources
-- Gain insights from other experts in the field
-- Work on short-term projects and publish online
-- Get recognition and acknowledgment for your work
-- Co-develop this program by sharing feedback
-
-## The program itself
-
-*To illustrate the OLS journey, we use a persona/story of Joy, a mentee participating in the program, and Sam, their [mentor](about#mentors), as they progress through their open science training.*
-
-Joy will provide an outline of a project in their application that they will develop in the program. Additionally, they will indicate their interests in learning particular aspects of Open Science and research. 
-
-Sam will register as a mentor and list their expertise that they would like to share with their mentee.
-
-After the selection process, they will be involved in the following steps of this program:
-
-1. Based on their common interests, they will be introduced to each other as suitable mentee and mentor
-
-    They will meet every 2nd week on **mentee-mentor calls** (around 30 minutes). Sam will help Joy evaluate their understanding of the new topics introduced in the program, and guide their progress by providing constructive feedback. 
-    Joy will be given assignments before these calls to help them apply new skills to their project. When needed, Joy and Sam will connect with other [experts](about#experts) to invite consultation on their project.
-
-2. Joy will participate in online [training calls](ols-1#schedule) and share insights with other participants in the program.
-
-    In these **cohorts calls**, they will be introduced to new topics and resources, participate in break-out discussions, and listen to [expert talks](about#experts).
-    
-3. Joy will get to know their peers from the cohort during social and co-working calls.
-
-    They will share their project ideas, learn about others' projects and discuss assignments.
-
-4. A final graduation call will allow Joy to present their project to other participants and exchange values.
-
-Sam will also participate in **mentor training** calls and attend topic-based discussions with other mentors aimed at enhancing their mentoring skills.
-
-A self-evaluation survey, mid-cohort survey and post-cohort survey will help Joy and Sam in positioning their knowledge in open science leadership before, during and after the program.
-
-For the next round, Joy may share what they learned by [mentoring](about#mentors) a new project in the future cohort and Sam will continue their mentoring effort or take an [expert](about#experts) role.
+Please note that it's very important to us that we maintain a positive and
+supportive environment for everyone who wants to participate. When you join us
+we ask that you follow our [code of conduct]({{ site.github.repository_url
+}}/blob/master/CODE_OF_CONDUCT.md) in all interactions both on and offline.
