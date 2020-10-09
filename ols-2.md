@@ -94,9 +94,7 @@ OLS's second cohort (OLS-2) will be conducted from September 2020 until December
 
 {% include _includes/ols-2-timeline.md %}
 
-# Schedule
 
-{% include _includes/overall-schedule.md schedule=schedule %}
 
 # Role Descriptions
 
