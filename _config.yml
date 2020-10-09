@@ -1,15 +1,12 @@
 # Site
-title: "Open Life Science"
+title: "Open Science Community Delft"
 description: >
-  The Open Leader program for Open Life Science
+  A community of researchers, educators and staff who are interested in open science.
 logo: ''
-email: team@openlifesci.org
-repository: open-life-science/open-life-science.github.io
-twitter: openlifesci
-gitter: open-life-sci/community
-url: https://openlifesci.org/
-announcement_list: https://groups.google.com/forum/#!forum/ols-news
-youtube: https://www.youtube.com/channel/UCs12-ZgnDJOWIWN3Vo1XHXA/
+email: team@openscience-delft.org
+repository: osc-delft/osc-delft-website
+twitter: OSCDelft
+url: https://openscience-delft.org
 
 collections:
   posts:
