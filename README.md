@@ -1,46 +1,18 @@
-# Open Life Science
+# Open Science Community Delft
 
-***Sharing. Connecting. Empowering***
+This is the online home of the Open Science Community Delft, officially launched on Sep 17, 2020.
 
-Find all the information about our community and projects at
-[https://open-life-science.github.io](https://open-life-science.github.io).
+The website is forked from the awesome [Open Life Science programme website](https://open-life-science.github.io) - the programme is led by 3 of the best people in the world, co-created by a beautiful community.
+
+We're in the process of adapting this site for our community - please see below on how *you* can help out. We ask for your patience as we iron out all the glitches and stitches. 
 
 ## Welcome!
-
-First and foremost, Welcome! 🎉 Willkommen! 🎊 Bienvenue! 🙏 सुस्वागत (Suswagat)🎈🎈🎈
 
 This document (the `README` file) is a hub to give you some information about the
 project. Jump straight to one of the sections below, or just scroll down to find
 out more.
 
-## What are we doing?
-
-We are working to create a mentoring program for individuals interested in becoming
-ambassadors for Open Science practice, training and education in their communities.
-
-Our outcome is to support early stage researchers and young leaders by sharing
-Open Science skills, connecting them to others in the community,
-and empowering them to become ambassadors for Open Science practice,
-training and education in their communities.
-
-## Who are we?
-
-We are currently a team of 3 members who share a passion for Open Research and inclusiveness in Open Science.
-
-As the graduates, mentors, and hosts of various Mozilla Open Leaders cohorts, we have gained expertise in the technical and culture track. Furthermore, we participate in a wide range of activities in different international communities of practice in the life sciences: ELIXIR (European bioinformatics network), Galaxy, The Carpentries, Software Sustainability Institute (SSI), Open Bioinformatics Foundation (OBF), and Mozilla.
-
-## What do we need?
-
-**You!** In whatever way you can help.
-
-We need expertise in open-science, training, mentoring, communication. We'd love your feedback along the way, and of course.
-
 ## Get involved
-
-If you think you can help in any of the areas listed above (and we bet you can)
-or in any of the many areas that we haven't yet thought of (and here we're sure
-you can) then please check out [our contributors' guidelines](CONTRIBUTING.md)
-and our [roadmap](roadmap.md).
 
 Please note that it's very important to us that we maintain a positive and
 supportive environment for everyone who wants to participate. When you join us
@@ -142,7 +114,7 @@ Add the person to their corresponding list to be visible on the website:
 
 Add many people in a row to `_data/people.yaml`:
 
-1. Create a CSV file with at least the following columns (named this way): 
+1. Create a CSV file with at least the following columns (named this way):
    - `First name`
    - `Last name`
    - `Email`
@@ -193,7 +165,7 @@ The schedule displayed in a cohort page is automatically generated from a file `
 In this file, for each week, it is listed the timeframe and the different calls planned. For each call, several information are given:
 - `type`: `Mentor-Mentee`, `Cohort`, `Mentors` or `Coworking`
 - `duration` in min
-- `title` 
+- `title`
 - `date` in the format `Month Day, Year`
 - `time` in the format '14:00' and for Berlin time
 - `calendar-event`: link to calendar event
