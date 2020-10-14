@@ -11,9 +11,6 @@ url: https://openscience-delft.org
 collections:
   posts:
     permalink: /posts/:year/:month/:day/:title/
-  ols-2:
-    permalink: /ols-2/:path/
-    output: true
 
 includes_dir: .
 
