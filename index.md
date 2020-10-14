@@ -3,9 +3,9 @@ layout: page
 title: Open Science Community Delft
 image: /images/about.jpg
 photos:
-  name: Bérénice Batut
-  license: CC BY-SA 4.0
-  url: https://flic.kr/p/2gHNtNq
+  name: David Pisnoy
+  license: https://unsplash.com/license
+  url: https://unsplash.com/photos/46juD4zY1XA
 ---
 
 The Open Science Community Delft is a *some definition of what this community is*.

@@ -4,7 +4,7 @@ This is the online home of the Open Science Community Delft, officially launched
 
 The website is forked from the awesome [Open Life Science programme website](https://open-life-science.github.io) - the programme is led by 3 of the best people in the world, co-created by a beautiful community.
 
-We're in the process of adapting this site for our community - please see below on how *you* can help out. We ask for your patience as we iron out all the glitches and stitches. 
+We're in the process of adapting this site for our community - please see below on how *you* can help out. We ask for your patience as we iron out all the glitches and stitches.
 
 ## Welcome!
 
@@ -86,33 +86,32 @@ To create a new blog post:
 4. Add content of the post in the file in Markdown
 3. Add images in `images/posts/`
 
-## Add someone as mentor, expert or organizer
+## Add someone as member
 
 Add someone to the list of people:
 
 1. Open the `_data/people.yaml` file
-2. Create a new entry there (using the GitHub id, or firstname-lastname if no GitHub id) following the alphabetical order
+2. Create a new entry there (using Lastname-Firstname) following the alphabetical order
 3. Fill in information using the tags:
-    - `first-name` (*mandatory*)
-    - `last-name` (*mandatory*)
-    - `twitter`
-    - `email`
-    - `website`
-    - `gitter`
-    - `orcid`
-    - `affiliation`
-    - `country` (*mandatory*)
-    - `pronouns`
-    - `expertise`
-    - `bio`
+  - `first-name` (*mandatory*)
+  - `last-name` (*mandatory*)
+  - `photo`
+  - `position`
+  - `faculty` (*mandatory*)
+  - `department`
+  - `twitter`
+  - `email`
+  - `website`
+  - `gitter`
+  - `orcid`
+  - `linkedin`
+  - `researchgate`
+  - `expertise`
+  - `motivation`
 
-Add the person to their corresponding list to be visible on the website:
-- If they are a participant for a cohort, add their GitHub id with their project to `_data/ols-n-projects.yaml`
-- If they are a potential mentor for a cohort, add their GitHub id in the `_data/ols-n-metadata.yaml`
-- If they are an expert for a cohort, add their GitHub id in the `_data/ols-n-metadata.yaml`
-- If they are a speaker for a cohort, add their GitHub id with their talk details in `_data/ols-n-schedule.yaml`
+Add the person to their corresponding faculty list to be visible on the website, on `data/members-metadata.yaml`.
 
-Add many people in a row to `_data/people.yaml`:
+Add many people in a row to `_data/people.yaml`: (the following set of instruction is not up to date and needs amending)
 
 1. Create a CSV file with at least the following columns (named this way):
    - `First name`
@@ -147,36 +146,14 @@ Add many people in a row to `_data/people.yaml`:
    $ python bin/extract-people.py -i <path to csv file>
    ```
 
-## Add a partner/sponsor
+## List a new event
 
-1. Open the `_data/partners.yaml` file
-2. Create a new entry there (using the name in lowercase, with spaces replaced by `-`) following an alphabetical order
-3. Fill in information using the tags:
-    - `name`
-    - `website`
-    - `description`
-4. Add a logo (if possible) named as the entry in `images/partners` folder
-5. Add the path to the logo in `_data/partners.yaml` using `logo` tag
-
-## Update schedule for a cohort
-
-The schedule displayed in a cohort page is automatically generated from a file `_data/ols-n-schedule.yaml`.
+The event calendar displayed is automatically generated from a file `_data/events.yaml`.
 
 In this file, for each week, it is listed the timeframe and the different calls planned. For each call, several information are given:
-- `type`: `Mentor-Mentee`, `Cohort`, `Mentors` or `Coworking`
-- `duration` in min
-- `title`
-- `date` in the format `Month Day, Year`
-- `time` in the format '14:00' and for Berlin time
-- `calendar-event`: link to calendar event
-- `agenda`: tldr
-- `notes`: link to notes
-- `recording`: link to recording
-- `content` with details of the content written in Markdown
-- `before` with tasks to do before as a list written in Markdown
-- `after` with tasks to do after as a list written in Markdown
-- `resources`: list of useful resources with for each of them:
-   - `type`: `slides`, `document`, or `external-link`
-   - `title`
-   - `speaker`: username in `_data/people.yaml`, if slides
-   - `link`
+title:
+
+- `date-time`: string, e.g. `"December 1, 2020, 5-7pm"`
+- `location`: string, e.g. `zoom`
+- `content`: a short description of the event, markdown can be 20used
+- `website`: a link to the event website
