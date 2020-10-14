@@ -30,16 +30,13 @@
           {% if user.github != false %}
           <a href="https://github.com/{{ username }}"><i class="fab fa-github"></i></a>
           {% endif %}
-          {% if user.gitter %}
-          <a href="https://gitter.im/{{ user.gitter }}"><i class="fas fa-comments"></i></a>
-          {% endif %}
           {% if user.orcid %}
           <a href="https://orcid.org/{{ user.orcid }}"><i class="ai ai-orcid"></i></a>
           {% endif %}
-        
+
           {% if user.affiliation or user.country %}
             <br>
-            <i class="fas fa-map-marker-alt"></i> 
+            <i class="fas fa-map-marker-alt"></i>
             {% assign delim = '' %}
             {% if user.affiliation %}
             {{ user.affiliation }}
@@ -60,7 +57,7 @@
     {% endif %}
 
     <div class="people-description">
-      {% if user.bio %}      
+      {% if user.bio %}
       <p class="people-description-question">
         <a class="card-toggle">
           More about {{ user.first-name }}

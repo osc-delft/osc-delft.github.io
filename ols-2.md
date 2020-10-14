@@ -92,7 +92,6 @@ At the end of the program, our participants will be able to:
 
 OLS's second cohort (OLS-2) will be conducted from September 2020 until December 2020.
 
-{% include _includes/ols-2-timeline.md %}
 
 
 
