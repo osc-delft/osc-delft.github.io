@@ -3,7 +3,7 @@ layout: posts
 title: Our stories
 image: /images/posts.jpg
 photos:
-  name: electricnude
-  license: CC BY-SA 2.0
-  url: https://flic.kr/p/5osrWQ
+  name: Julia Joppien
+  license: https://unsplash.com/license
+  url: https://unsplash.com/photos/-3wygakaeQc
 ---
