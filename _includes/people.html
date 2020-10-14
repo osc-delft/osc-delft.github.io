@@ -2,11 +2,11 @@
   <div class="card-content">
     <div class="media">
       <div class="media-left people-card-avatar">
-        <figure class="image is-64x64">
+        <figure class="image is-128x128">
           <img
-            class="is-rounded"
-            src="https://avatars.githubusercontent.com/{{ username }}"
-            alt="The GitHub avatar of {{ user.name }}"
+            class="is-2by3"
+            src="{{user.photo}}"
+            alt="The photo of {{ user.first-name }} {{user.last-name}}"
           />
         </figure>
       </div>
@@ -14,24 +14,32 @@
         <p class="title is-4">{{ user.first-name }} {{ user.last-name }}</p>
 
         <p class="is-6">
-          {% if user.pronouns %}
-          Pronouns: {{ user.pronouns }}<br>
+          {{user.position}}<br>
+          {{user.faculty}}<br>
+          {% if user.department %}
+          Department: {{user.department}}<br>
           {% endif %}
 
-          {% if user.twitter %}
-          <a class="people-card-meta-twitter" href="https://twitter.com/{{ user.twitter }}"><i class="fab fa-twitter"></i> @{{ user.twitter }}</a><br>
+          {% if user.website %}
+          <a href="{{ user.website }}"><i class="fas fa-globe"></i></a>
           {% endif %}
           {% if user.email %}
           <a href="mailto:{{ user.email }}"><i class="far fa-envelope"></i></a>
           {% endif %}
-          {% if user.website %}
-          <a href="{{ user.website }}"><i class="fas fa-globe"></i></a>
+          {% if user.twitter %}
+          <a href="https://twitter.com/{{ user.twitter }}"><i class="fab fa-twitter"></i></a>
           {% endif %}
-          {% if user.github != false %}
+          {% if user.github %}
           <a href="https://github.com/{{ username }}"><i class="fab fa-github"></i></a>
           {% endif %}
           {% if user.orcid %}
           <a href="https://orcid.org/{{ user.orcid }}"><i class="ai ai-orcid"></i></a>
+          {% endif %}
+          {% if user.linkedin %}
+          <a href="{{user.linkedin}}"><i class="fab fa-linkedin-in"></i></a>
+          {% endif %}
+          {% if user.researchgate %}
+          <a href="{{user.researchgate }}"><i class="ai ai-researchgate"></i></a>
           {% endif %}
 
           {% if user.affiliation or user.country %}
@@ -57,7 +65,7 @@
     {% endif %}
 
     <div class="people-description">
-      {% if user.bio %}
+      {% if user.motivation %}
       <p class="people-description-question">
         <a class="card-toggle">
           More about {{ user.first-name }}
@@ -65,7 +73,7 @@
         </a>
       </p>
       <div class="content is-hidden">
-        {{ user.bio | markdownify }}
+        {{ user.motivation | markdownify }}
       </div>
       {% endif %}
     </div>

@@ -27,7 +27,7 @@ If you would like to join the community, please fill in the form here - our comm
 {% endfor %}
 </div>
 
-# Civil Engineering &amp; Geosciences
+# Civil Engineering & Geosciences (CEG)
 <div class="people">
 {% for entry in metadata.ceg %}
     {% assign username = entry %}

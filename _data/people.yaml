@@ -6,6 +6,7 @@
 #
 # first-name:
 # last-name:
+# photo: URL to photo
 # position: PhD candidate, assistant professor, etc
 # faculty:
 # department:
@@ -25,6 +26,7 @@
 Pini-Matteo:
   first-name: Matteo
   last-name: Pini
+  photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/m.pini_photo.jpg
   position: Assistant Professor
   faculty: Faculty of Aerospace Engineering
   department: Aerodynamics, Wind Energy, Flight Performance and Propulsion
@@ -36,8 +38,9 @@ Pini-Matteo:
   motivation: In applied sciences like engineering it is becoming increasingly essential to rely on large datasets to translate fundamental knowledge into models that can eventually be utilized by industry to drive innovation. I firmly believe that the availability of accessible data along with open-source software will play a major role to close the gap between academic research and actual industry practices. My involvement in the Data Champions initiative is aimed at bringing and sharing the perspective of a researcher deeply involved in the development and deployment of open-software to enable disruptive innovations in the propulsion and power sector.
 
 Schmehl-Roland:
-  first-name: Roland_Schmeh
+  first-name: Roland
   last-name: Schmehl
+  photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/9/0/csm_roland%20schmell_c774b95dcc.jpg
   position: Associate Professor/Member advisory board
   faculty: Faculty of Aerospace Engineering
   department: AWEP
@@ -55,6 +58,7 @@ Proactive sharing of high quality research data is an important ingredient of an
 Armstrong-Lora:
   first-name: Lora
   last-name: Armstrong
+  photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/4/6/csm_LArmstrong_data_champions%20%281%29_ecf70aba29.jpg
   position: Data manager
   faculty: Civil Engineering &amp; Geosciences
   department: Geoscience &amp; Engineering
@@ -64,4 +68,3 @@ Armstrong-Lora:
   github: LoraSArmstrong
   expertise: 'Research data management, R &amp; RStudio, version control with Git/Github'
   motivation: 'Enabling researchers to carry out reproducible research, improving data workflows and management during research, promoting open science'
-  

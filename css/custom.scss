@@ -149,7 +149,7 @@ $link-active: $link-hover;
   @include tablet() {
     display: grid;
     grid-gap: 2em;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
   }
 
   .title.is-4 {
@@ -181,7 +181,6 @@ $link-active: $link-hover;
 
 .people-badge {
   height: 2em;
-  border-radius: 50%;
   margin-left: 0.25em;
   margin-right: 0.25em;
 }
