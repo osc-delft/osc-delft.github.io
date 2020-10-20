@@ -2,19 +2,21 @@
 
 :+1::tada: First of all, thanks for taking the time to contribute! :tada::+1:
 
-You can make this project better by contributing to it. You can report mistakes
+You can make this website better by contributing to it. You can report mistakes
 and errors, create more content, etc. Whatever is your background, there is a
-way to contribute: via the GitHub website, via command-line or even without
-dealing with GitHub.
+way to contribute: via the GitHub website or via command-line, without writing a line of code!
 
-We will address your issues and/or assess your change proposal as promptly as we
-can, and help you become a member of our community.
+## I'm new to GitHub - I'm afraid I'm going to mess things up! 
+The admins of this project are pretty new to GitHub too! Here are some resources that helped us get our heads around the project:
+- [A primer on GitHub issues](https://guides.github.com/features/issues/)
+- [Editing files in your GitHub repository](https://docs.github.com/en/free-pro-team@latest/github/managing-files-in-a-repository/editing-files-in-your-repository)
+- [A 10-min guide to getting started on GitHub](https://guides.github.com/activities/hello-world/)
+
+And, we will work with you to address your issues and/or assess your change proposal, and help you become a member of our community.
 
 ## How can I report mistakes or errors?
 
-The easiest way to start contributing is to [file an issue](https://github.com/open-life-science/open-life-science.github.io/issues/new) to tell
-us about a problem such as a typo, spelling mistake, or a factual error. You can
-then introduce yourself and meet some of our community members.
+The easiest way to start contributing is to [file an issue](https://github.com/osc-delft/osc-delft.github.io/issues/new) to tell us about a problem such as a typo, spelling mistake, or a factual error. 
 
 ## How can I get started with contributing?
 
@@ -23,13 +25,13 @@ You can help us improve it and get acknowledged for your contributions.
 
 Here are a few ways you can get started with contributing to this program.
 
-1. Help us address one of the [issues currently open in our repository](https://github.com/open-life-science/open-life-science.github.io/issues).
-2. [Create a new issue](https://github.com/open-life-science/open-life-science.github.io/issues/new) to suggest changes/improvements on our website/program.
+1. Help us address one of the [issues currently open in our repository](https://github.com/osc-delft/osc-delft.github.io/issues).
+   - Issues labelled "Good first issues" are good starting points!
+2. [Create a new issue](https://github.com/osc-delft/osc-delft.github.io/issues/new) to suggest changes/improvements on our website/program.
 3. Send a pull request to correct typo, or fill any gap that you see on our website.
-4. Write about your [Mozilla Open Leader project and share with our participants](https://openlifesci.org/posts).
-5. Contribute your blog posts that could be relevant for our participants. You can [check out our the stories](https://openlifesci.org/posts) to get an idea of what we post there.
+4. Contribute a blog post that could be of interest to our community members, e.g. about your experience in the OSC Delft community, or open science. See (https://osc-delft.github.io/posts).
 
-Do you have other ideas for contributions? Contact the organisers (team@openlifesci.org).
+Do you have other ideas for contributions? Contact the community coordinator.
 
 ## How can I contribute in "advanced" mode?
 
