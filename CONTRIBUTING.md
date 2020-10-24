@@ -20,7 +20,7 @@ The easiest way to start contributing is to [file an issue](https://github.com/o
 
 ## How can I get started with contributing?
 
-This repository store the sources for the website.
+This repository stores the sources for the website.
 You can help us improve it and get acknowledged for your contributions.
 
 Here are a few ways you can get started with contributing to this program.
@@ -29,7 +29,7 @@ Here are a few ways you can get started with contributing to this program.
    - Issues labelled "Good first issues" are good starting points!
 2. [Create a new issue](https://github.com/osc-delft/osc-delft.github.io/issues/new) to suggest changes/improvements on our website/program.
 3. Send a pull request to correct typo, or fill any gap that you see on our website.
-4. Contribute a blog post that could be of interest to our community members, e.g. about your experience in the OSC Delft community, or open science. See (https://osc-delft.github.io/posts).
+4. Contribute a blog post that could be of interest to our community members, e.g. about your experience in the OSC Delft community, or open science. See [Stories](https://osc-delft.github.io/posts).
 
 Do you have other ideas for contributions? Contact the community coordinator.
 
@@ -58,5 +58,5 @@ Requests:
 
 ## What can I do to help the project?
 
-In issues, you will find lists of issues to fix and features to implement. Feel
+In [issues](https://github.com/osc-delft/osc-delft.github.io/issues), you will find lists of issues to fix and features to implement. Feel
 free to work on them!
