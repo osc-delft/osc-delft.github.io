@@ -19,7 +19,7 @@ If you would like to join the community, please fill in the form here - our comm
 
 <!-- Any modification of the content should be done in the _data/ols-2-projects.yaml file -->
 
-<div class="people">
+<div id = "AE" class="people">
 {% for entry in metadata.ae %}
     {% assign username = entry %}
     {% assign user = people[username] %}
@@ -28,7 +28,7 @@ If you would like to join the community, please fill in the form here - our comm
 </div>
 
 # Civil Engineering & Geosciences (CEG)
-<div class="people">
+<div id="CEG" class="people">
 {% for entry in metadata.ceg %}
     {% assign username = entry %}
     {% assign user = people[username] %}
