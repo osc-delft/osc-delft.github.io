@@ -1,4 +1,4 @@
-CONDA_ENV = ocs-delft
+CONDA_ENV = ocs-delft-website
 
 CONDA = $(shell which conda)
 ifeq ($(CONDA),)
