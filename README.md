@@ -132,7 +132,7 @@ Add many people in a row to `_data/people.yaml`: (the following set of instructi
 3. Activate the conda environment
 
    ```
-   $ source activate open-life-science-website
+   $ source activate osc-delft-website
    ```
 
    Or alternatively, get locally:
