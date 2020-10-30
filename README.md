@@ -34,10 +34,10 @@ In the sequel, we assume you use miniconda.
 2. Clone this GitHub repository:
 
    ```
-   $ git clone https://github.com/open-life-science/open-life-science.github.io.git
+   $ git clone https://github.com/osc-delft/osc-delft.github.io.git
    ```
 
-3. Navigate to the `open-life-science.github.io/` folder with `cd`
+3. Navigate to the `osc-delft.github.io/` folder with `cd`
 4. Set up the conda environment:
 
    ```
