@@ -59,7 +59,7 @@ instructions on this page: https://conda.io/docs/user-guide/install/index.html
 7. Open the website in your favorite browser at:
    [http://127.0.0.1:4000/](http://127.0.0.1:4000/)
 
-## Run the link checks
+### Run the link checks
 
 To avoid dead or wrong links, run the link checkers:
 
@@ -71,11 +71,11 @@ $ make check-html
 
 We asume you have a working installation of [Git for Windows](https://git-scm.com/downloads)
 
-1. Download and install the latest version of `Ruby+Devkit` for Windows. Keep all the default options. Mind about `x64` or `x86`: https://rubyinstaller.org/downloads. Put attention to where the location of the root directory. For example, `C:\Ruby27-x64`
+1. Download and install the latest version of [Ruby+Devkit for Windows](https://rubyinstaller.org/downloads). Mind about a *32-bit*  or *34-bit*.   Keep all the default options. Put attention to where the location of the Ruby's root directory is located. For example, `C:\Ruby27-x64`
 
 2. When the installation is done a *command prompt*  will pop up. Type `3` and press enter. This will install the Ruby's toolchain. When done, press enter once more.
-
-3. Install `Jekyll` and `Bundler`. On the powershell run:
+hel
+3. Install `Jekyll` and `Bundler`. On the same *command prompt*  run:
 
    ```
    > gem install jekyll bundler
@@ -94,11 +94,11 @@ We asume you have a working installation of [Git for Windows](https://git-scm.co
    > bundle install
    ```
 
-6. The previous command will install all dependencies except for the `libcurl` library. We will instal the library manually. Donwnload [curl for Windows](https://curl.haxx.se/windows/), choose a version that fits your OS.
+6. The previous command will install all dependencies except for the `libcurl` library. We will install the library manually. Donwnload [curl for Windows](https://curl.haxx.se/windows/), choose a version that fits your OS.
 
-7. Unzip the file and look for the `libcurl.dll` file in the `.\bin` directory. If useing the *64-bit version*, the file is called `libcurl-x64.dll`, remane the file to `libcurl.dll`
+7. Unzip the file and look for the `libcurl.dll` file in the `.\bin` directory. If using the *64-bit version*, the file is called `libcurl-x64.dll`, remane the file to `libcurl.dll`
 
-8. Copy the `libcurl.dll` file to `\bin` folter in the Ruby's root directory. 
+8. Copy the `libcurl.dll` file to `\bin` folder in the Ruby's root directory. 
 
 9. Compile and run the local server:
 
@@ -106,6 +106,8 @@ We asume you have a working installation of [Git for Windows](https://git-scm.co
 bundle exec jekyll serve
 ```
 
+10. Open the website in your favorite browser at:
+   [http://127.0.0.1:4000/](http://127.0.0.1:4000)
 
 ## Create a new blog post
 
