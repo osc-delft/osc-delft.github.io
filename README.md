@@ -28,7 +28,7 @@ you know how to install [Bundler](https://bundler.io/) and
 that can install all these tools for you. You can install it by following the
 instructions on this page: https://conda.io/docs/user-guide/install/index.html
 
-In the sequel, we assume you use miniconda.
+### Using miniconda
 
 1. Open a terminal
 2. Clone this GitHub repository:
@@ -66,6 +66,46 @@ To avoid dead or wrong links, run the link checkers:
 ```
 $ make check-html
 ```
+
+### Using Ruby on Windows
+
+We asume you have a working installation of [Git for Windows](https://git-scm.com/downloads)
+
+1. Download and install the latest version of `Ruby+Devkit` for Windows. Keep all the default options. Mind about `x64` or `x86`: https://rubyinstaller.org/downloads. Put attention to where the location of the root directory. For example, `C:\Ruby27-x64`
+
+2. When the installation is done a *command prompt*  will pop up. Type `3` and press enter. This will install the Ruby's toolchain. When done, press enter once more.
+
+3. Install `Jekyll` and `Bundler`. On the powershell run:
+
+   ```
+   > gem install jekyll bundler
+   ```
+
+4. Use `git` to clone the repository from the Ruby command prompt. 
+
+   ```
+   > git clone https://github.com/osc-delft/osc-delft.github.io.git
+   ```
+
+5. Got to the root of the repository and install the dependencies
+
+   ```
+   > cd ./osc-delft.github.io
+   > bundle install
+   ```
+
+6. The previous command will install all dependencies except for the `libcurl` library. We will instal the library manually. Donwnload [curl for Windows](https://curl.haxx.se/windows/), choose a version that fits your OS.
+
+7. Unzip the file and look for the `libcurl.dll` file in the `.\bin` directory. If useing the *64-bit version*, the file is called `libcurl-x64.dll`, remane the file to `libcurl.dll`
+
+8. Copy the `libcurl.dll` file to `\bin` folter in the Ruby's root directory. 
+
+9. Compile and run the local server:
+
+```
+bundle exec jekyll serve
+```
+
 
 ## Create a new blog post
 
