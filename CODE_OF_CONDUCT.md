@@ -1,101 +1,38 @@
-As a community we welcome everyone, and encourage a friendly and positive environment.
+The Open Science Community Delft (OSCD) is part of the International Network of Open Science and Scholarship Communities (INOSC). While every community is unique, we share a set of Guiding Principles and adhere to a Code of Conduct. Please find version 1.0 below.
 
-This code of conduct outlines our expectations for participants within the
-community, as well as steps to reporting unacceptable behavior. We are committed
-to providing a welcoming and inspiring community for all and expect our code of
-conduct to be honored. Anyone who violates this code of conduct may be banned
-from the community.
+# Guiding Principles
+- Open Science/Scholarship Communities (OSCs) are bottom-up platforms by and for researchers to exchange knowledge and knowhow on open science practices
+- OSCs are inclusive
+  - Researchers are the target audience of OSCs, but students, researcher supporters, and others thatare interested in (conducting) research are also welcome to join the community
+  - No prior knowledge is required to be part of the community, nor are members in any way required to commit to certain open science/scholarship practices
+- OSCs organize, promote, and facilitate open science/scholarship events to (1) learn about and discuss openscience/scholarship practices, (2) share open science/scholarship knowledge, and (3) build professional networks.
+  - Events are open to both members and non-members, and are free-of-charge, if possible.
+  - Attendees and organizers of events organized by OSCs should adhere to the Code of Conduct(see below)
+- OSCs promote critical discussions of pro’s and con’s of open science/scholarship practices. We refrain from being normative or condescending, and do not tell others what to do. Respect for each others’ workflows and decisions in this regard is critical.
 
-Our open source community strives to:
+NB If there is no local OSC that you can join, we encourage you to start your own OSC by following [our Starter Kit](https://osf.io/7VEZ3/).
 
-- **Be friendly and patient.**
+# Code of Conduct
+Open Science/Scholarship Communities (OSCs) organize, promote, and facilitate open science events to enable allparticipants, members and non-members, to learn about, share, and discuss open science practices. The purpose of this Code of Conduct (CoC) is to enable an environment in which diverse individuals can collaborate and interact inmutual respect. We recognize a shared responsibility to create and maintain that environment for the benefit of all.Some behaviors, therefore, are specifically prohibited:
+- Discriminating, racist, intimidating, harassing, lewd, demeaning, bullying, stalking, or threatening speech oractions
+- Any real or implied threat of physical harm
+- Unwelcome sexual attention
+- Unwelcome physical contact
+- Sustained disruption of speakers or events (verbally or physically)
+- Retaliation against an individual for reporting harassment or other unacceptable behaviors
+- Retaliation against an individual for participating in the investigation of a report of harassment or otherunacceptable behaviors
+- Advocating or encouraging any of the above behaviors
+- Falsely reporting harassment or other unacceptable behaviors
+Critical examination of beliefs and viewpoints does not, by itself, constitute hostile conduct or harassment. Similarly,use of sexual imagery or language in the context of a professional discussion might not constitute hostile conduct orharassment if necessary to the topic of discussion.
 
-- **Be welcoming**: We strive to be a community that welcomes and supports
-  people of all backgrounds and identities. This includes, but is not limited to
-  members of any race, ethnicity, culture, national origin, colour, immigration
-  status, social and economic class, educational level, sex, sexual orientation,
-  gender identity and expression, age, size, family status, political belief,
-  religion, and mental and physical ability.
+## Reporting
+If someone makes you or anyone else feel unsafe or unwelcome, or if you believe a harassment problem exists,please report it as soon as possible to the Coordinator of OSCD,Emmy Tsang, at f.tsang@tudelft.nl, either in person or electronically (with the option to remain anonymous). If the person you should report to is the target of the complaint, you may contact the [TU Delft External Confidential Advisor](https://www.tudelft.nl/en/about-tu-delft/strategy/integrity-policy/social-integrity/confidential-advisor-undesirable-behavior/). The target of the complaint will not beinvolved in handling or resolving the incident. Every code of conduct violation report will be treated with seriousness and care.
 
-- **Be considerate**: Your work will be used by other people, and you in turn
-  will depend on the work of others. Any decision you take will affect users and
-  colleagues, and you should take those consequences into account when making
-  decisions. Remember that we're a world-wide community, so you might not be
-  communicating in someone else's primary language.
+## Enforcement
+Participants who are asked to stop any unacceptable behavior are expected to comply immediately. Community Coordinator(s) and event organizers retain the right to take appropriate actions, including: (i) mediation betweencomplainant and alleged perpetrator(s), to reach an amicable resolution; (ii) issue a verbal warning; (iii) expel the offender(s) from the event (particularly if a participant's immediate safety is threatened); and/or, (iv) expel the offender(s) from the OSC. Community Coordinator(s) and event organizers will also discuss with the complainantwhether they wish to contact the confidential advisor(s) at the affiliated University. The alleged perpetrator(s) will be notified of a complaint as soon as possible, and be given a chance to respond to the complaint. 
 
-- **Be respectful**: Not all of us will agree all the time, but disagreement is
-  no excuse for poor behavior and poor manners. We might all experience some
-  frustration now and then, but we cannot allow that frustration to turn into a
-  personal attack. It’s important to remember that a community where people feel
-  uncomfortable or threatened is not a productive one.
+# Local addendum to the Guiding Principles and/or Code of Conduct
+In addition to this Code of Conduct, we expect all OSCD members to adhere to the [TU Delft Code of Conduct](https://www.tudelft.nl/en/about-tu-delft/strategy/integrity-policy/tu-delft-code-of-conduct/) and the [TU Delft Regulations for Complaints Concerning Undesirable Behaviour](https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Integriteitsbeleid/TU%20Delft%20Regulations%20for%20Complaints%20Concerning%20Undesirable%20Behaviour.pdf).
 
-- **Be careful in the words that we choose**: We are a community of
-  professionals, and we conduct ourselves professionally. Be kind to others. Do
-  not insult or put down other participants. Harassment and other exclusionary
-  behavior aren't acceptable. This includes, but is not limited to: Violent
-  threats or language directed against another person, Discriminatory jokes and
-  language, Posting sexually explicit or violent material, Posting (or
-  threatening to post) other people’s personally identifying information
-  (“doxing”), Personal insults, especially those using racist or sexist terms,
-  Unwelcome sexual attention, Advocating for, or encouraging, any of the above
-  behavior, Repeated harassment of others. In general, if someone asks you to
-  stop, then stop.
-
-- **Try to understand why we disagree**: Disagreements, both social and
-  technical, happen all the time. It is important that we resolve disagreements
-  and differing views constructively. Remember that we’re different. Diversity
-  contributes to the strength of our community, which is composed of people from
-  a wide range of backgrounds. Different people have different perspectives on
-  issues. Being unable to understand why someone holds a viewpoint doesn’t mean
-  that they’re wrong. Don’t forget that it is human to err and blaming each
-  other doesn’t get us anywhere. Instead, focus on helping to resolve issues and
-  learning from mistakes.
-
-### Diversity Statement
-
-We encourage everyone to participate and are committed to building a community
-for all. Although we will fail at times, we seek to treat everyone both as
-fairly and equally as possible. Whenever a participant has made a mistake, we
-expect them to take responsibility for it. If someone has been harmed or
-offended, it is our responsibility to listen carefully and respectfully, and do
-our best to right the wrong.
-
-Although this list cannot be exhaustive, we explicitly honor diversity in age,
-gender, gender identity or expression, culture, ethnicity, language, national
-origin, political beliefs, profession, race, religion, sexual orientation,
-socioeconomic status, and technical ability. We will not tolerate discrimination
-based on any of the protected characteristics above, including participants with
-disabilities.
-
-### Reporting Issues
-
-If you experience or witness unacceptable behavior, or have any other concerns,
-please report it by contacting the organisers - Bérénice, Malvika and Yo.
-(team@openlifesci.org).
-
-To report an issue involving one of the members, please email one of the members individually
-(berenice@openlifesci.org, malvika@openlifesci.org, yo@openlifesci.org).
-
-All reports will be handled with discretion. In your report please include:
-
-- Your contact information.
-
-- Names (real, nicknames, or pseudonyms) of any individuals involved. If there
-  are additional witnesses, please include them as well. Your account of what
-  occurred, and if you believe the incident is ongoing. If there is a publicly
-  available record (e.g. a mailing list archive or a public IRC logger), please
-  include a link.
-
-- Any additional information that may be helpful.
-
-After filing a report, a representative will contact you personally, review the
-incident, follow up with any additional questions, and make a decision as to how
-to respond. If the person who is harassing you is part of the response team,
-they will recuse themselves from handling your incident. If the complaint
-originates from a member of the response team, it will be handled by a different
-member of the response team. We will respect confidentiality requests for the
-purpose of protecting victims of abuse.
-
-### Attribution & Acknowledgements
-
-This code of conduct is based on the Open Code of Conduct from the TODOGroup.
+# References
+This Code of Conduct was adapted from the following sources: [Society for the Improvement of Psychological Science code of conduct](https://improvingpsych.org/sipsinaction/code/), [Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), [American Library Association code of conduct](http://alamw14.ala.org/statement-of-appropriate-conduct), [Community Covenant v1.0](https://community-covenant.net/version/1/0/).
