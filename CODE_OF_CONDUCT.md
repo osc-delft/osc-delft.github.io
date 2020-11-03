@@ -1,3 +1,5 @@
+[The original text of this CoC is accessible here: https://osf.io/6gsye/]
+
 The Open Science Community Delft (OSCD) is part of the International Network of Open Science and Scholarship Communities (INOSC). While every community is unique, we share a set of Guiding Principles and adhere to a Code of Conduct. Please find version 1.0 below.
 
 # Guiding Principles
