@@ -1,11 +1,10 @@
 # List of people (alphabetical order)
 #
-# Collection names should be equal to Lastname-Firstname
+# Collection names should be equal to name with all spaces replaced by hyphens
 #
 # List of tags for people
 #
-# first-name:
-# last-name:
+# name: #instead of firstname and lastname seperate to make it a bit more inclusive
 # photo: URL to photo
 # position: PhD candidate, assistant professor, etc
 # faculty:
@@ -23,9 +22,8 @@
 #
 # Mandatory: first-name, last-name, faculty
 ---
-Pini-Matteo:
-  first-name: Matteo
-  last-name: Pini
+Matteo-Pini:
+  name: Matteo Pini
   photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/m.pini_photo.jpg
   position: Assistant Professor
   faculty: Faculty of Aerospace Engineering
@@ -37,9 +35,8 @@ Pini-Matteo:
   expertise: Turbomachinery, CFD-based automated design, Physics of complex fluids
   motivation: In applied sciences like engineering it is becoming increasingly essential to rely on large datasets to translate fundamental knowledge into models that can eventually be utilized by industry to drive innovation. I firmly believe that the availability of accessible data along with open-source software will play a major role to close the gap between academic research and actual industry practices. My involvement in the Data Champions initiative is aimed at bringing and sharing the perspective of a researcher deeply involved in the development and deployment of open-software to enable disruptive innovations in the propulsion and power sector.
 
-Schmehl-Roland:
-  first-name: Roland
-  last-name: Schmehl
+Roland-Schmehl:
+  name: Roland Schmehl
   photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/9/0/csm_roland%20schmell_c774b95dcc.jpg
   position: Associate Professor/Member advisory board
   faculty: Faculty of Aerospace Engineering
@@ -55,9 +52,8 @@ Schmehl-Roland:
 
 Proactive sharing of high quality research data is an important ingredient of an efficient networked R&D road map. Especially for emerging technologies a good management & sharing strategy can really make a difference and contribute to a rapid advancement of the research agenda. For example, data sharing can enable researchers of different research teams to cross-validate their modeling frameworks and thus more rapidly improve the quality of the models. I am convinced that industry will ultimately benefit from such high quality modeling tools. From 2015 until 2018 I have coordinated the EU Horizon 2020 doctoral training network AWESCO, with a total of 16 PhD researchers at 12 European partner institutions, and as part of this project we had to develop, step-by-step a data management and sharing strategy. Since the project included not only academic partners but also industry, the sharing aspect especially was not an easy task. But we managed and successfully concluded the project with several collaborative research streams that produced and still continue to produce important results for the commercial development teams. As a data champion I would like to share my experiences with my fellow researchers.'
 
-Armstrong-Lora:
-  first-name: Lora
-  last-name: Armstrong
+Lora-Armstrong:
+  name: Lora Armstrong
   photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/4/6/csm_LArmstrong_data_champions%20%281%29_ecf70aba29.jpg
   position: Data manager
   faculty: Civil Engineering &amp; Geosciences
