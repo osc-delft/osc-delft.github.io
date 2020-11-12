@@ -59,7 +59,7 @@ instructions on this page: https://conda.io/docs/user-guide/install/index.html
 7. Open the website in your favorite browser at:
    [http://127.0.0.1:4000/](http://127.0.0.1:4000/)
 
-### Run the link checks
+#### Run the link checks
 
 To avoid dead or wrong links, run the link checkers:
 
