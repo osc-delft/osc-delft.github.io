@@ -89,3 +89,21 @@ If you would like to join the community, please fill in the form here - our comm
     {% include _includes/people.html username=username user=user %}
 {% endfor %}
 </div>
+
+# Non-Faculty
+<div id="NF" class="people">
+{% for entry in metadata.other %}
+    {% assign username = entry %}
+    {% assign user = people[username] %}
+    {% include _includes/people.html username=username user=user %}
+{% endfor %}
+</div>
+
+# Alumni
+<div id="Alumni" class="people">
+{% for entry in metadata.alumni %}
+    {% assign username = entry %}
+    {% assign user = people[username] %}
+    {% include _includes/people.html username=username user=user %}
+{% endfor %}
+</div>

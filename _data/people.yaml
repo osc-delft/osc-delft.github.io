@@ -182,7 +182,8 @@ Leila-Inigo-de-la-Cruz:
     faculty: Applied Sciences
     position: PhD Candidate
     department: Bionanoscience
-    motivation: In order to pursue excellence in science , we (the scientists) should be able to communicate/collaborate/work freely among us and the tools we use should not hinder that process. I am motivated to work in a way that allows others to easily collaborate with me, and viceversa. </p> <p class="bodytext">I think this could be a way to validate my workflow with other scientists and to get to know people that strive for excellence in science, in terms of openness, transparency and collaboration.
+    motivation: 'In order to pursue excellence in science , we (the scientists) should be able to communicate/collaborate/work freely among us and the tools we use should not hinder that process. I am motivated to work in a way that allows others to easily collaborate with me, and viceversa.
+    I think this could be a way to validate my workflow with other scientists and to get to know people that strive for excellence in science, in terms of openness, transparency and collaboration.'
     expertise: Functional genetics approaches to experimental evolution, budding yeast polarity network, documentation system centred on the use of open source tools oriented to easy customization and flexible collaboration.&nbsp;
     email: leilaicruz@gmail.com
     website: https://www.tudelft.nl/index.php?id=59822
@@ -800,7 +801,7 @@ Anneke-Zuiderwijk-van-Eijk:
     linkedin: https://www.linkedin.com/in/anneke-zuiderwijk-van-eijk-2a26a623/
     photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/anneke-zuiderwijk.JPG
 
-Robert-Fond:
+Robert-Fonod:
     name: Róbert Fónod
     faculty: Aerospace Engineering
     position: Assistant Professor
@@ -844,3 +845,44 @@ Elena-Zhebel:
     email: e.v.zhebel@tudelft.nl
     linkedin: https://www.linkedin.com/in/dr-elena-zhebel-6947b16/
     photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/0/a/csm_ElenaZhebel_d493344e47.jpg
+
+
+Susan-Branchett:
+  name: Susan Branchett
+  faculty: University Corporate Office, R&D/innovation
+  position: Expert Research Data Innovation/Data Architecture
+  expertise: IT services and Software Development
+  motivation: I would like to join forces with like-minded people to have more campus-wide impact. The Data Stewards rock!
+  email: S.E.Branchett@tudelft.nl
+  orcid: 0000-0002-5972-6813
+  linkedin: https://www.linkedin.com/in/sebranchett/
+  twitter: sebranchett
+  github: sebranchett
+  website: https://www.tudelft.nl/staff/s.e.branchett/
+  photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Branchett.JPG
+
+Amir-Ebrahimi-Fard:
+  name: Amir Ebrahimi Fard
+  faculty: Technology, Policy and Management
+  department: Multi-Actor Systems
+  expertise: Social network data analysis, Machine learning, Anomaly detection, Natural language processing, Digital data collection, Python
+  motivation: 'I believe one of the most important yet missing pieces in the current research landscape is data management. It facilitates and accelerates the research cycle by making the research activities findable, accessible, interoperable, and reusable (FAIR). Despite the significance of FAIR research, making a large university (with thousands of scholars and lots of ongoing research projects) fully FAIR at once might seem infeasible. That is why the role of data champion matters. They can smoothly bridge this gap by promoting data management practises among their colleagues. Besides the raising awareness, being a data champion provides the opportunity of learning about other or most recent data management techniques and practices. From a personal point of view, I am also very much interested in circulating data management tips among computational social scientists due to the recent tendency of both social scientists and scholars from hard disciplines to work on multidisciplinary projects.'
+  email: a.ebrahimifard@tudelft.nl
+  linkedin: https://www.linkedin.com/in/ebrahimifard/
+  twitter: amiref_1991
+  orcid: 0000-0003-4903-8918
+  website: https://www.tudelft.nl/en/tpm/about-the-faculty/departments/multi-actor-systems/people/phd-candidates/a-amir-ebrahimi-fard/
+  photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/AmirFard.jpg
+
+Ashley-Cryan:
+  name: Ashley Cryan
+  faculty: TU Delft Library
+  position: Data manager
+  expertise: data management, data documentation, data storage, DMPonline, version control, FAIR principles, data visualization
+  motivation: 'I am an advocate for Open Science and FAIR data, and want to continue learning about best practices for implementing these ideals in practice.
+I am a Data Manager with the TU Delft Library Research Data Services Team - excited to network with the community and learn more about how I can best serve researchers, staff + students!'
+  email: a.e.cryan@tudelft.nl
+  linkedin: http://www.linkedin.com/in/ashleycryan
+  orcid: 0000-0002-5410-2163
+  website: https://www.tudelft.nl/en/staff/a.e.cryan/
+  photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Ashley-Cryan.jpg
