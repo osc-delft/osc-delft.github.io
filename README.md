@@ -98,7 +98,7 @@ We asume you have a working installation of [Git for Windows](https://git-scm.co
 
 7. Unzip the file and look for the `libcurl.dll` file in the `.\bin` directory. If using the *64-bit version*, the file is called `libcurl-x64.dll`, remane the file to `libcurl.dll`
 
-8. Copy the `libcurl.dll` file to `\bin` folder in the Ruby's root directory. 
+8. Copy the `libcurl.dll` file to the `\bin` folder in the Ruby's root directory. 
 
 9. Compile and run the local server:
 
