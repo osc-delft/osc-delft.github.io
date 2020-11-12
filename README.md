@@ -28,7 +28,7 @@ you know how to install [Bundler](https://bundler.io/) and
 that can install all these tools for you. You can install it by following the
 instructions on this page: https://conda.io/docs/user-guide/install/index.html
 
-### Using miniconda
+### Using miniconda on Linux/MacOS
 
 1. Open a terminal
 2. Clone this GitHub repository:
@@ -71,10 +71,10 @@ $ make check-html
 
 We asume you have a working installation of [Git for Windows](https://git-scm.com/downloads)
 
-1. Download and install the latest version of [Ruby+Devkit for Windows](https://rubyinstaller.org/downloads). Mind about a *32-bit*  or *34-bit*.   Keep all the default options. Put attention to where the location of the Ruby's root directory is located. For example, `C:\Ruby27-x64`
+1. Download and install the latest version of [Ruby+Devkit for Windows](https://rubyinstaller.org/downloads). Mind about a *32-bit*  or *64-bit*.   Keep all the default options. Put attention to where the location of the Ruby's root directory is located. For example, `C:\Ruby27-x64`
 
 2. When the installation is done a *command prompt*  will pop up. Type `3` and press enter. This will install the Ruby's toolchain. When done, press enter once more.
-hel
+
 3. Install `Jekyll` and `Bundler`. On the same *command prompt*  run:
 
    ```
