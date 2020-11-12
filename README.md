@@ -81,7 +81,7 @@ We asume you have a working installation of [Git for Windows](https://git-scm.co
    > gem install jekyll bundler
    ```
 
-4. Use `git` to clone the repository from the Ruby command prompt. 
+4. On the *Ruby command prompt*, Use `git` to clone the repository.
 
    ```
    > git clone https://github.com/osc-delft/osc-delft.github.io.git
