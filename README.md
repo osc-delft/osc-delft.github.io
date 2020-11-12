@@ -28,7 +28,7 @@ you know how to install [Bundler](https://bundler.io/) and
 that can install all these tools for you. You can install it by following the
 instructions on this page: https://conda.io/docs/user-guide/install/index.html
 
-### Using miniconda on Linux/MacOS
+### Using Miniconda on Linux/MacOS
 
 1. Open a terminal
 2. Clone this GitHub repository:
@@ -81,7 +81,7 @@ We asume you have a working installation of [Git for Windows](https://git-scm.co
    > gem install jekyll bundler
    ```
 
-4. On the *Ruby command prompt*, Use `git` to clone the repository.
+4. On the *Ruby command prompt*, use `git` to clone the repository.
 
    ```
    > git clone https://github.com/osc-delft/osc-delft.github.io.git
