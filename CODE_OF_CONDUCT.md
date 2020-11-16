@@ -1,5 +1,7 @@
 [The original text of this CoC is accessible here: https://osf.io/6gsye/]
 
+[This code is currently open to questions/queries from OSCD community members, until November 30. If no queries are received by that date, we will proceed to adopt this as the official OSCD Code of Conduct. Members can email Emmy Tsang (f [dot] tsang [at] tudelft [dot] nl for any queries or concerns.]
+
 The Open Science Community Delft (OSCD) is part of the International Network of Open Science and Scholarship Communities (INOSC). While every community is unique, we share a set of Guiding Principles and adhere to a Code of Conduct. Please find version 1.0 below.
 
 # Guiding Principles
