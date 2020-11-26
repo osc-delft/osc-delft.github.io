@@ -20,8 +20,10 @@ Please do note that we expect everyone to follow our [Code of Conduct]({{ site.g
 
 # What does the community do?
 - We share our experiences and learn from each other through bi-annual meetings and discussions in our Slack space.
-- We help each other out towards working more openly.
-- more points
+- We help each other out towards working more openly, collaboratively, and FAIR-ly, through sharing our knowledge and being open to learning.
+- We create space and resources for community members to drive their own initiatives.
+
+We're actively developing and learning as a community - in other words, we're almost always "work-in-progress", looking for new ideas and input!
 
 # What are the benefits?
 - **Network building**: you will be able to connect with, learn from and collaborate with others interested in open science:
@@ -34,7 +36,7 @@ Please do note that we expect everyone to follow our [Code of Conduct]({{ site.g
 
 # Get involved
 
-Sign up to join the Open Science Community Delft.
+[Sign up](https://forms.office.com/Pages/ResponsePage.aspx?id=TVJuCSlpMECM04q0LeCIe5b6siKuJadBi47i1ux3Gu1UQ1BZV1JJSk9WQlY3MUJHWllJRUpXR0NJSS4u) to join the Open Science Community Delft.
 
 # Code of Conduct
 
