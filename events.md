@@ -12,7 +12,7 @@ photos:
 
 This is a list of events organised by members of the Open Science Community Delft that can be of interest to other members.
 
-If you would like to add an event here, please submit an issue on GitHub using this template.
+If you would like to add an event here, please [submit an issue on GitHub](https://github.com/osc-delft/osc-delft.github.io/issues/new?assignees=&labels=&template=event-listing-submission-template.md&title=Event).
 
 {% for event in schedule %}
 
