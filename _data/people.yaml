@@ -1,11 +1,10 @@
 # List of people (alphabetical order)
 #
-# Collection names should be equal to Lastname-Firstname
+# Collection names should be equal to name with all spaces replaced by hyphens
 #
 # List of tags for people
 #
-# first-name:
-# last-name:
+# name: #instead of firstname and lastname seperate to make it a bit more inclusive
 # photo: URL to photo
 # position: PhD candidate, assistant professor, etc
 # faculty:
@@ -23,26 +22,23 @@
 #
 # Mandatory: first-name, last-name, faculty
 ---
-Pini-Matteo:
-  first-name: Matteo
-  last-name: Pini
+Matteo-Pini:
+  name: Matteo Pini
   photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/m.pini_photo.jpg
   position: Assistant Professor
-  faculty: Faculty of Aerospace Engineering
+  faculty: Aerospace Engineering
   department: Aerodynamics, Wind Energy, Flight Performance and Propulsion
   email: M.Pini@tudelft.nl
   website: https://www.tudelft.nl/staff/m.pini/
   orcid: 0000-0003-4538-3183
-  github: matteopini #this is fake
   expertise: Turbomachinery, CFD-based automated design, Physics of complex fluids
   motivation: In applied sciences like engineering it is becoming increasingly essential to rely on large datasets to translate fundamental knowledge into models that can eventually be utilized by industry to drive innovation. I firmly believe that the availability of accessible data along with open-source software will play a major role to close the gap between academic research and actual industry practices. My involvement in the Data Champions initiative is aimed at bringing and sharing the perspective of a researcher deeply involved in the development and deployment of open-software to enable disruptive innovations in the propulsion and power sector.
 
-Schmehl-Roland:
-  first-name: Roland
-  last-name: Schmehl
+Roland-Schmehl:
+  name: Roland Schmehl
   photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/9/0/csm_roland%20schmell_c774b95dcc.jpg
   position: Associate Professor/Member advisory board
-  faculty: Faculty of Aerospace Engineering
+  faculty: Aerospace Engineering
   department: AWEP
   email: r.schmehl@tudelft.nl
   website: https://www.tudelft.nl/staff/r.Schmehl
@@ -55,9 +51,21 @@ Schmehl-Roland:
 
 Proactive sharing of high quality research data is an important ingredient of an efficient networked R&D road map. Especially for emerging technologies a good management & sharing strategy can really make a difference and contribute to a rapid advancement of the research agenda. For example, data sharing can enable researchers of different research teams to cross-validate their modeling frameworks and thus more rapidly improve the quality of the models. I am convinced that industry will ultimately benefit from such high quality modeling tools. From 2015 until 2018 I have coordinated the EU Horizon 2020 doctoral training network AWESCO, with a total of 16 PhD researchers at 12 European partner institutions, and as part of this project we had to develop, step-by-step a data management and sharing strategy. Since the project included not only academic partners but also industry, the sharing aspect especially was not an easy task. But we managed and successfully concluded the project with several collaborative research streams that produced and still continue to produce important results for the commercial development teams. As a data champion I would like to share my experiences with my fellow researchers.'
 
-Armstrong-Lora:
-  first-name: Lora
-  last-name: Armstrong
+Alessandra-Menicucci:
+  name: Alessandra Menicucci
+  faculty: Faculty of Aerospace Engineering
+  position: Assistant Professor
+  department: Space Systems Engineering
+  motivation: 'My research has been since the very beginning centered around data analysis, in particular the search for rare decays in particle physics or signature of dark matter in cosmic rays spectra. I believe that data management and sharing is of paramount importance not only for scientific discoveries, but also for improving the quality and efficiency of our daily work as engineers and researchers. Space industry is traditionally very conservative and reluctant to data openness: spacecraft design and test data are kept behind closed doors very rarely made available to the community. In order to face the challenges that space exploration presents to us, we need to modify this attitude and I believe that a new generation of space engineers formed with a solid understanding of big data management can make this change possible.'
+  expertise: Micro-spacecraft system engineering, space instrumentation (radiation and space environment monitors, asteroid muography), space environment and effects analysis, space embedded systems.
+  email: a.menicucci@tudelft.nl
+  website: https://www.tudelft.nl/en/staff/?no_cache=1
+  orcid: 0000-0002-7064-6275
+  linkedin: https://www.linkedin.com/in/amenicucci
+  photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/2020_Alessandra_Menicucci.jpg
+
+Lora-Armstrong:
+  name: Lora Armstrong
   photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/4/6/csm_LArmstrong_data_champions%20%281%29_ecf70aba29.jpg
   position: Data manager
   faculty: Civil Engineering &amp; Geosciences
@@ -68,3 +76,813 @@ Armstrong-Lora:
   github: LoraSArmstrong
   expertise: 'Research data management, R &amp; RStudio, version control with Git/Github'
   motivation: 'Enabling researchers to carry out reproducible research, improving data workflows and management during research, promoting open science'
+
+Guido-de-Croon:
+    name: Guido de Croon
+    faculty: Aerospace Engineering
+    position: Professor
+    department: Control &amp; Operations
+    motivation: 'The main reason is that I firmly believe in open science: sharing data, source code, and even hardware designs, allows others to reproduce your scientific experiments and findings with much less effort. Other researchers can then easily compare their work with yours, or build upon your work, so that together we can make much quicker progress. As a side-effect, it increases the impact of your work, both in terms of scientific citations and in terms of use by industry. Finally, providing open access to data and source code forces you to put in an additional effort in making it comprehensible and easy to use. This is not only useful to others, but also to yourself when you have to reuse it at a later date.'
+    expertise: 'My main research focus is to achieve autonomous flight of swarms of tiny flying robots. In order to achieve this, I investigate computationally efficient artificial intelligence, which is very much inspired by the intelligence of small flying insects. My areas of expertise are: artificial intelligence, computer vision, and machine learning for robotics.'
+    email: G.C.H.E.deCroon@tudelft.nl
+    website: https://www.tudelft.nl/en/staff/g.c.h.e.decroon/
+    orcid: 0000-0001-8265-1496
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/9/0/csm_roland%20schmell_c774b95dcc.jpg
+
+Boyang-Chen:
+    name: Boyang Chen
+    faculty: Aerospace Engineering
+    position: Assistant Professor
+    department: Aerospace Structures and Materials
+    motivation: I believe that proper data management is the foundation of sustainable research in my area where we often have to pass on complicated codes from one researcher to another.
+    expertise: Damage modelling of composites
+    website: https://www.tudelft.nl/staff/b.chen-2/
+    orcid: 0000-0001-7393-4363
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/2020_b_chen.jpg
+
+Irene-Dedoussi:
+    name: Irene Dedoussi
+    faculty: Aerospace Engineering
+    position: Assistant Professor
+    department: Control and Operations
+    motivation: Stronger collaboration and greater efficacy of research effort are my key motivations for data management and sharing. Good data management and code version control and distribution practices are crucial elements for collaborative, open-source, and reproducible research. Such practices also increase the efficiency of a research group, help organize institutional knowledge, and make transition of work much smoother.
+    expertise: Environmental impacts, Combustion emissions, Sustainable Aviation, Numerical modelling, Data-driven approaches.
+    email: I.C.Dedoussi@tudelft.nl
+    website: https://www.tudelft.nl/staff/i.c.dedoussi/
+    orcid: 0000-0002-8966-9469
+    linkedin: https://www.linkedin.com/in/irene-dedoussi
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/2/5/csm_2019_Irene%20Dedoussi_de28c15863.jpg
+
+Junzi-Sun:
+    name: Junzi Sun
+    faculty: Aerospace Engineering
+    position: Assistant Professor
+    department: Control and Operations
+    motivation: 'Data reflects the past; science hints at the future. Just as a hidden history never leads to a brighter future, better science has to be built upon open data. This is why I am interested in contributing to our open science effort at TU Delft, especially in the areas of advocating the use of open-source tools and platforms, promoting efficient data management approache, and encouraging the openness of scientific data and outputs.'
+    expertise: Air Traffic Management, Aircraft Performance, Aircraft Surveillance, Simulation, Data Science, Linux, Python, Java, PHP, Git
+    email: j.sun-1@tudelft.nl
+    twitter: junzi
+    orcid: 0000-0003-3888-1192
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/junzi%20sun.jpg
+
+Roeland-de-Breuker:
+    name: Roeland de Breuker
+    faculty: Aerospace Engineering
+    position: Associate Professor
+    department: Aerospace Structures and Computational Mechanics
+    motivation: It is important that we work as transparent as possible for two main reasons. First of all, to demonstrate our scientific integrity by showing that the claims we make and conclusions we draw are indeed backed up by the proper data. Secondly, to share these data to help other researchers and to create new contacts and collaborations.&nbsp;I want to encourage and convince all people that sharing and preserving data is not a burden, but that it creates new opportunities.&nbsp;
+    expertise: Aerospace structures, Smart and aeroelastic structures, Numerical simulations, Experimental research.
+    email: R.DeBreuker@tudelft.nl
+    website: https://www.tudelft.nl/staff/r.debreuker/
+    orcid: 0000-0002-7882-2173
+    linkedin: https://www.linkedin.com/in/roeland-de-breuker-98268a3/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/2/9/csm_2019_RoelandDeBreuker_e74ad44320.jpg
+
+Saullo-Giovani-Pereira-Castro:
+    name: Saullo Giovani Pereira Castro
+    faculty: Aerospace Engineering
+    position: Assistant Professor
+    department: Aerospace Structures and Computational Mechanics
+    motivation: I believe my experience with scientific software development would contribute to the team.
+    expertise:  Git, Github, Travis CI, Coverage, Python, Cython, C++, FORTRAN
+    email: S.G.P.Castro@tudelft.nl
+    website: https://www.tudelft.nl/staff/s.g.p.castro/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Castro.JPG
+
+Stefan-Hickel:
+    name: Stefan Hickel
+    faculty: Aerospace Engineering
+    position: Full Professor
+    department: Aerodynamics, Wind Energy and Propulsion
+    motivation: My primary research tools for investigating physical problems are numerical modeling and high-resolution simulation on massively parallel supercomputers. My students produce huge amounts of raw and post-processed data through high-performance computing, which is not only challenging from the technical point of view but also from the data management perspective around the daily handling and long-term storage of very valuable scientific datasets. I believe that effective and efficient data management practices and responsible data sharing are very important for my research field.
+    expertise: The area of my research interests is theoretical and computational fluid dynamics with an emphasis on complex fluids and turbulence phenomena. I have fifteen years of experience on writing high-performance computing software for different supercomputer architectures and the processing of large datasets.
+    email: S.Hickel@tudelft.nl
+    website: https://www.tudelft.nl/staff/s.hickel/
+    orcid: 0000-0002-7463-9531
+    linkedin: https://www.linkedin.com/in/hickel
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Stefan_Hickel.jpg
+
+Calvin-Rans:
+    name: Calvin Rans
+    faculty: Aerospace Engineering
+    position: Assistant Professor
+    department: Aerospace Structures &amp; Materials
+    motivation: The pace at which science and research advances at this current moment outpaces the traditional means of disseminating knowledge through journal articles. I feel that through pursuing a more open approach to sharing and disseminating your research, even while it is ongoing, will enable it to keep relevant and impactful.
+    expertise: 'My academic expertise is on the fatigue and damage tolerance behaviour of aircraft materials and structures. Regarding data management: Open Science Framework and use of repositories such as Github.'
+    email: C.D.Rans@tudelft.nl
+    twitter: DrRans
+    website: https://www.tudelft.nl/staff/c.d.rans/
+    researchgate: https://www.researchgate.net/profile/Calvin_Rans
+    orcid: 0000-0001-5539-1262
+    linkedin: https://www.linkedin.com/in/ranscalvin
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/calvin_rans.jpg
+
+Leila-Inigo-de-la-Cruz:
+    name: Leila Iñigo de la Cruz
+    faculty: Applied Sciences
+    position: PhD Candidate
+    department: Bionanoscience
+    motivation: 'In order to pursue excellence in science , we (the scientists) should be able to communicate/collaborate/work freely among us and the tools we use should not hinder that process. I am motivated to work in a way that allows others to easily collaborate with me, and viceversa.
+    I think this could be a way to validate my workflow with other scientists and to get to know people that strive for excellence in science, in terms of openness, transparency and collaboration.'
+    expertise: Functional genetics approaches to experimental evolution, budding yeast polarity network, documentation system centred on the use of open source tools oriented to easy customization and flexible collaboration.&nbsp;
+    email: leilaicruz@gmail.com
+    website: https://www.tudelft.nl/index.php?id=59822
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/cruz.png
+
+Arjen-Jakobi:
+    name: Arjen Jakobi
+    faculty: Applied Sciences
+    position: Assistant Professor
+    department: Bionanoscience
+    motivation:  As a scientist I believe it is a vital professional responsibility to establish suitable schemes for data (and code) archiving. As a method developer, I have a strong interest in Open Data and as an experimentalist I am aware of the challenges and concerns that may come with sharing data. I would like to contribute to open data policies at TU Delft to foster a culture of data sharing in my department, my research community and beyond. I believe that by actively engaging in these discussions with the TU Delft data stewards and other TU Delft researchers, I can contribute my own experience, learn from the best practices and the concerns of others and, together, translate this into workable solutions for my own community and my department.
+    expertise: Structural biology, cryo-EM, computational and experimental biophysics
+    email: A.Jakobi@tudelft.nl
+    orcid: 0000-0002-7761-2027
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Jakobi.jpg
+
+Jacob-Hoogenboom:
+    name: Jacob Hoogenboom
+    faculty: Applied Sciences
+    position: Associate Professor
+    department: Imaging Physics
+    motivation: 'In microscopy, we generate many images that help us draw conclusions we present in papers, but that can also contain data that is interesting for others, including researchers that do not have access to the high end machines we use. Often, a user-selected snapshot makes it into the paper while the context of the full datasets is lost. Making these full datasets publicly available can thus accelerate science, as they can be used by a wider group of scientists including those in places or countries where equipment is not available. Also, open data can be very useful for educational purposes, I am also using online biomedical data that we cannot generate here in Delft in one of my courses. I would like to share experiences with others and see what we can learn from each other. We are generating very big datasets that present a lot of challenges for making it publicly available, both in size, but also, e.g. metadata. Others can learn from what we are doing, and I would like to learn from the approaches others have been taking. I would also like to discuss questions like what data (raw, annotated, analyzed) should be made public? How should one be credited if someone else uses the data?I would also like to discuss examples of how we use open data in our lectures and assignments for students.'
+    expertise: Light and electron microscopy, Correlative microscopy, Method and instrumentation development
+    email: j.p.hoogenboom@tudelft.nl
+    website: https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/imphys/people/jacob-hoogenboom/
+    orcid: 0000-0002-5680-2809
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/5/1/csm_JacobHogenboom_5281_WEB_517ee31d66.jpg
+
+Zoltan-Perko:
+    name: Zoltán Perkó
+    faculty: Applied Sciences
+    position: Assistant Professor
+    department: Radiation Science and Technology
+    motivation: For increasing the clarity and reproducibility of modern research, best practices in data management, software development and collaboration are crucial. Since in my own research I am always keen on finding better ways and new gadgets for organizing my data, streamlining processes and keeping records, the data championship seems like an ideal opportunity. I hope I will be able to help other researchers using smart tools to solve their data management, version control and backup issues, as well as improve my own knowledge further.&nbsp;
+    expertise: Computational physics, coding (Python, Matlab, C), version control (Gitlab, smartgit), patient data management, project management
+    email: z.perko@tudelft.nl
+    website: https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/radiation-science-technology/research/research-groups/reactor-physics-and-nuclear-materials/people/zoltan-perko/
+    orcid: 0000-0002-0975-4226
+    linkedin: https://nl.linkedin.com/in/zoltan-perko-4046a127
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/zoltan-perko.png
+
+Anton-Akhmerov:
+    name: Dr. A.R. (Anton) Akhmerov
+    faculty: Applied Sciences
+    position: Associate Professor
+    department: Quantum Nanoscience
+    motivation:  I view the research data publication one of the most urgent and important improvements that my community needs to implement and follow. Good data management and sharing improves research quality and speed and increases research reliability and reproducibility. I also hope to improve my awareness about the needs of different researchers within my community and learn about the best practices in data management and publication from other communities.
+    expertise: Quantum nanoscience, numerical simulations
+    email: datachampion@antonakhmerov.org
+    website: https://www.tudelft.nl/staff/a.r.akhmerov/
+    orcid: 0000-0001-8031-1340
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/c/7/csm_Anton_256646a14f.jpg
+
+Eva-Kalmar:
+    name: Eva Kalmar
+    faculty: Applied Science
+    position: Lecturer
+    department: Science Education and Communication
+    motivation: I am a keen advocate of open science, and having good data management practices (so that data is easily searchable, and is available in formats that do not require the use of proprietary tools) is an important aspect of open science. I would like to show a good example to my colleagues in data management
+    expertise: Research Methods in Social Sciences
+    email: E.Kalmar-1@tudelft.nl
+    website: https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/science-education-and-communication/people/eva-kalmar/
+    orcid: 0000-0003-4616-8047
+    linkedin: https://www.linkedin.com/in/evakalmar/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Eva%20Kalmar.jpg
+
+Raul-Ortiz-Merino:
+    name: Dr. Raul Ortiz Merino
+    faculty: Applied Sciences
+    position: Postdoctoral researcher
+    department: Biotechnology
+    motivation: 'I generate and analyse big datasets, I have found myself in the position where I cannot easily find or replicate other people''s analyses and would like to make sure other people does not find those issues on the outcomes of my research.&nbsp; '
+    expertise: Bioinformatics, Genomics, Systems Biology
+    email: raul.ortiz@tudelft.nl
+    twitter: rortiz_esr
+    website: https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-sections/industrial-microbiology/jack-pronk-group/people/
+    orcid: 0000-0003-4186-8941
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/4/b/csm_Merino_RaulOrtiz_2019_06c3c37eca.jpg
+
+Joseph-Weston:
+    name: Joseph Weston
+    faculty: Applied Sciences
+    position: Scientific Software Developer
+    department: Quantum Department
+    motivation: I am a keen advocate of open science, and having good data management practices (so that data is easily searchable, and is available in formats that do not require the use of proprietary tools) is an important aspect of open science.&nbsp;
+    expertise: Software development, Deploying and maintaining cloud software, Version control systems.
+    email: J.B.Weston@tudelft.nl
+    website: https://quantumtinkerer.tudelft.nl/members/joseph/
+    linkedin: https://www.linkedin.com/in/jbostonweston/?originalSubdomain=nl
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/0/5/csm_JosephWeston_4e6b69d923.jpg
+
+Gary-Steele:
+    name: Gary Steele
+    faculty: Applied Sciences
+    position: Associate Professor
+    department: Quantum nanoscience
+    motivation: Improving the quality of science in my own group and improving the quality and speed of evolution of science in my community.&nbsp;In the SteeleLab, we are committed to&nbsp;<a href="http://steelelab.tudelft.nl/open-science/" target="_blank">open science</a>.
+    expertise: Quantum physics&nbsp;
+    email: g.a.steele@tudelft.nl
+    website: https://www.tudelft.nl/en/staff/g.a.steele/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/gary-steele.jpg
+
+Marcel-van-den-Broek:
+    name: Marcel van den Broek
+    faculty: Applied Sciences
+    position: Technician Bioinformatics
+    department: Industrial Microbiology
+    motivation: Sequencing genomes generates a lot of data and after processing and analysing you end up with even more data. Managing and sharing is an important part of doing research.&nbsp;
+    expertise: As a Bioinformatics technician I am involved in sequencing (illumina, Oxford Nanopore) projects. Expertise in De Novo assembly, sequencing pipelines, unix/linux bash scripting and Python.&nbsp;
+    email: Marcel.vandenBroek@tudelft.nl
+    website: https://www.tudelft.nl/en/staff/marcel.vandenbroek/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/MarcelvdBroek.jpg
+
+Marcel-Bus:
+    name: Marcel Bus
+    faculty: Applied Sciences
+    position: Technician
+    department: Chemical Engineering
+    motivation: 'I am mostly interested in the inevitable digitalisation of research, which most likely includes the use of ELN''s.&nbsp;I like to discuss new developments '
+    expertise: Lab experience, with a good feeling for what may and what may not work in a lab environment.&nbsp;
+    email: m.bus@tudelft.nl
+    website: https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/chemical-engineering/about-the-department/technicians/
+    orcid: 0000-0003-4348-4538
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Bus.jpg
+
+Valentina-A-Cortes-Urra:
+    name: Valentina A. Cortés Urra
+    faculty: Architecture and the Built Environment
+    position: PhD Candidate
+    department: Management in the Built Environment
+    motivation: 'I would like to be a Data Champion to help my fellow PhDs and colleagues to develop good data management&nbsp;practices. In addition, part of my motivation is to learn&nbsp;how to use&nbsp;new tools,&nbsp;broaden&nbsp;my network, participate in workshops and join the community to attend meetings and conferences from different departments and faculties: meet&nbsp;new people, who are interested in collecting, working, analysing and sharing data with other peers. One of my greatest motivations is to learn and promote good data management (RDM)&nbsp;and sharing practices, both at the local level at TU Delft and on an international level.'
+    expertise: Collaborative housing; Collaborative approaches; Collective housing; cooperatives; Chile; Chilean housing provision system; housing; multidimensional asset; residents empowerment; Affordable housing.
+    email: V.A.CortesUrra@tudelft.nl
+    website: https://www.tudelft.nl/staff/v.a.cortesurra/
+    orcid: 0000-0002-5587-3867
+    linkedin: https://www.linkedin.com/in/valentinacortesurra/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/8/8/csm_v_a_cortes_urra_962d60f15e.jpg
+
+Ali-Sobhani:
+    name: Ali Sobhani
+    faculty: Architecture and Built Environment
+    position: PhD Candidate
+    motivation: 'I work with large text databases and I have crawled as a part of my PhD a valuable database of news archives about cities. I would like to make my efforts more visible and share my experience with others.
+    I believe that joining the community would allow me to&nbsp;expand my network and learn more through interaction with more people who are interested in working with data and the relevant tools for&nbsp;its&nbsp;collection, storing and analysis.'
+    expertise: Urban and regional studies;&nbsp;employing data science and unconventional data resources to study social interactions in cities
+    website: https://www.tudelft.nl/staff/ali.sobhani/
+    orcid: 0000-0003-4474-7774
+    linkedin: https://www.linkedin.com/in/alisobhani/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/9/6/csm_imgp4335_a_def-b_w_701d75d351.jpg
+
+Henriette-Bier:
+    name: Henriette Bier
+    faculty: Architecture and the Built Environment
+    position: Associate Professor
+    motivation: 'In the field of computational design and robotics in architecture, good code and data management are crucial and sharing of data for advancing ideas is necessary. Data sharing is also an important tool for scientific peer review, enabling peers to retrace analyses and eventually build on them. Without having access to the original data and source code this is generally very difficult or not possible. Furthermore, the quality of the data has a big impact on reusability. Assembling data recordings and associated photos and videos of the design to robotic production system, with the objective of making this data available to the broader research community is main motivation for data management and sharing. </p> <p class="bodytext">Proactive sharing of high-quality research data is an important aspect of a networked R&amp;D approach. Especially for emerging technologies, a good management and sharing strategy can really make a difference and contribute to a rapid advancement of the research. For example, data sharing can enable researchers of different research teams to cross-validate their modeling frameworks and thus more rapidly improve the quality of the models. The industry will also benefit from high-quality models. As a data champion I would like to share my experiences with fellow researchers and potential R&amp;D contributors.'
+    expertise: Architecture, computational design, robotics, robotic building
+    email: h.h.bier@tudelft.nl
+    website: https://www.tudelft.nl/staff/h.h.bier/
+    researchgate: https://www.researchgate.net/profile/Henriette_Bier
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/7/d/csm_Bier%20henriette_dc31cbdf40.jpg
+
+Balazs-Dukai:
+    name: Balázs Dukai
+    faculty: Architecture and the Built Environment
+    position: Scientific software developer
+    department: of Urbanism, 3D Geoinformation
+    motivation: Before geomatics, I worked as a landscape architect and a large part of my social network consists of environmental planners and designers. Therefore I know how much effort is wasted every day, due to the lack of, or inefficient data management. I believe this could be improved.<br> Furthermore, we do valuable work in our group that enables applications in the environmental planning and design practice. Not sharing it would be a waste.&nbsp;
+    expertise: Geodata management and processing
+    email: b.dukai@tudelft.nl
+    twitter: BalazsDukai
+    website: https://3d.bk.tudelft.nl/bdukai/
+    orcid: 0000-0003-0193-5863
+    linkedin: https://www.linkedin.com/in/balazsdukai/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/3/1/csm_2019_Balazs_Dukai_small_8c87be96c6.jpg
+
+Mahda-Foroughi:
+    name: Mahda Foroughi
+    faculty: Architecture and the Built Environment
+    position: PhD Candidate
+    motivation: Where the urban energy transition is concerned, both the availability, quality and ownership of supporting (geo)data vary wildly across Europe and the world. My interests are in finding the right balance between security, safety and privacy on the one side, and usability and transparency on the other. There are a few basic tenets that apply to everything related to data, I can provide some common sense in figuring out workable solutions and practices.
+    expertise: Heritage and architecture
+    email: m.foroughi@tudeft.nl
+    website: https://www.linkedin.com/in/mahda-foroughi-44527015a/
+    linkedin: https://www.linkedin.com/in/mahda-foroughi-44527015a/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/4/b/csm_2019_MahdaForoughi_33265a384e.jpg
+
+Michiel-Fremouw:
+    name: Michiel Fremouw
+    faculty: Architecture and the Built Environment
+    position: Researcher
+    department: Climate Design and Sustainability
+    motivation: Where the urban energy transition is concerned, both the availability, quality and ownership of supporting (geo)data vary wildly across Europe and the world. My interests are in finding the right balance between security, safety and privacy on the one side, and usability and transparency on the other. There are a few basic tenets that apply to everything related to data, I can provide some common sense in figuring out workable solutions and practices.
+    expertise: Energy Potential Mapping, spatial energy transition studies, urban energy data, open geodata, applying common sense
+    email: M.A.Fremouw@tudelft.nl
+    website: https://www.tudelft.nl/staff/m.a.fremouw/
+    linkedin: https://www.linkedin.com/in/michiel-fremouw/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Michiel-Fremouw.jpg
+
+Sian-Jones:
+    name: Sian Jones
+    faculty: Civil Engeneering and Geosciences
+    position: Postdoctoral Researcher
+    motivation: I have experience with Electronic Lab Notebooks (ELNs) as a technique for 1) managing my data, 2) sharing the data with colleagues and 3) archiving my research notes in a way that makes it easy to pass on my work to my successors.I am happy to share my experience with other researchers to help them make informed decisions about using ELNs. I could do this my given brief demos on the different options, pros and cons of ELNs to small groups with opportunity for open discussion.
+    expertise: Electronic Lab Notebooks (ELNs), Experimental study of 2D foam flows, Small scale core floods
+    email: s.a.jones@tudelft.nl
+    website: https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/sections/reservoir-engineering/staff/research-staff/sa-sian-jones-dr/
+    orcid: 0000-0003-0198-5692</a></p></div>
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Sian1.jpg
+
+Alexandros-Daniilidis:
+    name: Alexandros Daniilidis
+    faculty: Civil Engineering and Geosciences
+    position: Postdoctoral Researcher
+    department: Geoscience &amp; Engineering
+    motivation: Structured research data can provide higher order insights to ongoing research. It further helps transparency and replicability. Continuity is also important, as being able to look back at existing data from a different (future) perspective can also lead to new discoveries.
+    expertise: Reservoir simulation, Multi-dimentional data analysis, Python programming, Gitlab
+    email: a.daniilidis@tudelft.nl
+    website: https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/sections/reservoir-engineering/staff/research-staff/a-alexandros-daniilidis-msc/
+    orcid: 0000-0002-2374-8391
+    linkedin: https://www.linkedin.com/in/daniilidis-alexandros/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/csm_Alex%20Daniilidis_0773d29846.jpg
+
+Ruud-van-der-Ent:
+    name: Ruud van der Ent
+    faculty: Civil Engineering and Geosciences
+    position: Assistant Professor
+    department: Water management
+    motivation: I would like to be an ambassador of the FAIR practices of data management. I would like to be the bridge between the researchers in my department and the faculty data steward.
+    expertise: Land-atmosphere interactions. Global hydrological modelling. Extreme rainfall.
+    email: R.J.vanderEnt@tudelft.nl
+    website: https://www.tudelft.nl/staff/r.j.vanderent/
+    orcid: 0000-0002-9063-4714
+    linkedin: https://www.linkedin.com/in/ruud-van-der-ent-79142b11/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Vanderent.JPG
+
+Frans-van-der-Meer:
+    name: Frans van der Meer
+    faculty: Civil Engineering and Geosciences
+    position: Associate Professor
+    department: Materials, Mechanics, Management &amp; Design
+    motivation: In our group we develop code and use it for simulations. For the code to be re-usable even within our own research group (students come and go), it is important that it is findable and documented. Data and code sharing outside the group is good for the visibility of our own research and for the scientific progress in general. I see the need to systematically tackle data management and therefore I would like to be better informed about best practices. I am also willing to share my experiences with colleagues and advise them on what works and what does not.
+    expertise: Computational mechanics, coding, simulations
+    email: F.P.vanderMeer@tudelft.nl
+    website: https://www.tudelft.nl/en/ceg/about-faculty/departments/materials-mechanics-management-design-3md/sections-labs/applied-mechanics/chairs/computational-mechanics/staff/scientific-staff/drir-fp-van-der-meer/
+    linkedin: https://www.linkedin.com/in/frans-van-der-meer-1478a810/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/frans-van-der-meer.jpg
+
+Rolf-Hut:
+    name: Rolf Hut
+    faculty: Civil Engineering and Geosciences
+    position: Assistant Professor
+    department: Water Resources Management
+    motivation: 'In my current research I''m building tools for hydrologist to make the entire workflow for hydrological modellers FAIR . I work closely with research software engineers from the eScience center in the eWaterCycle project in which I am the PI. Their expertise on big data, data handling, FAIR, Open Access, etc. is invaluable for our project and it would be a waste of time / effort if colleagues within civil engineering would have to re-invent the wheel regarding things we have already build / used / experience with. '
+    expertise: 'In my current research I''m building tools for hydrologist to make the entire workflow for hydrological modellers FAIR . I work closely with research software engineers from the eScience center in the eWaterCycle project in which I am the PI. Their expertise on big data, data handling, FAIR, Open Access, etc. is invaluable for our project and it would be a waste of time / effort if colleagues within civil engineering would have to re-invent the wheel regarding things we have already build / used / experience with.&nbsp; '
+    email: R.W.Hut@tudelft.nl
+    twitter: RolfHut
+    website: https://www.tudelft.nl/en/ceg/about-faculty/departments/watermanagement/staff/staff-water-resources-management/academic-staff/dr-ir-rolf-hut/
+    orcid: 0000-0002-6691-1259
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Hut.jpg
+
+Paul-van-Gent:
+    name: Paul van Gent
+    faculty: Civil Engineering and Geosciences
+    position: PhD Candidate
+    department: Transport &amp; Planning
+    motivation: I love open source and believe that whatever product we as scientists and individuals make, has the potential to bring about positive change.<br>The only certainty in this equation is that, without sharing, nothing will surely happen.
+    expertise: 'I''ve a broad data-related (processing, storing, analysing) experience. I''m well versed in Python, Deep Learning and Artificial Intelligence techniques. I also design, construct and program (in embedded C) embedded data logging devices '
+    email: p.vangent@tudelft.nl
+    website: https://www.tudelft.nl/en/ceg/about-faculty/departments/transport-planning/staff/personal-pages/gent-p-van/
+    orcid: 0000-0002-5697-5697
+    linkedin: https://www.linkedin.com/in/paul-van-gent-3b5b5817/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/paul-van-gent.png
+
+Mark-van-Koningsveld:
+    name: Mark van Koningsveld
+    faculty: Civil Engineering and Geosciences
+    position: Full Professor Ports and Waterways
+    department: Hydraulic Engineering, Ports and Waterways
+    motivation: I believe you have to work together to make progress. A team that works together and can keep on building on previous results is on a path of growth.&nbsp;
+    expertise: Generating decision ready information from data, models and tools (bathymetries, logistics, etc.)&nbsp;
+    email: m.vankoningsveld@tudelft.nl
+    website: https://www.tudelft.nl/en/ceg/about-faculty/departments/hydraulic-engineering/sections/rivers-ports-waterways-and-dredging-engineering/staff/prof-dr-ir-m-mark-van-koningsveld/
+    orcid: 0000-0002-8590-9533
+    linkedin: https://www.linkedin.com/in/markvankoningsveld/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/mark-van-koningsveld.jpg
+
+Ehab-Al-Khannaq:
+    name: Ehab Al-Khannaq
+    faculty: Civil Engineering and Geosciences
+    position: Postdoctoral Researcher
+    department: Transportation and Planning
+    motivation: Becoming a data champion provides an opportunity to expand my professional network on the national and international levels to learn from other data scientists and researchers with different backgrounds and exchange our experiences for finding the best solutions for different data management challenges.
+    expertise: Cloud computing, virtualization, Docker container, Kubernetes orchestrator, storage management, big-data &amp; small-medium size databases, UML design, scientific workflow applications.
+    email: E.N.M.Al-Khannaq@tudelft.nl
+    website: https://www.tudelft.nl/en/ceg/about-faculty/departments/transport-planning/staff/personal-pages/dr-enm-ehab-al-khannaq/
+    linkedin: https://www.linkedin.com/in/ehab-nabiel-alkhanak-ph-d-9449113b/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/ehab_al-khannaq.jpg
+
+Suryansh-Sharma:
+    name: Suryansh Sharma
+    faculty: Electrical Engineering, Mathmatics and Computer Sciences
+    position: Msc Candidate
+    motivation: I have been an advocate for Open Source Hardware and am one of the founding members of the Delft Open Hardware (DOH) initiative. I work with other members of DOH to educate people about open source design and to make their projects open source. As an avid supporter of the maker movement, I am passionate about open science and open hardware to enable equal opportunities and believe in the spirit of collaboration over competition.<br>I work with Delft Open Hardware to promote open source in hardware and the spirit of open source. I believe in an open society without paywalls and barriers which allows for the free and unencumbered flow of ideas and knowledge. I am a strong advocate for the doctrine of collaborating instead of competing and feel that the society today needs people who stand up for these ideals.
+    expertise: IoT, Embedded System Design, Energy Harvesting, Edge Computing, Wireless Sensor Networks
+    email: suryansh@evilscientist.cc
+    orcid: 0000-0002-9880-6365
+    linkedin: https://www.linkedin.com/in/suryanshsharma/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Suryansh%20Sharma%20DC%20image.jpg
+
+Giordano-Lipari:
+    name: Giordano Lipari
+    faculty: Electrical Engineering, Mathematics and Computer Science
+    position: Research Associate
+    department: Institute of Applied Mathematics
+    motivation: 'In my research project I ingest considerable volumes of information coming from diverse disciplines, combine them, and produce huge amounts of simulation data using high-performance computing devices.
+    In managing these data and information&nbsp;I do affirm that questions of velocity, volume, veracity, voracity are hugely relevant at individual level well before talking of big data proper.
+    Knowledge management has always been important for personal development. Nowadays this has also become vital to weather the challenges of the working and social environments. As a data champion at the Delft University of Technology I am always ready to engage in conversations and debates, and exchange stories of failures and successes&nbsp;together with my colleagues.'
+    expertise: 'hydrodynamics, computational and environmental fluid dynamics, hydraulic engineering. Tributaries: physics, maths, computer science, knowledge management'
+    email: I.C.Dedoussi@tudelft.nl
+    twitter: hydrodynamics
+    website: https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics/numerical-analysis/people/g-lipari/
+    linkedin: https://www.linkedin.com/in/hydrodynamics
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Lipari%2C%20Giordano.jpg
+
+Elena-Congeduti:
+    name: Elena Congeduti
+    faculty: Electrical Engineering, Mathematics and Computer Science
+    position: PhD Candidate
+    department: INSY, Interactive Intelligence
+    motivation: My daily job involves generating, storing and using data. I am interested in sharing common issues arising when dealing with data and hear from people from different context how they deal with that. I am particularly interested in discussing with people coming from different research areas the experiment and results reproducibility. This is indeed a daily issue in my job.
+    expertise: Reinforcement learning, Multiagent planning problems, Abstraction in Markov decision processes &nbsp;
+    email: econgeduti@gmail.com
+    website: https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/interactive-intelligence/people/current-group-members/elena-congeduti/
+    orcid: 0000-0002-5680-2809
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/csm_Elena%20Congeduti_70e597123c.jpg
+
+Thomas-Abeel:
+    name: Thomas Abeel
+    faculty: Electrical Engineering, Mathematics and Computer Science
+    position: Assistant Professor
+    department: Intelligent Systems
+    motivation: Every researcher needs to manage their data on a day-to-day basis, so it is important to do it properly. I have been a driving force for data management within our group/department and indirectly at the faculty and I would like to make other researchers aware that data management is a good idea.
+    expertise: Bioinformatics, genomics, high performance computing, data integration
+    email: T.Abeel@tudelft.nl
+    twitter: ThomasAbeel
+    website: https://www.tudelft.nl/en/eemcs/the-faculty/departments/intelligent-systems/pattern-recognition-bioinformatics/the-delft-bioinformatics-lab/people/thomas-abeel/
+    linkedin: https://www.linkedin.com/in/abeel
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/thomas_abeel2.jpg
+
+Willem-Paul-Brinkman:
+    name: Willem-Paul Brinkman
+    faculty: Electrical Engineering, Mathmatics and Computer Science
+    position: Associate Professor
+    department: Department of Intelligent Systems
+    motivation: 'Gone are the days where it was only important to report on your empirical findings. To move forward, we should be able to replicate each other''s analyses. The first step, therefore, is data transparency. As a second step, I strongly believe also in sharing the program code for the analysis. Furthermore, for us to be effective, I am strongly in favour of support facility and procedures that can help us managing and share our data in an easy way. '
+    expertise: Behaviour change support systems, human-computer interaction, user studies, interactive intelligence, intelligent conversational agent
+    email: w.p.brinkman@tudelft.nl
+    website: https://www.tudelft.nl/en/eemcs/the-faculty/departments/intelligent-systems/interactive-intelligence/people/currrent-group-members/willem-paul-brinkman/
+    orcid: 0000-0002-7205-7431
+    linkedin: https://www.linkedin.com/in/willem-paul-brinkman-32b844
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Willem-Paul-Brinkman.jpg
+
+Jose-Rueda-Torres:
+    name: José Rueda Torres
+    faculty: Electrical Engineering, Mathematics and Computer Science
+    position: Associate Professor
+    department: Electrical Sustainable Energy
+    motivation: Develop data management policy for my department.
+    expertise: Electrical engineering, Stochastic optimization&nbsp;
+    email: J.L.RuedaTorres@tudelft.nl
+    website: https://www.tudelft.nl/staff/j.l.ruedatorres/
+    orcid: 0000-0001-8485-7092
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/a/0/csm_2019_JoseRuedaTorres_c444939ab7.jpg
+
+Jerry-de-Vos:
+    name: Jerry de Vos
+    faculty: Industrial Design Engineering
+    position: MSc Candidate
+    department: Integrated Product Design
+    motivation: Together with Jose I started the Delft Open Hardware initiative. I help people to make their project open source and connect people with organizers of Open Source Hardware projects. I offer talks about the importance of Open Source Hardware and share the importance of data sharing within the IDE faculty.
+    expertise: Designing, engineering and prototyping Open Source Hardware, mainly in electronics and plastic recycling.
+    email: info@jerrydevos.com
+    website: https://jerrydevos.nl/img/banner-min1.png
+    orcid: 0000-0001-7288-0228
+    linkedin: https://www.linkedin.com/in/jerrydevos/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/4/2/csm_Jerry%20de%20Vos%20-%20Profile%20picture_569d4c0639.jpg
+
+Jacky-Bourgeois:
+    name: Jacky Bourgeois
+    faculty: Industrial Design Engineering
+    position: Assistant Professor
+    motivation: Being a data champion would give me access to the network of like-minded people to gain and share experience on how to support other about data management and sharing as well as opportunities to write together grant proposal on the topic.&nbsp;
+    expertise: Data-centric Design. Personal Internet of Things Data. Participatory analysis and design. Supportive and user-centred system&nbsp;
+    email: j.bourgeois@tudelft.nl
+    website: https://www.tudelft.nl/en/ide/about-ide/people/bourgeois-j/
+    linkedin: https://uk.linkedin.com/in/jacky-bourgeois-1685b923
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Bourgeois.jpg
+
+Valeria-Pannunzio:
+    name: Valeria Pannunzio
+    faculty: Industrial Design Engineering
+    department: Cardio Lab
+    position: PhD candidate
+    motivation: I would love to avoid other researchers all of the pain I went through to setup custom data management plans!
+    expertise: Service design, Design for Healthcare
+    email: V.Pannunzio@tudelft.nl
+    website: https://www.tudelft.nl/en/ide/about-ide/people/pannunzio-vp/
+    orcid: 0000-0003-1090-5703
+    linkedin: https://www.linkedin.com/in/valeria-pannunzio-1ab97510b/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Pannunzio_Valeria.jpg
+
+Natalia-Romero-Herrera:
+    name: Natalia Romero Herrera
+    faculty: Industrial Design Engineering
+    position: Assistant Professor
+    motivation: 'To enable other research communities to do further analysis, replicate analysis, integrate with other data sources, etc. on the basis of the published data. By making my data referable I''d like to be able to trace such outcomes. '
+    expertise: 'Development and application of user-centred design methods in living labs setups in order to understand people''s daily life practices and the impact on health and environmental issues. In living labs setups, I specifically look at how to capture contextual aspects of daily practices by means of an active participation of people themselves. '
+    email: n.a.romero@tudelft.nl
+    website: https://www.tudelft.nl/en/ide/about-ide/people/romero-herrera-na/
+    orcid: 0000-0002-9074-4139
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Romero__Natalia.jpg
+
+Jose-Carlos-Urra-Llanusa:
+    name: José Carlos Urra Llanusa
+    faculty: Industrial Design Engineerin
+    motivation: I am fascinated by the world of open source in general, we can learn a lot about the history of the internet and open source. Even though our economies run on open source infrastructures we are not aware of it. It is important to address the importance and success of these inventions and technological developments. Students and academics can benefit a lot from understanding and putting in practice peer to peer and open source, but it is important to introduce these concepts bit by bit in order to be effective and compelling.
+    expertise: I am an industrial and interaction designer with engineering and programming skills. I have worked for 4 years in medical design, I have worked also as UX design and developer in open hardware projects. I have been a mentor for the mozilla open leaders program for two rounds, and collaborated also for the Open Source Ecology project. I would say that my core area of expertise today is open source design.
+    email: J.C.UrraLlanusa@tudelft.nl
+    orcid: 0000-0002-8583-6231
+    linkedin: https://www.linkedin.com/in/josecarlosurra86/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Jose-Carlos-Urra-Llanusa-data.jpg
+
+Sebastian-Fajardo:
+    name: Sebastian Fajardo
+    faculty: Mechanical, Maritime and Material (3mE)
+    position: Postdoctoral Researcher
+    department: Materials Science
+    motivation: 'I like to build and explore multi-temporal data about long-term human complex systems. These datasets should be managed and stored systematically in order to provide a source of information for long-term decisions of present and future societies.
+    I would like to learn how others&nbsp;use and manage their own data and how they engage with challenges of collecting, storing and sharing data. I would&nbsp;also like to share my insights about how to work with multi-temporal data and human participant information. Finally, I hope to create more links inside and outside of the TU Delft data management network.'
+    expertise: Social and technological complexity, collective action, community formation, archaeology, anthropology.
+    email: s.d.fajardobernal@tudelft.nl
+    website: https://www.tudelft.nl/staff/s.d.fajardobernal/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/b/7/csm_Fajardo_Sebastian_af0026aaca.jpg
+
+Alejandro-M-Aragon:
+    name: Alejandro M. Aragón
+    faculty: Mechanical, Maritime and Material (3mE)
+    position: Assistant Professor
+    department: Precision and Microsystems Engineering
+    motivation: I believe the output of research, comprised of articles and the data needed to create them, should not be kept behind paywalls. This is particularly true for research funded by tax payers. There have been remarkable advances towards open science to make available data that has not yet received the spotlight.
+    expertise: Computational solid mechanics, modeling, enriched finite element methods, phononic crystals, acoustic metamaterials, topology optimization, contact mechanics, fracture mechanics, massively parallel scientific computing.
+    website: https://www.tudelft.nl/3me/afdelingen/precision-and-microsystems-engineering-pme/people/assistant-professors/alejandro-m-aragon/
+    linkedin: https://www.linkedin.com/in/amaragon/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/2020_aragon__alegandro__600x800_assistant_prof.jpg
+
+Pavlo-Bazilinskyy:
+    name: Pavlo Bazilinskyy
+    faculty: Mechanical, Maritime and Materials Engineering (3mE)
+    position: Postdoctoral Researcher
+    department: Cognitive Robotics
+    motivation: TU Delft is doing a good job in the area of opening up science to the public and the rest of the scientific world. I would like to help to progress even further.
+    expertise: Crowdsourcing, outsourcing, sharing data at public repositories, git, Python, MATLAB, javascript for online-based research.&nbsp;
+    email: p.bazilinskyy@tudelft.nl
+    website: https://www.tudelft.nl/staff/p.bazilinskyy/
+    orcid: 0000-0003-2275-6207
+    linkedin: https://www.linkedin.com/in/bazilinskyy/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Bazilinskyy_3mE_2019.jpg
+
+Kim-Batselier:
+    name: Kim Batselier
+    faculty: Mechanical, Maritime and Materials Engineering (3mE)
+    position: Professor
+    department: Delft Center for Systems and Control
+    motivation: 'I am a strong believer in making results that are funded by tax payers'' money public and open. I also think that science can progress faster if newly developed methods/ideas can be used freely and are available to everyone.&nbsp; It is my belief that data management and sharing are basic skills that every student and staff member at TUDelft should master. Reproducibility of results is for me the minimal requirement when developing methods/algorithms/tools. I hope to be able to convince more people of this vision.
+    My short-term goal is to convince all staff members in my department to actively use data management and sharing tools. This involves the setup of a repository space for our department. Long-term goal is to be able to organize a compulsory course for students on data management and sharing.'
+    expertise: Numerical linear algebra, Tensor methods, High-dimensional problems, System identification, Signal processing and Machine learning.
+    email: k.batselier@tudelft.nl
+    website: https://www.tudelft.nl/en/staff/k.batselier/
+    orcid: 0000-0001-9565-8240
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/c/4/csm_Batselier_Kim_65cb86ab86.jpg
+
+Sergio-Grammatico:
+    name: Sergio Grammatico
+    faculty: Mechanical, Maritime and Materials Engineering
+    position: Associate Professor
+    department: Delft Center for Systems and Control
+    motivation: Proper data and software management and sharing is becoming a priority for open science.
+    expertise: Systems and Control, Optimization, Game Theory
+    email: s.grammatico@tudelft.nl
+    twitter: SGrm87
+    website: https://www.tudelft.nl/en/3me/about/departments/delft-center-for-systems-and-control/people/professors/dr-ing-s-grammatico-sergio/
+    orcid: 0000-0001-7381-2630
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Sergio-Grammatico.jpg
+
+Othon-Moultos:
+    name: Othon Moultos
+    faculty: Mechanical, Maritime and Materials Engineering
+    position: Assistant Professor
+    department: Engineering thermodynamics
+    motivation: As I always seek for better data management methods, meeting and working with other data champions will greatly strengthen my efforts.&nbsp;
+    expertise: Design and optimization&nbsp;of materials and processes using state-of-the-art molecular simulation techniques.
+    email: o.moultos@tudelft.nl
+    website: https://www.tudelft.nl/en/3me/about/departments/process-energy/people/engineering-thermodynamics/dr-o-moultos/
+    orcid: 0000-0002-6021-2350
+    linkedin: https://www.linkedin.com/in/othonas-moultos-498585a9/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Moultos.jpg
+
+Poulumi-Dey:
+    name: Poulumi Dey
+    faculty: Mechanical, Maritime and Materials Engineering
+    position: Assistant Professor
+    department: Computational Materials Science
+    motivation: This will provide me the opportunity to not only share my experiences but also learn from other Data Champions about other efficient ways of managing data. I will share the insights gained from such an exchange of ideas with my department members, which will be gainful for them. Furthermore, I am hopeful that my involvement in the Data Champion program will strengthen the connection between my department and the Data Management team of the University.&nbsp;
+    expertise: Ab initio based study of coherent microstructure, Phase stability, Phase boundary, Precipitation kinetics, Hydrogen embrittlement&nbsp;
+    email: P.Dey@tudelft.nl
+    website: https://www.tudelft.nl/en/3me/about/departments/materials-science-and-engineering/research/computational/people/
+    orcid: 0000-0001-7477-9684
+    linkedin: https://www.linkedin.com/in/poulumi-dey-452b14b6/?originalSubdomain=nl
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/PoulumiDey.jpg
+
+Emiliano-Trodini:
+    name: Emiliano Trodini
+    faculty: Mechanical, Maritime and Materials Engineering (3mE)
+    position: PhD Candidate
+    department: Materials Science and Engineering
+    motivation: To promote a better data usage within the faculty; e.g. the creation of databases for sharing equipment, consumables, journal licenses, material data and images.&nbsp;
+    expertise: Electrical engineering, Nanotechnology, Materials Science&nbsp;
+    email: E.Trodini@tudelft.nl
+    website: https://www.tudelft.nl/staff/e.trodini/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Trodini.jpg
+
+Joost-de-Winter:
+    name: Joost de Winter
+    faculty: Mechanical, Maritime and Materials Engineering (3mE)
+    position: Associate professor
+    motivation: I already do quite a bit of data sharing via&nbsp;<a href="https://data.4tu.nl/" target="_blank">data.4tu</a>, and would like to extend this.<br>I want to make others in the faculty aware of data sharing, transparency, and replicability.
+    expertise: Human-subject research, automated driving, applied statistics
+    email: J.C.F.deWinter@tudelft.nl
+    website: https://www.tudelft.nl/staff/j.c.f.dewinter/
+    researchgate: https://www.researchgate.net/profile/Joost_De_Winter
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/DeWinterJ.jpg
+
+Jack-Casey:
+    name: Jack Casey
+    faculty: Technology, Policy and Management
+    position: Postdoctoral Researcher
+    department: VTI
+    motivation: 'I am a post doc researcher involved in Juan Manuel Duran''s project on dark data. The project is aimed at investigating the ethical and epistemological issues dark data presents, with a view to formulating concrete policy proposals in response to issues identified. '
+    expertise: Philosophy of Science, Logic, Philosophy of Technology, Ethics, Epistemology
+    email: j.j.casey@tudelft.nl
+    orcid: 0000-0002-1281-8200
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/photo_on_25-02-2020_at_17.10_copy.jpg
+
+Baiba-Pudane:
+    name: Baiba Pudāne
+    faculty: Technology, Policy and Management
+    department: Transport and Logistics
+    position: PhD candidate
+    motivation: I would like to commit myself to publish the data I gather in my work and I expect that the meetings with other data champions will allow me to be more efficient in that. Along the way, I will be happy to share my experience with my colleagues and perhaps inspire them to join the movement.
+    expertise: Travel behaviour, time-use modelling, choice behaviour modelling and automated vehicles
+    email: B.Pudane@tudelft.nl
+    website: https://www.tudelft.nl/en/tpm/about-the-faculty/departments/engineering-systems-and-services/people/phd-candidates/b-baiba-pudane/
+    orcid: 0000-0002-9551-9125
+    linkedin: https://www.linkedin.com/in/baiba-pud%C4%81ne-02a43733/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Baiba%20Pudane_2019.jpg
+
+Yilin-Huang:
+    name: Yilin Huang
+    faculty: Technology, Policy and Management
+    position: Assistant Professor
+    department: Multi-Actor Systems
+    motivation: I hope that myself or someone else can use and reuse my data, and possibly validate the analysis. I’d like to spread the word of the importance of data management and reuse, and where and how to do it. It seems fun to do.
+    expertise:  Data analysis, modelling, simulation
+    email: y.huang@tudelft.nl
+    website: https://www.tudelft.nl/en/tpm/about-the-faculty/departments/multi-actor-systems/people/assistant-professors/dr-y-yilin-huang/
+    orcid: 0000-0001-7330-2817
+    linkedin: https://www.linkedin.com/in/yilinhuang
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Yilin_Huang.jpg
+
+Scott-Cunningham:
+    name: Scott Cunningham
+    faculty: Technology, Policy and Management
+    position: Associate Professor
+    department: Multi-Actor Systems
+    motivation: I believe in the importance of empirical research and open and transparent decision-making. I believe I can help increase awareness, and in particular support our students who correctly see data management as a critical job skill. I can incorporate materials in lectures, invite guest lectures, host and support blogging and social media. I can disseminate interesting data sets and recipes for research.
+    expertise: Statistics, Bayesian networks, image processing, geographic information systems, open source computing, text mining, consumer and microdata, science and technology information, urban science, municipal policy making
+    email: s.cunningham@tudelft.nl
+    twitter: cunningham_sw
+    website: https://www.tudelft.nl/en/tpm/about-the-faculty/departments/multi-actor-systems/people/former-employees/s-scott-cunningham/
+    orcid: 0000-0002-4396-1990
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/scott-cunningham.JPG
+
+Juan-M-Duran:
+    name: Juan M. Durán
+    faculty: Technology, Policy and Management
+    position: Lecturer
+    department: Values, Technology and Innovation
+    motivation: I have an interest in the challenges that data management and Open Science present to current scientific and engineering research. I am particularly motivated by questions about data storage, curation and maintenance of data, reproducibility and replicability of results, and open distribution of data.&nbsp;
+    expertise: Computer science; Philosophy of science and technology; History of science and technology; Philosophy of AI; Ethics
+    email: j.m.duran@tudelft.nl
+    website: https://www.tudelft.nl/en/tpm/about-the-faculty/departments/values-technology-and-innovation/people/assistant-professors/dr-jm-juan-duran/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Juan-Duran.jpg
+
+Anneke-Zuiderwijk-van-Eijk:
+    name: Anneke Zuiderwijk-van Eijk
+    faculty: Technology, Policy and Management
+    position: Assistant Professor
+    department: Engineering Systems and Services
+    motivation: The opening up of research data can be revolutionary for scientific advancement. The use of open research data in combination with new Information and Communication Technologies now offers tremendous opportunities, for example, by obtaining new insights by analysing and combining huge amounts of open research data. Despite the many potential advantages of open research data, researchers are still reluctant to open up their own data and to use the open research data of others. My research focuses on what drives researchers, governments, companies and other actor types from different disciplines and domains to open up and use data.
+    expertise: Open data, research data, data infrastructures, design, user service patterns, online education
+    email: A.M.G.Zuiderwijk-vanEijk@tudelft.nl
+    twitter: annekezuiderwyk
+    website: https://www.tudelft.nl/en/tpm/about-the-faculty/departments/engineering-systems-and-services/people/assistant-professors/dr-amg-anneke-zuiderwijk-van-eijk/
+    orcid: 0000-0001-6482-0399
+    linkedin: https://www.linkedin.com/in/anneke-zuiderwijk-van-eijk-2a26a623/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/anneke-zuiderwijk.JPG
+
+Robert-Fonod:
+    name: Róbert Fónod
+    faculty: Aerospace Engineering
+    position: Assistant Professor
+    department: Space Engineering
+    motivation:  I am glad to witness the advent of a new era of openness in science. I was always supportive of the idea of open access, open data, and open education. I believe that open science has tremendous potential in bridging various research disciplines, enabling fast and systematic dissemination of research outputs, preserving data for future generations, ability to re-use (not inventing the wheel again), and equally importantly providing transparent means to tackle issues related to research integrity (e.g., open reviews, impartial replication and validation of results, etc.). I feel being among the first advocates of open data and open science at TU Delft can have meaningful impact not only on one’s own research and/or research group, but also on the entire research community in general.
+    expertise: Guidance, navigation, and control; model-based fault diagnosis; fault-tolerant systems; distributed space systems
+    email: r.fonod@tudelft.nl
+    linkedin: https://www.linkedin.com/in/rfonod/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Robert-Fonod.jpg
+
+Victor-Koppejan:
+    name: Victor Koppejan
+    faculty: Applied Sciences
+    position: PhD Candidate
+    motivation: ' I''m very passionate about data provenance, software and data carpentry. I try to do this in my daily work and help those around me by being able to provide hands on experience and advice on version control for software development and data management. I can also support the TU wide strategies on these topics.&nbsp;&nbsp; '
+    expertise:  Biochemical engineering; Simulation tools for the design and optimization of equipment in purification processes; Software version control tools (git, easybuild etc); Reproducible workflows using Matlab and Python.
+    email: v.w.koppejan@tudelft.nl
+    orcid: 0000-0002-9434-3156
+    linkedin: https://nl.linkedin.com/in/victorkoppejan
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/victor-koppejan.jpg
+
+Enzo-Falco:
+    name: Enzo Falco
+    faculty: Architecture and the Built Environment
+    department: OTB
+    position: PostDoc Researcher
+    motivation: Data Management, in all its phases, is at the basis of scientific research and fundamental for good quality work. Data sharing and open access are practices which should be part of our research efforts.&nbsp;
+    expertise: Urban Planning, Public Administration, Participatory Planning.&nbsp;
+    email: E.Falco@tudelft.nl
+    orcid: 0000-0001-7014-0023
+    linkedin: https://nl.linkedin.com/in/enzo-falco-3786696a
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Enzo-Falco-1.jpg
+
+Elena-Zhebel:
+    name: Elena Zhebel
+    faculty: 3mE
+    position: Research Software Engineer
+    department: Precision and Microsystems Engineering (PME)
+    motivation: There is no cookbook on how to manage your software, your data, your research and how to make sure others can build on top of your work. Therefore I believe that sharing my experiences and learning from each other is very valuable and it is a first step of building up the knowledge and the community.
+    expertise: Scientific programming from development to production.<br>Programming languages C/C++, Fortran, Python, Pascal, CUDA, Matlab.<br>User of git (and GitLabs, GitHub), doxygen, PyCharm IDE and profiling tools.<br>Parallel programming, such as MPI, OpenMP, CUDA on GPUs.
+    email: e.v.zhebel@tudelft.nl
+    linkedin: https://www.linkedin.com/in/dr-elena-zhebel-6947b16/
+    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/0/a/csm_ElenaZhebel_d493344e47.jpg
+
+
+Susan-Branchett:
+  name: Susan Branchett
+  faculty: University Corporate Office, R&D/innovation
+  position: Expert Research Data Innovation/Data Architecture
+  expertise: IT services and Software Development
+  motivation: I would like to join forces with like-minded people to have more campus-wide impact. The Data Stewards rock!
+  email: S.E.Branchett@tudelft.nl
+  orcid: 0000-0002-5972-6813
+  linkedin: https://www.linkedin.com/in/sebranchett/
+  twitter: sebranchett
+  github: sebranchett
+  website: https://www.tudelft.nl/staff/s.e.branchett/
+  photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Branchett.JPG
+
+Amir-Ebrahimi-Fard:
+  name: Amir Ebrahimi Fard
+  faculty: Technology, Policy and Management
+  department: Multi-Actor Systems
+  expertise: Social network data analysis, Machine learning, Anomaly detection, Natural language processing, Digital data collection, Python
+  motivation: 'I believe one of the most important yet missing pieces in the current research landscape is data management. It facilitates and accelerates the research cycle by making the research activities findable, accessible, interoperable, and reusable (FAIR). Despite the significance of FAIR research, making a large university (with thousands of scholars and lots of ongoing research projects) fully FAIR at once might seem infeasible. That is why the role of data champion matters. They can smoothly bridge this gap by promoting data management practises among their colleagues. Besides the raising awareness, being a data champion provides the opportunity of learning about other or most recent data management techniques and practices. From a personal point of view, I am also very much interested in circulating data management tips among computational social scientists due to the recent tendency of both social scientists and scholars from hard disciplines to work on multidisciplinary projects.'
+  email: a.ebrahimifard@tudelft.nl
+  linkedin: https://www.linkedin.com/in/ebrahimifard/
+  twitter: amiref_1991
+  orcid: 0000-0003-4903-8918
+  website: https://www.tudelft.nl/en/tpm/about-the-faculty/departments/multi-actor-systems/people/phd-candidates/a-amir-ebrahimi-fard/
+  photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/AmirFard.jpg
+
+Ashley-Cryan:
+  name: Ashley Cryan
+  faculty: TU Delft Library
+  position: Data manager
+  expertise: data management, data documentation, data storage, DMPonline, version control, FAIR principles, data visualization
+  motivation: 'I am an advocate for Open Science and FAIR data, and want to continue learning about best practices for implementing these ideals in practice.
+I am a Data Manager with the TU Delft Library Research Data Services Team - excited to network with the community and learn more about how I can best serve researchers, staff + students!'
+  email: a.e.cryan@tudelft.nl
+  linkedin: http://www.linkedin.com/in/ashleycryan
+  orcid: 0000-0002-5410-2163
+  website: https://www.tudelft.nl/en/staff/a.e.cryan/
+  photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Ashley-Cryan.jpg

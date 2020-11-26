@@ -6,12 +6,12 @@
           <img
             class="is-2by3"
             src="{{user.photo}}"
-            alt="The photo of {{ user.first-name }} {{user.last-name}}"
+            alt="The photo of {{ user.name}}"
           />
         </figure>
       </div>
       <div class="media-content people-card-meta">
-        <p class="title is-4">{{ user.first-name }} {{ user.last-name }}</p>
+        <p class="title is-4">{{ user.name }}</p>
 
         <p class="is-6">
           {{user.position}}<br>
@@ -68,7 +68,7 @@
       {% if user.motivation %}
       <p class="people-description-question">
         <a class="card-toggle">
-          More about {{ user.first-name }}
+          More about {{ user.name }}
           <i class="fa fa-angle-down"></i>
         </a>
       </p>

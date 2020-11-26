@@ -8,7 +8,7 @@ photos:
   url: https://unsplash.com/photos/46juD4zY1XA
 ---
 
-The Open Science Community Delft is a *some definition of what this community is*.
+The Open Science Community Delft is an inclusive learning community that focuses on sharing and promoting Open Science practices.
 
 # Who can join the Open Science Community Delft?
 **Everyone** who is interested in any aspects of open science.
@@ -36,7 +36,10 @@ Please do note that we expect everyone to follow our [Code of Conduct]({{ site.g
 
 Sign up to join the Open Science Community Delft.
 
-Please note that it's very important to us that we maintain a positive and
-supportive environment for everyone who wants to participate. When you join us
-we ask that you follow our [code of conduct]({{ site.github.repository_url
-}}/blob/master/CODE_OF_CONDUCT.md) in all interactions both on and offline.
+# Code of Conduct
+
+To achieve our aim of learning and sharing, it is essential that we maintain a welcoming and supportive environment for everyone who wants to participate. This is why we ask you to follow our [Code of Conduct]({{ site.github.repository_url }}/blob/master/CODE_OF_CONDUCT.md) in all interactions both on and offline.
+
+In short, we ask everyone to be respectful, inclusive and open to learning from everyone else. We do not tolerate any form of harrassment (please refer to the Code of Conduct for more details on what these are). If you do experience these behaviours, please contact the community's coordinator Emmy Tsang at f [dot] tsang [at] tudelft [dot] nl.
+
+In addition to this Code of Conduct, we expect all OSCD members to adhere to the [TU Delft Code of Conduct](https://www.tudelft.nl/en/about-tu-delft/strategy/integrity-policy/tu-delft-code-of-conduct/) and the [TU Delft Regulations for Complaints Concerning Undesirable Behaviour](https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Integriteitsbeleid/TU%20Delft%20Regulations%20for%20Complaints%20Concerning%20Undesirable%20Behaviour.pdf).

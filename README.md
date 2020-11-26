@@ -28,16 +28,16 @@ you know how to install [Bundler](https://bundler.io/) and
 that can install all these tools for you. You can install it by following the
 instructions on this page: https://conda.io/docs/user-guide/install/index.html
 
-In the sequel, we assume you use miniconda.
+### Using Miniconda on Linux/MacOS
 
 1. Open a terminal
 2. Clone this GitHub repository:
 
    ```
-   $ git clone https://github.com/open-life-science/open-life-science.github.io.git
+   $ git clone https://github.com/osc-delft/osc-delft.github.io.git
    ```
 
-3. Navigate to the `open-life-science.github.io/` folder with `cd`
+3. Navigate to the `osc-delft.github.io/` folder with `cd`
 4. Set up the conda environment:
 
    ```
@@ -59,13 +59,55 @@ In the sequel, we assume you use miniconda.
 7. Open the website in your favorite browser at:
    [http://127.0.0.1:4000/](http://127.0.0.1:4000/)
 
-## Run the link checks
+#### Run the link checks
 
 To avoid dead or wrong links, run the link checkers:
 
 ```
 $ make check-html
 ```
+
+### Using Ruby on Windows
+
+We asume you have a working installation of [Git for Windows](https://git-scm.com/downloads)
+
+1. Download and install the latest version of [Ruby+Devkit for Windows](https://rubyinstaller.org/downloads). Mind about a *32-bit*  or *64-bit*.   Keep all the default options. Put attention to where the location of the Ruby's root directory is located. For example, `C:\Ruby27-x64`
+
+2. When the installation is done a *command prompt*  will pop up. Type `3` and press enter. This will install the Ruby's toolchain. When done, press enter once more.
+
+3. Install `Jekyll` and `Bundler`. On the same *command prompt*  run:
+
+   ```
+   > gem install jekyll bundler
+   ```
+
+4. On the *Ruby command prompt*, use `git` to clone the repository.
+
+   ```
+   > git clone https://github.com/osc-delft/osc-delft.github.io.git
+   ```
+
+5. Got to the root of the repository and install the dependencies
+
+   ```
+   > cd ./osc-delft.github.io
+   > bundle install
+   ```
+
+6. The previous command will install all dependencies except for the `libcurl` library. We will install the library manually. Donwnload [curl for Windows](https://curl.haxx.se/windows/), choose a version that fits your OS.
+
+7. Unzip the file and look for the `libcurl.dll` file in the `.\bin` directory. If using the *64-bit version*, the file is called `libcurl-x64.dll`, remane the file to `libcurl.dll`
+
+8. Copy the `libcurl.dll` file to the `\bin` folder in the Ruby's root directory. 
+
+9. Compile and run the local server:
+
+```
+bundle exec jekyll serve
+```
+
+10. Open the website in your favorite browser at:
+   [http://127.0.0.1:4000/](http://127.0.0.1:4000)
 
 ## Create a new blog post
 
@@ -132,7 +174,7 @@ Add many people in a row to `_data/people.yaml`: (the following set of instructi
 3. Activate the conda environment
 
    ```
-   $ source activate open-life-science-website
+   $ source activate osc-delft-website
    ```
 
    Or alternatively, get locally:

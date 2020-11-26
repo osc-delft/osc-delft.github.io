@@ -1,5 +1,5 @@
 
-name: open-life-science-website
+name: osc-delft-website
 channels:
   - conda-forge
   - defaults
