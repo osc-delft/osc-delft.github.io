@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Data Champion Kick off meeting
-authors:
-  - emmyft
 image: https://openworking.files.wordpress.com/2019/01/mark-presentation.jpg
 external: https://openworking.wordpress.com/2019/01/14/data-champion-kick-off-meeting/
 ---
