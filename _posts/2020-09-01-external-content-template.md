@@ -1,9 +1,10 @@
 ---
 layout: post
-title: This shows how potential external content can be linked
-author: emmyft
+title: External template
+authors:
+  - emmyft
 image: /images/2019-11-13-difference-with-elife-innovation-leaders.jpg
-external: https://www.open-bio.org/2019/11/12/supercharge-your-open-project-with-leadership-training/
+external: https://openworking.wordpress.com/2019/01/14/data-champion-kick-off-meeting/
 ---
 
-Brief abstract of what the external content is.
+ A summary of the launch meeting on 14th of December 2018.
