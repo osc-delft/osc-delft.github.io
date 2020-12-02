@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Five W’s of Open Data
+title: Switch gear! Drive the uptake of Open Science within your research team.
 image: https://openworking.files.wordpress.com/2019/08/de-winter-and-bazilinskyy-illustration.png
 authors:
   - Connie Clare

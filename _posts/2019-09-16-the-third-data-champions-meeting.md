@@ -9,4 +9,4 @@ authors:
 external: https://openworking.wordpress.com/2019/09/16/the-third-tu-delft-data-champions-meeting/
 ---
 
-On the 3rd of September, we had our third Data Champion meeting. 
+On the 3rd of September, we had our third Data Champion meeting.

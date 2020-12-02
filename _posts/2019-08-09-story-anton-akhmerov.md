@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Starting small and thinking big: A Quantum Tinkerer’s quest to mentor Open Science
+title: "Starting small and thinking big: A Quantum Tinkerer’s quest to mentor Open Science"
 image: https://openworking.files.wordpress.com/2019/08/anton-akhmerov-illustration.png
 authors:
   - Connie Clare
