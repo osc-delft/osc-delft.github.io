@@ -69,11 +69,11 @@ $link-active: $link-hover;
 
   @include tablet() {
     background-attachment: fixed;
-    height: 50vh;
-    min-height: 300px;
+    height: 30vh;
+    min-height: 200px;
 
     &.no-image {
-      min-height: 40vh;
+      min-height: 30vh;
     }
   }
 }
@@ -98,7 +98,7 @@ $link-active: $link-hover;
   }
 
   @include tablet() {
-    padding-top: 20vh;
+    padding-top: 15vh;
   }
 }
 
