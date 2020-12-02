@@ -1,7 +1,10 @@
 ---
 layout: post
 title: “How to champion our OS community?” meeting
-image:
+image: https://unsplash.com/photos/bq31L0jQAjU/download?force=true&w=1920
+photos:
+  name: Photo by My Life Through A Lens on Unsplash
+  url: https://unsplash.com/@bamagal
 authors:
   - Yasemin Turkyilmaz-van der Velden
   - Santosh Ilamparuthi
