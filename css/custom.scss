@@ -241,6 +241,21 @@ $link-active: $link-hover;
     grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
   }
 
+  .title {
+    a {
+      border-bottom: none;
+      color: inherit;
+      padding: 2px;
+
+      &:active,
+      &:focus,
+      &:hover {
+        color: $black;
+        background: none;
+      }
+    }
+  }
+
   .subtitle {
     font-size: 1.1rem;
     color: #464646;
