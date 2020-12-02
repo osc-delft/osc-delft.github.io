@@ -22,7 +22,7 @@ layout: default
             <div class="content">
                 <div class="title">
                 {% if post.external %}
-                    <a href="{{ post.external }}"><p>{{ post.title | escape }}</p></a>
+                    <a href="{{ post.external }}" target="_blank"><p>{{ post.title | escape }}</p></a>
                 {% else %}
                     <a href="{{ post.url }}"><p>{{ post.title | escape }}</p></a>
                 {% endif %}
