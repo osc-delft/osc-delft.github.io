@@ -34,6 +34,7 @@ We're actively developing and learning as a community - in other words, we're al
 - **Inform development of the [TU Delft Open Science Programme](https://www.tudelft.nl/library/actuele-themas/tu-delft-open-science/os/open-science-programme/)**: you will be invited to contribute as consultants and beta-testers for new services and policies offered as part of the TU Delft Open Science Programme
 - **Learn and practise new skills**: you can attend training and workshops to learn more about open science. Also, by presenting to other researchers at departmental and faculty events and training, you will have opportunity to learn and practise effective and engaging communication, and to build a speaker profile.
 - **Increased impact**: become the local open science expert in your community! You will be recognised as a community member on this website, and have the opportunity to be featured on the community blog.
+- **Start new initiatives**: you are connected to other open science practitioners with similar interests, making it easy to connect and work together on projects.
 
 # Get involved
 
