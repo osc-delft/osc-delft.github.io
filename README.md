@@ -1,6 +1,6 @@
 # Open Science Community Delft
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This is the online home of the Open Science Community Delft, officially launched on Sep 17, 2020.
@@ -232,6 +232,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/santoshilam"><img src="https://avatars3.githubusercontent.com/u/49054107?v=4?s=100" width="100px;" alt=""/><br /><sub><b>santoshilam</b></sub></a><br /><a href="#ideas-santoshilam" title="Ideas, Planning, & Feedback">🤔</a> <a href="#blog-santoshilam" title="Blogposts">📝</a></td>
     <td align="center"><a href="https://github.com/niketagrawal"><img src="https://avatars1.githubusercontent.com/u/15953349?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Niket Agrawal</b></sub></a><br /><a href="#ideas-niketagrawal" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/emmyft"><img src="https://avatars1.githubusercontent.com/u/24935760?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Emmy Tsang</b></sub></a><br /><a href="https://github.com/osc-delft/osc-delft.github.io/commits?author=emmyft" title="Code">💻</a> <a href="#data-emmyft" title="Data">🔣</a> <a href="https://github.com/osc-delft/osc-delft.github.io/commits?author=emmyft" title="Documentation">📖</a> <a href="#eventOrganizing-emmyft" title="Event Organizing">📋</a> <a href="#ideas-emmyft" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-emmyft" title="Maintenance">🚧</a> <a href="#projectManagement-emmyft" title="Project Management">📆</a></td>
   </tr>
 </table>
 
