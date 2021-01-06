@@ -11,7 +11,18 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/46314469?v=4",
       "profile": "https://github.com/EstherPlomp",
       "contributions": [
-        "question"
+        "question",
+        "content",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Metahofzicht",
+      "name": "Meta Keijzer",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/70009155?v=4",
+      "profile": "https://github.com/Metahofzicht",
+      "contributions": [
+        "data"
       ]
     },
     {
@@ -30,6 +41,16 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/73690656?v=4",
       "profile": "https://github.com/hrblyth",
       "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "aecryan",
+      "name": "Ashley Cryan",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/70262847?v=4",
+      "profile": "http://ashleycryan.me",
+      "contributions": [
+        "content",
         "ideas"
       ]
     }
