@@ -86,6 +86,15 @@
         "design",
         "ideas"
       ]
+    },
+    {
+      "login": "ebrahimifard",
+      "name": "Amir Fard",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/70349945?v=4",
+      "profile": "https://github.com/ebrahimifard",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
