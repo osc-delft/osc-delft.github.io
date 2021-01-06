@@ -609,7 +609,7 @@ Natalia-Romero-Herrera:
 
 Jose-Carlos-Urra-Llanusa:
     name: José Carlos Urra Llanusa
-    faculty: Industrial Design Engineerin
+    faculty: Industrial Design Engineering
     motivation: I am fascinated by the world of open source in general, we can learn a lot about the history of the internet and open source. Even though our economies run on open source infrastructures we are not aware of it. It is important to address the importance and success of these inventions and technological developments. Students and academics can benefit a lot from understanding and putting in practice peer to peer and open source, but it is important to introduce these concepts bit by bit in order to be effective and compelling.
     expertise: I am an industrial and interaction designer with engineering and programming skills. I have worked for 4 years in medical design, I have worked also as UX design and developer in open hardware projects. I have been a mentor for the mozilla open leaders program for two rounds, and collaborated also for the Open Source Ecology project. I would say that my core area of expertise today is open source design.
     email: J.C.UrraLlanusa@tudelft.nl
@@ -619,7 +619,7 @@ Jose-Carlos-Urra-Llanusa:
 
 Sebastian-Fajardo:
     name: Sebastian Fajardo
-    faculty: Mechanical, Maritime and Material (3mE)
+    faculty: Mechanical, Maritime and Materials Engineering (3mE)
     position: Postdoctoral Researcher
     department: Materials Science
     motivation: 'I like to build and explore multi-temporal data about long-term human complex systems. These datasets should be managed and stored systematically in order to provide a source of information for long-term decisions of present and future societies.
@@ -631,7 +631,7 @@ Sebastian-Fajardo:
 
 Alejandro-M-Aragon:
     name: Alejandro M. Aragón
-    faculty: Mechanical, Maritime and Material (3mE)
+    faculty: Mechanical, Maritime and Materials Engineering (3mE)
     position: Assistant Professor
     department: Precision and Microsystems Engineering
     motivation: I believe the output of research, comprised of articles and the data needed to create them, should not be kept behind paywalls. This is particularly true for research funded by tax payers. There have been remarkable advances towards open science to make available data that has not yet received the spotlight.
@@ -668,7 +668,7 @@ Kim-Batselier:
 
 Sergio-Grammatico:
     name: Sergio Grammatico
-    faculty: Mechanical, Maritime and Materials Engineering
+    faculty: Mechanical, Maritime and Materials Engineering (3mE)
     position: Associate Professor
     department: Delft Center for Systems and Control
     motivation: Proper data and software management and sharing is becoming a priority for open science.
@@ -681,7 +681,7 @@ Sergio-Grammatico:
 
 Othon-Moultos:
     name: Othon Moultos
-    faculty: Mechanical, Maritime and Materials Engineering
+    faculty: Mechanical, Maritime and Materials Engineering (3mE)
     position: Assistant Professor
     department: Engineering thermodynamics
     motivation: As I always seek for better data management methods, meeting and working with other data champions will greatly strengthen my efforts.&nbsp;
@@ -694,7 +694,7 @@ Othon-Moultos:
 
 Poulumi-Dey:
     name: Poulumi Dey
-    faculty: Mechanical, Maritime and Materials Engineering
+    faculty: Mechanical, Maritime and Materials Engineering (3mE)
     position: Assistant Professor
     department: Computational Materials Science
     motivation: This will provide me the opportunity to not only share my experiences but also learn from other Data Champions about other efficient ways of managing data. I will share the insights gained from such an exchange of ideas with my department members, which will be gainful for them. Furthermore, I am hopeful that my involvement in the Data Champion program will strengthen the connection between my department and the Data Management team of the University.&nbsp;
@@ -887,3 +887,43 @@ I am a Data Manager with the TU Delft Library Research Data Services Team - exci
   orcid: 0000-0002-5410-2163
   website: https://www.tudelft.nl/en/staff/a.e.cryan/
   photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Ashley-Cryan.jpg
+
+Agnes-Broer:
+  name: Agnes Broer
+  faculty: Aerospace Engineering
+  department: Aerospace Structures and Materials
+  position: PhD candidate
+  expertise: Aerospace Structures, Composite Materials, Structural Health Monitoring, Data Fusion, Fatigue and Impact Loading
+  motivation: I'm motivated to create an open science framework creates opportunities by removing restrictions on access, thereby leading to rapid knowledge sharing around the world. At the same time, it allows for increased transparency, quality, and reproducibility, as well as more chances for extended collaborations.
+  orcid: 0000-0002-9392-483X
+  linkedin: https://www.linkedin.com/in/agnes-broer/
+  researchgate: https://www.researchgate.net/profile/Agnes_Broer
+  website: https://www.tudelft.nl/en/staff/a.a.r.broer/
+  email: a.a.r.broer@tudelft.nl
+  photo: https://github.com/osc-delft/osc-delft.github.io/blob/master/images/members/20180614-10.37.27--%20copy%203_Agnes%20Broer-Reinoso.jpg?raw=true
+
+Yan-Wang:
+  name: Yan Wang
+  faculty: TU Delft Library
+  position: Data stewardship coordinator
+  expertise: data management, service management, business process reengineering, humanitarian simulation exercise
+  motivation: I'm motivated to make research more transparent and accessible, recognize and reward diverse types of research contribution
+  orcid: 0000-0002-6317-7546
+  linkedin: https://www.linkedin.com/in/agnes-broer/
+  twitter: yan_wang
+  website: https://www.tudelft.nl/library/actuele-themas/research-data-management/r/support/data-stewardship/contact/yan-wang/
+  email: y.wang-16@tudelft.nl
+  photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/5/c/csm_Yan%20Wang_2019_11718c4ad9.jpg
+
+Yasemin-Turkyilmaz-van-der-Velden:
+  name: Yasemin Türkyilmaz-van der Velden
+  faculty: Mechanical, Maritime and Material Engineering (3mE)
+  position: Data Steward
+  expertise: Research Data Management, Data Management Plans, Personal Research Data, Electronic Lab Notebooks, Research Reproducibility, FAIR data, Open Science
+  motivation: I believe that for science to be optimally beneficial for the scientific community and the society, it should be an open, transparent and collaborative effort. As a Data Steward, I support researchers to apply good practices in research data management and open science. I really like working in this field and I am learning something new every day. Therefore I am really happy to be part of this community and to exchange and gain knowledge and practices.
+  orcid: 0000-0003-2562-0452
+  twitter: YaseminTurkyilm
+  linkedin: https://www.linkedin.com/in/yasemin-turkyilmaz/
+  website: https://www.tudelft.nl/en/library/current-topics/research-data-management/r/support/data-stewardship/contact/yasemin-turkyilmaz-van-der-velden/
+  email: Y.Turkyilmaz-vanderVelden@tudelft.nl
+  photo: https://github.com/osc-delft/osc-delft.github.io/blob/master/images/members/Turkyilmaz-van%20der%20Velden%2C%20Yasemin_Yasemin%20T%C3%BCrkyilmaz-v.jpg?raw=true
