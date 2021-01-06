@@ -54,6 +54,16 @@
         "ideas",
         "doc"
       ]
+    },
+    {
+      "login": "mwakok",
+      "name": "Maurits Kok",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/15414938?v=4",
+      "profile": "https://github.com/mwakok",
+      "contributions": [
+        "question",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
