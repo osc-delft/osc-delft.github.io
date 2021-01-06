@@ -115,6 +115,15 @@
         "review",
         "test"
       ]
+    },
+    {
+      "login": "manuGil",
+      "name": "Manuel Garcia",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/8195424?v=4",
+      "profile": "https://garciageosmart.com/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
