@@ -11,9 +11,13 @@ photos:
 {% assign people = site.data.people %}
 {% assign metadata = site.data.members-metadata %}
 
-Our community members are *some description of roles of community members*.
+Our community members:
+- are interested in learning, adopting, and/or advocating for open science practices
+- receive and can contribute to a bi-monthly open science news ([read past newsletters here](https://github.com/osc-delft/newsletters))
+- attend our community meet-ups and events, e.g. the Data Champions bi-annual meetings
+- can start open science initiatives within TU Delft (more details coming soon!)
 
-If you would like to join the community, please fill in the form here - our community coordinator will be in touch within a week.
+If you would like to join the community, please [fill in this sign up form](https://forms.office.com/Pages/ResponsePage.aspx?id=TVJuCSlpMECM04q0LeCIe5b6siKuJadBi47i1ux3Gu1UQ1BZV1JJSk9WQlY3MUJHWllJRUpXR0NJSS4u) - our community coordinator will be in touch within two weeks.
 
 # Aerospace Engineering (AE)
 
