@@ -13,6 +13,16 @@
       "contributions": [
         "question"
       ]
+    },
+    {
+      "login": "jurra",
+      "name": "Jose Carlos Urra Llanusa",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/18581201?v=4",
+      "profile": "http://jurra.github.io",
+      "contributions": [
+        "content",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
