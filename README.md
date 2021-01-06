@@ -1,6 +1,6 @@
 # Open Science Community Delft
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This is the online home of the Open Science Community Delft, officially launched on Sep 17, 2020.
@@ -224,6 +224,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://junzis.com"><img src="https://avatars2.githubusercontent.com/u/9550577?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Junzi Sun</b></sub></a><br /><a href="#design-junzis" title="Design">🎨</a> <a href="#ideas-junzis" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/ebrahimifard"><img src="https://avatars2.githubusercontent.com/u/70349945?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Amir Fard</b></sub></a><br /><a href="#ideas-ebrahimifard" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/martateperek"><img src="https://avatars1.githubusercontent.com/u/10851024?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Marta Teperek</b></sub></a><br /><a href="https://github.com/osc-delft/osc-delft.github.io/issues?q=author%3Amartateperek" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/sebranchett"><img src="https://avatars0.githubusercontent.com/u/22983889?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Susan Branchett</b></sub></a><br /><a href="https://github.com/osc-delft/osc-delft.github.io/pulls?q=is%3Apr+reviewed-by%3Asebranchett" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/osc-delft/osc-delft.github.io/commits?author=sebranchett" title="Tests">⚠️</a></td>
   </tr>
 </table>
 
