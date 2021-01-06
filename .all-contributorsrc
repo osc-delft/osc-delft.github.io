@@ -105,6 +105,16 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "sebranchett",
+      "name": "Susan Branchett",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/22983889?v=4",
+      "profile": "https://github.com/sebranchett",
+      "contributions": [
+        "review",
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,
