@@ -74,6 +74,16 @@
         "bug",
         "code"
       ]
+    },
+    {
+      "login": "junzis",
+      "name": "Junzi Sun",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/9550577?v=4",
+      "profile": "https://junzis.com",
+      "contributions": [
+        "design",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
