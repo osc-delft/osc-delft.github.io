@@ -1,6 +1,6 @@
 # Open Science Community Delft
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This is the online home of the Open Science Community Delft, officially launched on Sep 17, 2020.
@@ -214,6 +214,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/EstherPlomp"><img src="https://avatars1.githubusercontent.com/u/46314469?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Esther Plomp</b></sub></a><br /><a href="#question-EstherPlomp" title="Answering Questions">💬</a></td>
     <td align="center"><a href="http://jurra.github.io"><img src="https://avatars1.githubusercontent.com/u/18581201?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jose Carlos Urra Llanusa</b></sub></a><br /><a href="#content-jurra" title="Content">🖋</a> <a href="#ideas-jurra" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="http://ashleycryan.me"><img src="https://avatars0.githubusercontent.com/u/70262847?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ashley Cryan</b></sub></a><br /><a href="#content-aecryan" title="Content">🖋</a> <a href="#ideas-aecryan" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
