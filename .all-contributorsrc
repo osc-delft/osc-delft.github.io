@@ -15,6 +15,25 @@
         "content",
         "ideas"
       ]
+    },
+    {
+      "login": "Metahofzicht",
+      "name": "Meta Keijzer",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/70009155?v=4",
+      "profile": "https://github.com/Metahofzicht",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "jurra",
+      "name": "Jose Carlos Urra Llanusa",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/18581201?v=4",
+      "profile": "http://jurra.github.io",
+      "contributions": [
+        "content",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
