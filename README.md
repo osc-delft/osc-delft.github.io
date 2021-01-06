@@ -1,6 +1,6 @@
 # Open Science Community Delft
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This is the online home of the Open Science Community Delft, officially launched on Sep 17, 2020.
@@ -226,6 +226,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/martateperek"><img src="https://avatars1.githubusercontent.com/u/10851024?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Marta Teperek</b></sub></a><br /><a href="https://github.com/osc-delft/osc-delft.github.io/issues?q=author%3Amartateperek" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/sebranchett"><img src="https://avatars0.githubusercontent.com/u/22983889?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Susan Branchett</b></sub></a><br /><a href="https://github.com/osc-delft/osc-delft.github.io/pulls?q=is%3Apr+reviewed-by%3Asebranchett" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/osc-delft/osc-delft.github.io/commits?author=sebranchett" title="Tests">⚠️</a></td>
     <td align="center"><a href="https://garciageosmart.com/"><img src="https://avatars3.githubusercontent.com/u/8195424?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Manuel Garcia</b></sub></a><br /><a href="https://github.com/osc-delft/osc-delft.github.io/commits?author=manuGil" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/ConnieClare"><img src="https://avatars3.githubusercontent.com/u/72912958?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ConnieClare</b></sub></a><br /><a href="#blog-ConnieClare" title="Blogposts">📝</a></td>
   </tr>
 </table>
 
