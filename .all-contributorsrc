@@ -34,6 +34,16 @@
         "content",
         "ideas"
       ]
+    },
+    {
+      "login": "aecryan",
+      "name": "Ashley Cryan",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/70262847?v=4",
+      "profile": "http://ashleycryan.me",
+      "contributions": [
+        "content",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
