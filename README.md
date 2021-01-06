@@ -1,6 +1,6 @@
 # Open Science Community Delft
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This is the online home of the Open Science Community Delft, officially launched on Sep 17, 2020.
@@ -219,6 +219,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://ashleycryan.me"><img src="https://avatars0.githubusercontent.com/u/70262847?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ashley Cryan</b></sub></a><br /><a href="#content-aecryan" title="Content">🖋</a> <a href="#ideas-aecryan" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/osc-delft/osc-delft.github.io/commits?author=aecryan" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/mwakok"><img src="https://avatars2.githubusercontent.com/u/15414938?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Maurits Kok</b></sub></a><br /><a href="#question-mwakok" title="Answering Questions">💬</a> <a href="#ideas-mwakok" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/ThorkellMoon"><img src="https://avatars0.githubusercontent.com/u/45631318?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ThorkellMoon</b></sub></a><br /><a href="https://github.com/osc-delft/osc-delft.github.io/issues?q=author%3AThorkellMoon" title="Bug reports">🐛</a> <a href="https://github.com/osc-delft/osc-delft.github.io/commits?author=ThorkellMoon" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://junzis.com"><img src="https://avatars2.githubusercontent.com/u/9550577?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Junzi Sun</b></sub></a><br /><a href="#design-junzis" title="Design">🎨</a> <a href="#ideas-junzis" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
