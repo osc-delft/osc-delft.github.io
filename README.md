@@ -1,6 +1,6 @@
 # Open Science Community Delft
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This is the online home of the Open Science Community Delft, officially launched on Sep 17, 2020.
@@ -228,6 +228,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://garciageosmart.com/"><img src="https://avatars3.githubusercontent.com/u/8195424?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Manuel Garcia</b></sub></a><br /><a href="https://github.com/osc-delft/osc-delft.github.io/commits?author=manuGil" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ConnieClare"><img src="https://avatars3.githubusercontent.com/u/72912958?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ConnieClare</b></sub></a><br /><a href="#blog-ConnieClare" title="Blogposts">📝</a></td>
     <td align="center"><a href="https://github.com/yaseminturkyilmaz"><img src="https://avatars3.githubusercontent.com/u/45484225?v=4?s=100" width="100px;" alt=""/><br /><sub><b>yaseminturkyilmaz</b></sub></a><br /><a href="#ideas-yaseminturkyilmaz" title="Ideas, Planning, & Feedback">🤔</a> <a href="#blog-yaseminturkyilmaz" title="Blogposts">📝</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/santoshilam"><img src="https://avatars3.githubusercontent.com/u/49054107?v=4?s=100" width="100px;" alt=""/><br /><sub><b>santoshilam</b></sub></a><br /><a href="#ideas-santoshilam" title="Ideas, Planning, & Feedback">🤔</a> <a href="#blog-santoshilam" title="Blogposts">📝</a></td>
   </tr>
 </table>
 
