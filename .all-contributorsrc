@@ -154,6 +154,15 @@
         "ideas",
         "blog"
       ]
+    },
+    {
+      "login": "niketagrawal",
+      "name": "Niket Agrawal",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/15953349?v=4",
+      "profile": "https://github.com/niketagrawal",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
