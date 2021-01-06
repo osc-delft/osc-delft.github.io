@@ -96,6 +96,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "martateperek",
+      "name": "Marta Teperek",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/10851024?v=4",
+      "profile": "https://github.com/martateperek",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
