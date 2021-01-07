@@ -26,7 +26,7 @@ These changes are nowhere going to pave the perfectly smooth road- they are expe
 
 This is a beginning to creating a home for our community :house_with_garden: Thank you very much to [everyone who've contributed so far](https://github.com/osc-delft/osc-delft.github.io#contributors-). This is by no means complete- more improvements and ideas are waiting to be realised :bulb:. If you have ideas on how we can improve/would like to help, please [submit an issue](https://github.com/osc-delft/osc-delft.github.io/issues).
 
-With this launch, we've started a new Twitter account [@OSCDelft](https://twitter.com/OSCDelft) for our community! Follow up to stay updated on happenings and stories in our community and in the wider national and international open science world :world_map:
+With this launch, we've started a new Twitter account [@OSCDelft](https://twitter.com/OSCDelft) for our community! Follow up to stay updated on happenings and stories in our community and in the wider national and international open science world :world_map: :+1:
 
 ## Data Champions will stay ##
 
