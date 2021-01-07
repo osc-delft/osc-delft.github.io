@@ -35,16 +35,16 @@ I've realised that the data champions identity is special and worth keeping, and
 **Data champions will become an *initiative* within OSC Delft**- they will continue to advocate for and push forward open data and best data management practices.
 - All data champion prior to rebranding will remain data champions
   - If you are new to the community and would like to find out more about becoming a data champion, please email Emmy at f [dot] tsang [at] tudelft [dot] nl
-  - Likewise, email Emmy if you were a data champion but would like to stop being one (and instead explore other initiatives/build your own)*
+  - Likewise, email Emmy if you were a data champion but would like to stop being one (and instead explore other initiatives/build your own)
 - There are/will be other initiatives, e.g. open hardware, open publishing, which can have different/overlapping memberships and goals. If you have ideas of open science activities/projects you would like to pursue, please [feel free to use the community ideas sandbox](https://github.com/osc-delft/ideas-and-plans) for discussions or email Emmy. We'd love to learn how OSCD (as an umbrella for these initatives) can support you ([more here](https://github.com/osc-delft/osc-delft.github.io/issues/29)).
 
 ## Membership and mailing changes ##
 
 Because of this structural change:
 - We have created a new Open Science community newsletter, to be sent *once every two months*
-    - It is sent to all open science community members
+    - It is sent to all open science community members - we'll look into how to make this newsletter better serve OSC Delft in the coming months
     - The mailing list can only be used by community coordinator(s); Members can suggest/contribute items to the newsletter by [submitting an issue to the newsletter repository](https://github.com/osc-delft/ideas-and-plans). Newsletters are [published online](https://github.com/osc-delft/newsletters).
-- Everyone on the data champions mailing list will be added to the open science community mailing list (email retracted).
+- Everyone on the data champions mailing list will be added to the open science community mailing list.
     - We will keep the data champions mailing list, which stays for the use of communication between data champions
     - Any mailings to that list will be related to data (while more general open science items will be on the open science newsletters).
 - This allows for more different, speciaised newsletters in the future, e.g. open access & plan S
