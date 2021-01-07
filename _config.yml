@@ -16,3 +16,4 @@ includes_dir: .
 
 plugins:
   - jekyll-last-modified-at
+  - jemoji
