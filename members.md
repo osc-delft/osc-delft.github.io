@@ -17,7 +17,7 @@ Our community members:
 - attend our community meet-ups and events, e.g. the Data Champions bi-annual meetings
 - can start open science initiatives within TU Delft (more details coming soon!)
 
-If you would like to join the community, please [fill in this sign up form](https://forms.office.com/Pages/ResponsePage.aspx?id=TVJuCSlpMECM04q0LeCIe5b6siKuJadBi47i1ux3Gu1UQ1BZV1JJSk9WQlY3MUJHWllJRUpXR0NJSS4u) - our community coordinator will be in touch within two weeks.
+If you would like to join the community, please [fill in this sign up form](https://osc-delft.github.io/join) - our community coordinator will be in touch within two weeks.
 
 If you spot any errors on the list below or would like to update some information on your profile, please [submit an issue](https://github.com/osc-delft/osc-delft.github.io/issues/new/choose) or [email the community coordinator](mailto:f.tsang@tudelft.nl)
 

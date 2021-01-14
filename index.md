@@ -38,7 +38,7 @@ We're actively developing and learning as a community - in other words, we're al
 
 # Get involved
 
-[Sign up](https://forms.office.com/Pages/ResponsePage.aspx?id=TVJuCSlpMECM04q0LeCIe5b6siKuJadBi47i1ux3Gu1UQ1BZV1JJSk9WQlY3MUJHWllJRUpXR0NJSS4u) to join the Open Science Community Delft.
+[Sign up](https://osc-delft.github.io/join) to join the Open Science Community Delft.
 
 # Code of Conduct
 
