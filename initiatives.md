@@ -3,25 +3,25 @@ layout: page
 title: OSC Delft Initiatives
 image: /images/initiatives.jpg
 photos:
-  name: Christian Chen
-  license: https://unsplash.com/license
-  url: https://unsplash.com/photos/KPydzVyWfqg
+  name: picjumbo_com
+  license: https://pixabay.com/service/license/
+  url: https://pixabay.com/photos/tools-construct-craft-repair-864983/
 ---
 
 {% assign people = site.data.people %}
 {% assign metadata = site.data.members-metadata %}
 
-Open Science Community Delft initiatives are:
+**Open Science Community Delft initiatives are:**
 - Designed by and for community members, with the goal to bring together community members with similar interest or goals to dive deeper/learn more about a certain are of open science
 - Open to participation from all OSC Delft members
 
-All OSC Delft members can propose or start a new initiative. Likewise, existing TU Delft communities can become an initiative of Open Science Community Delft. The advantages of being an OSC Delft initiative are:
+**All OSC Delft members can propose or start a new initiative.** Likewise, existing TU Delft communities can become an initiative of Open Science Community Delft. The advantages of being an OSC Delft initiative are:
 - Having a big, diverse network of like-minded researchers to reach out to, encouraging otherwise unlikely collaborations
 - Access to an online infrastructure to build upon - you don't need to build a website or social media account from scratch to start
 - Benefit from the collective existing knowledge of the community members and community managers
 - Assistance with event organisation and community management, e.g. running mailing lists
 
-If you would like to start a new initiative or bring your community into OSC Delft, please use our idea sandbox to propose and discuss the idea, or [email our community coordinator](mailto:f.tsang@tudelft.nl)
+If you would like to start a new initiative or bring your community into OSC Delft, please use our [idea sandbox](https://github.com/osc-delft/ideas-and-plans) to propose and discuss the idea, or [email our community coordinator](mailto:f.tsang@tudelft.nl)
 
 # Data champions
 
@@ -29,7 +29,7 @@ If you would like to start a new initiative or bring your community into OSC Del
 - Would you like to share your data management tips and tricks in your group/department?
 - Would you like to get rewarded for that?
 
-If you answered 'yes' to any of the above, consider joining OSC Delft and coming a data champion!
+If you answered 'yes' to any of the above, consider joining OSC Delft and becoming a data champion!
 
 ## What do data champions do?
 - Act as advisors/mentors to other researchers in their department/section
@@ -45,7 +45,7 @@ If you answered 'yes' to any of the above, consider joining OSC Delft and coming
 - **Learn new skills**: you can attend training and workshops to learn more about good data stewardship and about data services available at TU Delft; hone your communication and presentation skills by presenting at departmental and faculty training and events
 - **Increased impact**: you will become the local experts on data stewardship, and will be introduced as such to their Heads of Departments and Faculty Deans
 
-## How to become a data champion
+## Become a data champion
 [Join OSC Delft](https://osc-delft.io/join) - in the onboarding email, you will be given the option to sign up to become a data champion.
 
 ## Who are data champions?
