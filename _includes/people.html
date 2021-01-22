@@ -3,11 +3,19 @@
     <div class="media">
       <div class="media-left people-card-avatar">
         <figure class="image is-128x128">
+          {% if user.photo %}
           <img
             class="is-2by3"
             src="{{user.photo}}"
             alt="The photo of {{ user.name}}"
           />
+          {% else %}
+          <img
+            class="is-2by3"
+            src="https://github.com/osc-delft/osc-delft.github.io/blob/master/images/OSCD%20portrait%20placeholder.png?raw=true"
+            alt="{{ user.name}} has not shared a photo"
+          />
+          {% endif %}
         </figure>
       </div>
       <div class="media-content people-card-meta">
