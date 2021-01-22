@@ -14,8 +14,8 @@ photos:
 Our community members:
 - are interested in learning, adopting, and/or advocating for open science practices
 - receive and can contribute to a bi-monthly open science news ([read past newsletters here](https://github.com/osc-delft/newsletters))
-- attend our community meet-ups and events, e.g. the Data Champions bi-annual meetings
-- can start open science initiatives within TU Delft (more details coming soon!)
+- attend our [community meet-ups and events](https://osc-delft.github.io/events), e.g. the Data Champions bi-annual meetings
+- can start [open science initiatives](https://osc-delft.github.io/initiatives) within TU Delft
 
 If you would like to join the community, please [fill in this sign up form](https://osc-delft.github.io/join) - our community coordinator will be in touch within two weeks.
 
