@@ -609,7 +609,8 @@ Natalia-Romero-Herrera:
 
 Jose-Carlos-Urra-Llanusa:
     name: José Carlos Urra Llanusa
-    faculty: ICT Innovation department
+    position: Research Software Engineer
+    faculty: Digital Competence Center, ICT Innovation
     motivation: Contribute to society and enjoy that process on a daily basis. Be engaged in interesting and challenging projects where I can learn from others.
     expertise: Industrial Design, UX Design, Software development, Open Source
     email: J.C.UrraLlanusa@tudelft.nl
@@ -866,7 +867,7 @@ Susan-Branchett:
 
 Amir-Ebrahimi-Fard:
   name: Amir Ebrahimi Fard
-  faculty: Technology, Policy and Management
+  faculty: Digital Competence Center, ICT Innovation
   department: Multi-Actor Systems
   expertise: Social network data analysis, Machine learning, Anomaly detection, Natural language processing, Digital data collection, Python
   motivation: 'I believe one of the most important yet missing pieces in the current research landscape is data management. It facilitates and accelerates the research cycle by making the research activities findable, accessible, interoperable, and reusable (FAIR). Despite the significance of FAIR research, making a large university (with thousands of scholars and lots of ongoing research projects) fully FAIR at once might seem infeasible. That is why the role of data champion matters. They can smoothly bridge this gap by promoting data management practises among their colleagues. Besides the raising awareness, being a data champion provides the opportunity of learning about other or most recent data management techniques and practices. From a personal point of view, I am also very much interested in circulating data management tips among computational social scientists due to the recent tendency of both social scientists and scholars from hard disciplines to work on multidisciplinary projects.'
@@ -879,7 +880,7 @@ Amir-Ebrahimi-Fard:
 
 Ashley-Cryan:
   name: Ashley Cryan
-  faculty: TU Delft Library
+  faculty: Digital Competence Center, ICT Innovation
   position: Data manager
   expertise: data management, data documentation, data storage, DMPonline, version control, FAIR principles, data visualization
   motivation: 'I am an advocate for Open Science and FAIR data, and want to continue learning about best practices for implementing these ideals in practice.
@@ -929,3 +930,36 @@ Yasemin-Turkyilmaz-van-der-Velden:
   website: https://www.tudelft.nl/en/library/current-topics/research-data-management/r/support/data-stewardship/contact/yasemin-turkyilmaz-van-der-velden/
   email: Y.Turkyilmaz-vanderVelden@tudelft.nl
   photo: https://github.com/osc-delft/osc-delft.github.io/blob/master/images/members/Turkyilmaz-van%20der%20Velden%2C%20Yasemin_Yasemin%20T%C3%BCrkyilmaz-v.jpg?raw=true
+
+Niket-Agrawal:
+  name: Niket Agrawal
+  faculty: Digital Competence Center, ICT Innovation
+  position: Research Software Engineer
+  expertise: Software development for embedded, distributed and networked computer system, Internet of Things (IoT), Edge computing, Computer networking
+  motivation: As a Research Software Engineer, I collaborate with the researchers to support them with the software side of their research by helping them learn and implement FAIR (Findable, Accessible, Interoperable, Reusable) software that leads to a high quality and reproducible research. I look forward to engaging with the community to share experiences on applying FAIR principles to research software to be able to better help the researchers, and any relevant opportunities to contribute to the same.
+  linkedin: https://www.linkedin.com/in/niket-agrawal/
+  email: N.Agrawal@tudelft.nl
+  website: https://www.tudelft.nl/en/staff/n.agrawal/
+  photo: https://github.com/osc-delft/osc-delft.github.io/blob/master/images/members/niket_new_Niket%20Agrawal.jpg?raw=true
+
+Jason-Moore:
+  name: Jason Moore
+  faculty: Mechanical, Maritime and Material Engineering (3mE)
+  department: BioMechanical Engineering
+  position: Assistant Professor
+  expertise: multibody dynamics, biomechanics, bicycle engineering, software engineering
+  motivation: I'm a long time practice and advocate of open science. I'd like to meet others that also do so.
+  orcid: 0000-0002-8698-6143
+  website: https://moorepants.info
+  twitter: moorepants
+  email: j.k.moore@tudelft.nl
+  photo: https://github.com/osc-delft/osc-delft.github.io/blob/master/images/members/pointy-hat-300x400_Jason%20Moore.jpg?raw=true
+
+Nicolas-Barker:
+  name: Nicolas Barker
+  position: student
+  faculty: Mechanical, Maritime and Material Engineering (3mE)
+  expertise: Rapid prototyping, learning, engineering, travelling
+  motivation: I am a strong believer in open sources everything for more reasons that I can count. Science in particular has a lot to gain from leaving behind the deadweight of confidentiality.
+  orcid: 0000-0002-1220-0873
+  linkedin: https://www.linkedin.com/in/nicolasbarker
