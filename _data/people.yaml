@@ -963,3 +963,67 @@ Nicolas-Barker:
   motivation: I am a strong believer in open sources everything for more reasons that I can count. Science in particular has a lot to gain from leaving behind the deadweight of confidentiality.
   orcid: 0000-0002-1220-0873
   linkedin: https://www.linkedin.com/in/nicolasbarker
+
+Marcin-Kaczmarek:
+  name: Marcin Kaczmarek
+  position: PhD candidate
+  faculty: Mechanical, Maritime and Material Engineering (3mE)
+  department: Precision and Microsystems Engineering
+  expertise: Vibration Control, Metamaterials, Mechatronics, Systems and Control
+  orcid: 0000-0003-1469-2303
+  linkedin: https://www.linkedin.com/in/mbtkaczmarek/
+  website: https://www.tudelft.nl/3me/over/afdelingen/precision-and-microsystems-engineering-pme/people/junior-research-staff/kaczmarek-marcin/
+  photo: https://github.com/osc-delft/osc-delft.github.io/blob/master/images/members/Marcin-2020-07-09%20(3)%20(1)_Marcin%20Kaczmarek.JPG?raw=true
+  email: m.b.kaczmarek@tudelft.nl
+
+Abhigyan-Singh:
+  name: Abhigyan Singh
+  position: Assistant Professor
+  faculty: Industrial Design Engineering
+  email: a.singh@tudelft.nl
+
+Feijia-Yin:
+  name: Feijia Yin
+  position: Assistant Professor
+  faculty: Aerospace Engineering
+  department: Control and Operations
+  expertise: aircraft propulsion modelling, novel propulsion concept, climate effects of aviation
+  orcid: 0000-0002-6081-9136
+  linkedin: https://www.linkedin.com/in/feijia-yin-28265a27/
+  email: f.yin@tudelft.nl
+  website: https://www.tudelft.nl/staff/f.yin/
+  photo: https://github.com/osc-delft/osc-delft.github.io/blob/master/images/members/20171109-13.03.45--fei%20jia,%20staffotos-LR_smal_Feijia%20Yin.jpg?raw=true
+
+Nergis-Tomen:
+  name: Nergis Tömen
+  position: Postdoctoral researcher
+  faculty: Electrical Engineering, Mathematics and Computer Science
+  department: Computer Science
+  expertise: Computer vision, deep learning, machine learning, biologically inspired vision, computational neuroscience, image processing, signal processing
+  motivation: I am passionate about open science as I believe it is integral to reproducible science, building better collaborations, better scientific communications and public engagement. There is an increasing need to establish improved reproducibility in both basic and applied research, in line with the basic principles of scientific method and reliable progress. For this, researchers need free access to others' work, both in terms of data, source code, documentation and hardware. With the growing cost of data acquisition and annotation in many fields, good data sharing and management platforms are becoming precious resources. Therefore, free and open access to such resources collectively improves the success, strength, reach and impact of all research.
+  orcid: 0000-0003-3916-1859
+  linkedin: https://www.linkedin.com/in/nergis-t%C3%B6men-176a9317a/
+  email: n.tomen@tudelft.nl
+  photo: https://github.com/osc-delft/osc-delft.github.io/blob/master/images/members/CV_photo_Nergis%20T%C3%B6men.png?raw=true
+
+Aaron-Ding:
+  name: Aaron Ding
+  position: Assistant Professor
+  faculty: Technology, Policy and Management
+  department: Engineering Systems and Services
+  expertise: Edge Intelligence, Trustworthy AI, IoT
+  motivation: Open science is the future to make our community more sustainable, healthy and robust.
+  linkedin: https://www.linkedin.com/in/aaronyiding/
+  website: https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/assistant-professors/dr-a-y-aaron-yi-ding/
+  photo: https://github.com/osc-delft/osc-delft.github.io/blob/master/images/members/aaron-profile_Aaron%20Ding.jpg?raw=true
+
+Hugo-Verhelst:
+  name: Hugo Verhelst
+  position: PhD candidate
+  faculty: Electrical Engineering, Mathematics and Computer Science
+  department: Delft Institute of Applied Mathematics
+  expertise: Computational Mechanics; Structural Analysis; Finite Element Methods; Isogeometric Analysis
+  motivation: I strongly believe in open science and in my domain the open-source codes are very important. In academia, open-source code seems to be quite established, but in industry that is not always the case. I hope that we, as an educational institution for engineers, can show students the power of open-source software, and that we can also provide them the skills and knowledge to work with these powerful tools.
+  orcid: 0000-0001-8677-862X
+  email: h.m.verhelst@tudelft.nl
+  photo: https://github.com/osc-delft/osc-delft.github.io/blob/master/images/members/image_Hugo%20Verhelst.jpeg?raw=true

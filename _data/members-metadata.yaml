@@ -16,6 +16,7 @@ ae:
   - Stefan-Hickel
   - Calvin-Rans
   - Agnes-Broer
+  - Feijia-Yin
 
 as:
   - Leila-Inigo-de-la-Cruz
@@ -56,12 +57,15 @@ eemcs:
   - Thomas-Abeel
   - Willem-Paul-Brinkman
   - Jose-Rueda-Torres
+  - Nergis-Tomen
+  - Hugo-Verhelst
 
 ide:
   - Jerry-de-Vos
   - Jacky-Bourgeois
   - Valeria-Pannunzio
   - Natalia-Romero-Herrera
+  - Abhigyan-Singh
 
 threemE:
   - Alejandro-M-Aragon
@@ -70,6 +74,7 @@ threemE:
   - Kim-Batselier
   - Sebastian-Fajardo
   - Sergio-Grammatico
+  - Marcin-Kaczmarek
   - Othon-Moultos
   - Jason-Moore
   - Poulumi-Dey
@@ -84,6 +89,7 @@ tpm:
   - Scott-Cunningham
   - Juan-M-Duran
   - Anneke-Zuiderwijk-van-Eijk
+  - Aaron-Ding
 
 other:
   - Susan-Branchett
@@ -166,6 +172,7 @@ datachampions:
     - Susan-Branchett
     - Amir-Ebrahimi-Fard
     - Ashley-Cryan
+    - Agnes-Broer
 
 openhardware:
   - Jose-Carlos-Urra-Llanusa
