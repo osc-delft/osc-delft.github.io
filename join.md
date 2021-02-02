@@ -10,8 +10,8 @@ photos:
 
 Are you interested in:
 - learning more about open science, including the TU Delft open science programme?
-- opportunities to share your knowledge, collaborate with others within and beyond TU Delft, and discover new research practices?
-- giving feedback and input to the Open Science Programme team and research support at TU Delft?
+- opportunities to share your knowledge and experience, to collaborate with others within and beyond TU Delft, and discover new research, teaching, management and engagement practices?
+- giving feedback and input to the Open Science Programme at TU Delft?
 - being recognised for your work?
 
 Join the Open Science Community!
