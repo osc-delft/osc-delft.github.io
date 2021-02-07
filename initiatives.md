@@ -16,7 +16,7 @@ photos:
 - Open to participation from all OSC Delft members
 
 **All OSC Delft members can propose or start a new initiative.** Likewise, existing TU Delft communities can become an initiative of Open Science Community Delft. The advantages of being an OSC Delft initiative are:
-- Having a big, diverse network of like-minded researchers to reach out to, encouraging otherwise unlikely collaborations
+- Having a big, diverse network of like-minded people to reach out to, encouraging otherwise unlikely collaborations
 - Access to an online infrastructure to build upon - you don't need to build a website or social media account from scratch to start
 - Benefit from the collective existing knowledge of the community members and community managers
 - Assistance with event organisation and community management, e.g. running mailing lists
@@ -25,16 +25,16 @@ If you would like to start a new initiative or bring your community into OSC Del
 
 # Data champions
 
-- Are you practising good research data management?
+- Are you practising or advocating for good research data management?
 - Would you like to share your data management tips and tricks in your group/department?
 - Would you like to get rewarded for that?
 
 If you answered 'yes' to any of the above, consider joining OSC Delft and becoming a data champion!
 
 ## What do data champions do?
-- Act as advisors/mentors to other researchers in their department/section
-- Advocate for research data management and sharing at the department/section
-- Speak to researchers about own experience with data management during departmental and section presentations and training events. Data Champions will be able to apply to the dedicated Data Champions Training Fund to get financial support to organise these.
+- Act as advisors/mentors to other in their department/group/section
+- Advocate for research data management and sharing at the department/group/section
+- Speak to others about own experience with data management during departmental and section presentations and training events. Data Champions will be able to apply to the dedicated Data Champions Training Fund to get financial support to organise these.
 - Work closely with your faculty data stewards and participate in Data Champions meetings at your faculty
 - Participate in bi-annual meetings for all TU Delft’s Data Champions
 
