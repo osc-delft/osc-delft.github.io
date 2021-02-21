@@ -29,7 +29,7 @@ If you would like to add an event here, please [submit an issue on GitHub](https
 {% endif %}
 
 {% if event.website %}
-**Find out more** at [the event website]({{ event.website }})
+**Find out more** at [the event website]({{ event.website }}){:target="_blank"}
 {% endif %}
 
 {% endfor %}
