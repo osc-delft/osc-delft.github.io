@@ -58,7 +58,7 @@ If you answered 'yes' to any of the above, consider joining OSC Delft and becomi
 {% endfor %}
 </div>
 
-# Open Hardware
+# Delft Open Hardware
 
 **Delft Open Hardware** is a bottom-up community of students, researchers, university staff and alumni at TU Delft, started in September 2019. We believe that open source software and hardware are game changers in education, research and sustainability. This is why we work on open source hardware projects and run events where we share our expertise and passion with others.
 
