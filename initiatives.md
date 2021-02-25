@@ -68,6 +68,7 @@ excellent work and, intensive peer review for and quality assurance.
 
 ## What does Delft Open Hardware members do?
 - Design and develop open hardware projects together, through sharing our ideas in meetups and our Telegram group.
+  - See some of our [running hardware projects](https://delftopenhardware.nl/projects/)
 - Organise training and events to raise awareness around open hardware
 - (coming soon!) Mentor and supervisor open hardware bachelor & master theses projects and internships
 - (Coming soon!) Manage a makers space
