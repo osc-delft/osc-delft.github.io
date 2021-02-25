@@ -66,7 +66,7 @@ If you answered 'yes' to any of the above, consider joining OSC Delft and becomi
 Open (source) hardware means releasing publicly the source of how hardware is designed so that anyone can study, improve and distribute the technology. By doing so, everyone: engineers, developers, end-users and other stakeholders, are free to improve and decide how the projects evolve on the basis of innovative ideas,
 excellent work and, intensive peer review for and quality assurance.
 
-## What does Delft Open Hardware members do?
+## What do Delft Open Hardware members do?
 - Design and develop open hardware projects together, through sharing our ideas in meetups and our Telegram group.
   - See some of our [running hardware projects](https://delftopenhardware.nl/projects/)
 - Organise training and events to raise awareness around open hardware
