@@ -60,7 +60,19 @@ If you answered 'yes' to any of the above, consider joining OSC Delft and becomi
 
 # Open Hardware
 
-[Visit the Delft Open Hardware website](https://delftopenhardware.nl/) - full description here soon!
+**Delft Open Hardware** is a bottom-up community of students, researchers, university staff and alumni at TU Delft, started in September 2019. We believe that open source software and hardware are game changers in education, research and sustainability. This is why we work on open source hardware projects and run events where we share our expertise and passion with others.
+
+## What is open source hardware?
+Open (source) hardware means releasing publicly the source of how hardware is designed so that anyone can study, improve and distribute the technology. By doing so, everyone: engineers, developers, end-users and other stakeholders, are free to improve and decide how the projects evolve on the basis of innovative ideas,
+excellent work and, intensive peer review for and quality assurance.
+
+## What does Delft Open Hardware members do?
+- Design and develop open hardware projects together, through sharing our ideas in meetups and our Telegram group.
+- Organise training and events to raise awareness around open hardware
+- (coming soon!) Mentor and supervisor open hardware bachelor & master theses projects and internships
+- (Coming soon!) Manage a makers space
+
+[Visit the Delft Open Hardware website](https://delftopenhardware.nl/) to find out more, and [join our community](https://docs.google.com/forms/d/e/1FAIpQLSdSR4w9Im24kFD_bJfGQ3pl8TsqOAIqJUTgEa9Rm22RzcAwkg/viewform)!
 
 ## Open Hardware community members
 
