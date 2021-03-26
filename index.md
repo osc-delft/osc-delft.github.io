@@ -8,11 +8,19 @@ photos:
   url: https://unsplash.com/photos/46juD4zY1XA
 ---
 
-The Open Science Community Delft is an inclusive learning community that focuses on sharing and promoting Open Science practices.
+The Open Science Community Delft (OSCD) is an inclusive learning community that focuses on sharing and promoting Open Science practices.
+
+**We are part of a bigger group!** OSCD is part of the ***International Network of Open Science and Scholarship Communities (INOSC)*** . INOSC members include:
+- in the Netherlands: [Amsterdam](https://twitter.com/OSCAmsterdam), [Eindhoven](https://twitter.com/OSCEindhoven), [Groningen](https://twitter.com/OSCGroningen), [Leiden](https://www.universiteitleiden.nl/open-science-community-leiden), [Maastricht](https://www.openscience-maastricht.nl/), [Nijmegen](https://twitter.com/OSCNijmegen), [Twente](https://www.openscience-twente.com/), [Utrecht](https://twitter.com/OpenSciUtrecht)
+- outside of the Netherlands: [Galway](http://osc-galway.ie/), [Sweden](https://www.opensciencesweden.org/)
+
+![Open Science Communities worldwide](https://github.com/osc-delft/osc-delft.github.io/blob/master/images/INOSC%20map.png?raw=true)
+
+*The 13 open science communities worldwide. Image by [Anita Eerland](http://www.anitaeerland.com/about/), licensed under [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en).*
 
 # Who can join the Open Science Community Delft?
 **Everyone** who is interested in any aspects of open science.
-- There are many different aspects of open science, including open research, open education, open-source software and hardware, citizen science... 
+- There are many different aspects of open science, including open research, open education, open-source software and hardware, citizen science...
 You don't have to be interested in everything to join us: you are encouraged to be participate and contribute in a way that you feel comfortable with.
 - You absolutely *don't* have to be an expert - most of us don't know everything about open science. The important thing is to come with an open mind, to share and to be willing to learn
 - OSC Delft is not built for researchers only. We welcome everyone, whether you are supporting researchers in their work, or more involved in policy or teaching - we would love to learn from you and your perspective.
@@ -20,7 +28,6 @@ You don't have to be interested in everything to join us: you are encouraged to 
 Please do note that we expect everyone to follow our [Code of Conduct]({{ site.github.repository_url }}/blob/master/CODE_OF_CONDUCT.md).
 
 # What does the community do?
-- We share our experiences and learn from each other through bi-annual meetings and discussions in our Slack space.
 - We help each other out towards working more openly, collaboratively, and FAIR-ly (Findable, Accessible, Interoperable and Reusable), through sharing our knowledge and being open to learning.
 - We create space and resources for community members to drive their own initiatives.
 
