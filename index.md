@@ -28,20 +28,24 @@ You don't have to be interested in everything to join us: you are encouraged to 
 Please do note that we expect everyone to follow our [Code of Conduct]({{ site.github.repository_url }}/blob/master/CODE_OF_CONDUCT.md).
 
 # What does the community do?
-- We help each other out towards working more openly, collaboratively, and FAIR-ly (Findable, Accessible, Interoperable and Reusable), through sharing our knowledge and being open to learning.
-- We create space and resources for community members to drive their own initiatives.
+- We help each other out towards working more openly, collaboratively, and FAIR-ly (Findable, Accessible, Interoperable and Reusable), through sharing our knowledge and participating in various learning opportunities
+- We create space and resources for community members to drive their own open initiatives
 
 We're actively developing and learning as a community - in other words, we're almost always "work-in-progress", looking for new ideas and input!
 
 # What are the benefits?
-- **Network building**: you will be able to connect with, learn from and collaborate with others interested in open science:
+- **Inform development of TU Delft open science policies and [the TU Delft Open Science Programme](https://repository.tudelft.nl/islandora/object/uuid%3Af2faff07-408f-4cec-bd87-0919c9e4c26f)**: you will be invited to contribute as consultants and beta-testers for policies, services and training offered as part of the TU Delft Open Science Programme
+
+- **Build networks and collaborations**: you will be able to connect with, learn from and collaborate with others interested in open science:
   - From other departments and faculties in TU Delft
   - In other roles and career stages, and with other experiences
-  - From all around the world- OSC Delft is part of a larger network of more than 10 open science communities in the Netherlands and beyond.
+  - From all around the world- OSC Delft is part of the International Network of Open Science Communities, which comprise more than 10 open science communities in the Netherlands and beyond
   - You will receive information about open science events, trainings and funding opportunities
-- **Inform development of the [TU Delft Open Science Programme](https://repository.tudelft.nl/islandora/object/uuid%3Af2faff07-408f-4cec-bd87-0919c9e4c26f)**: you will be invited to contribute as consultants and beta-testers for new services and policies offered as part of the TU Delft Open Science Programme
+
 - **Learn and practise new skills**: you can attend training and workshops to learn more about open science. Also, by presenting at departmental and faculty events and training, you will have opportunity to learn and practise effective and engaging communication, and to build a speaker profile.
-- **Increased impact**: become the local open science expert in your community! You will be recognised as a community member on this website, and have the opportunity to be featured on the community blog.
+
+- **Increased impact**: become the local open science expert in your community and champion open practices! You can be recognised by your faculty management and on this website, and have the opportunity to be featured on the [community blog](https://osc-delft.github.io/posts).
+
 - **Start new initiatives**: you are connected to other open science practitioners with similar interests, making it easy to connect and work together on projects.
 
 # Get involved

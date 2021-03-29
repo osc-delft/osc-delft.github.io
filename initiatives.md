@@ -32,18 +32,17 @@ If you would like to start a new initiative or bring your community into OSC Del
 If you answered 'yes' to any of the above, consider joining OSC Delft and becoming a data champion!
 
 ## What do data champions do?
-- Act as advisors/mentors to other in their department/group/section
-- Advocate for research data management and sharing at the department/group/section
-- Speak to others about own experience with data management during departmental and section presentations and training events. Data Champions will be able to apply to the dedicated Data Champions Training Fund to get financial support to organise these.
-- Work closely with your faculty data stewards and participate in Data Champions meetings at your faculty
-- Participate in bi-annual meetings for all TU Delft’s Data Champions
+- *Advocate* for research data management and sharing at the department/group/section - data champions help spread the word about the latest developments and opportunities regarding data/code, and establish good data practices within their groups and/or departments
+- *Inform* policy, service and training development - data champions work closely with faculty data stewards and help design and offer input and feedback for data policies, workflows, tools and training
+- *Speak* to others about their experience with data management during departmental and section presentations and training events- data champions are considered local experts on data-related issues.
+- *Network* with other data champions from different faculties and departments through participating in bi-annual meetings for all TU Delft’s Data Champions
 
 ## Data champions rewards
-- **Network building**: connect with and to learn from other people interested in data stewardship from other departments and faculties, through opportunities to attend international conferences - you can apply for a dedicated Data Champions Travel and Training Fund for this, and will receive regular updates about interesting conferences and workshops
-- **Inform development of research data services**: serve as local subject experts and be consulted (optional) bout new central initiatives related to research data stewardship and software sustainability
-- **Financial incentives**: access to any new data stewardship-related funding opportunities available at TU Delft; Can apply for a dedicated Data Champions Travel and Training Fund to organize or attend activities relating to research data management/sharing at TU Delft or elsewhere
-- **Learn new skills**: you can attend training and workshops to learn more about good data stewardship and about data services available at TU Delft; hone your communication and presentation skills by presenting at departmental and faculty training and events
-- **Increased impact**: you will become the local experts on data stewardship, and will be introduced as such to their Heads of Departments and Faculty Deans
+- Build new networks and collaborations - data champions have reached out through the network to find new collaborations for projects and gran applications
+- Recognition by faculty management - faculty management and staff recognise and value the input and expertise from data champions in data-related initiatives
+- Upskilling opportunities - for example, data champions can hone their communication skills through presenting to a large, diverse audience
+- Close working relationships with faculty data stewards, faculty support staff and staff from the university corporate offices, e.g. Library, ICT,
+
 
 ## Become a data champion
 [Join OSC Delft](https://osc-delft.io/join) - in the onboarding email, you will be given the option to sign up to become a data champion.
