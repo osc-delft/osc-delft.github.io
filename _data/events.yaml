@@ -9,14 +9,48 @@
 #
 ---
 
-- title: "Data, Society, and Open Science III: challenges for data management and data-based research"
-  date_time: March 30, 2021, 10:45-16:30 CEST
-  location: Online through Zoom
+- title: "Software Policy and Guidelines: Information session for research support staff"
+  date_time: Session 1 on May 10, 13-14:30; Session 2 on June 6, 13:30-15
+  location: Online, additional information will be provided after signing up
+  website: https://m7.mailplus.nl/wpxYILmJqwn3-1111-370649-test-1
   content: |
-    The Making Dark Data FAIR project aims to provide an analysis of why data goes “dark” – becomes non-reusable -- in the first place, to develop concrete strategies for how we might best enact the FAIR principles in an effort to reduce dark data, and finally to interrogate the FAIR principles themselves, in an effort to ensure they’re fulfilling the role intended for them (i.e., reducing dark data).
+        The newly drafted TU Delft Research Software Policy and new Guidelines set out a simplified, streamlined process to help researchers to manage and share their software.
 
-    This final roundtable discussion features talks exploring bias in AI, ethics, automated metadata extraction, and more!
-  website: https://www.makingdarkdatafair.com/event-details/data-society-and-open-science-iii-challenges-for-data-management-and-data-based-research
+        The proposed workflow is easy to adopt with a clear division of roles and responsibilities that simplify the organization and (open) sharing of research software. Where previously a lengthy process was required, now, with the introduction of pre-approved licences and software registration, it is easier to comply with copyright rules. The policy and guidelines also offer clarity for researchers with contract and patent intentions.
+
+        TU Delft staff in supporting roles related to Research Software (e.g. data stewards, contract managers, data managers, research software engineers, faculty information managers, etc.) are invited to join this information session.
+
+        In this session, Dr. Merlijn Bazuine from TU Delft Legal Office (Valorisation Centre) will go through the following topics:
+
+        - Why a research software policy?
+        - What does this policy is/is not?
+        - Benefits of the new workflow
+        - How to follow the workflow?
+        - Where to get help?
+
+        An extended part of the session will be dedicated to answer questions.
+
+- title: "Software Policy and Guidelines: Information session for researchers"
+  date_time: Session 1 on May 19, 10-11:30; Session 2 on June 23, 13-14:30
+  location: Online, additional information will be provided after signing up.
+  website: https://m7.mailplus.nl/wp7us2TWPUyB-1105-370649-test-1
+  content: |
+      The newly drafted TU Delft Research Software Policy and new Guidelines set out a simplified, streamlined process to help you as a researchers to manage and share your software.
+
+      The proposed workflow is easy to adopt with a clear division of roles and responsibilities that simplify the organization and (open) sharing of research software. Where previously a lengthy process was required, now, with the introduction of pre-approved licences and software registration, it is easier to comply with copyright rules. The policy and guidelines also offer clarity for researchers with contract and patent intentions.
+
+      TU Delft staff in supporting roles related to Research Software (e.g. data stewards, contract managers, data managers, research software engineers, faculty information managers, etc.) are invited to join this information session.
+
+      In this session, Dr. Merlijn Bazuine from TU Delft Legal Office (Valorisation Centre) will go through the following topics:
+
+      - Why a research software policy?
+      - What does this policy is/is not?
+      - Benefits of the new workflow
+      - How to follow the workflow?
+      - Where to get help?
+
+      An extended part of the session will be dedicated to answer questions.
+
 
 - title: "Plan S Ask-me-anything (AMA)"
   date_time: 3 x 1hr sessions
