@@ -54,7 +54,6 @@ ceg:
 
 eemcs:
   - Suryansh-Sharma
-  - Giordano-Lipari
   - Elena-Congeduti
   - Thomas-Abeel
   - Willem-Paul-Brinkman
@@ -93,7 +92,6 @@ tpm:
   - Jack-Casey
   - Baiba-Pudane
   - Yilin-Huang
-  - Scott-Cunningham
   - Juan-M-Duran
   - Anneke-Zuiderwijk-van-Eijk
   - Aaron-Ding
@@ -118,6 +116,9 @@ alumni:
   - Raul-Ortiz-Merino
   - Joseph-Weston
   - Meg-Perry-Duxbury
+  - Giordano-Lipari
+  - Scott-Cunningham
+
 
 datachampions:
     - Matteo-Pini
@@ -189,6 +190,7 @@ datachampions:
     - Ashley-Cryan
     - Agnes-Broer
     - Ajay-Seth
+    - Bianca-Giovanardi
 
 openhardware:
   - Jose-Carlos-Urra-Llanusa
