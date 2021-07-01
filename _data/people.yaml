@@ -1212,3 +1212,47 @@ Artur-Schweidtmann:
   linkedin: https://www.linkedin.com/in/schweidtmann/
   website: https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/chemical-engineering/principal-scientists/artur-schweidtmann
   photo: https://github.com/osc-delft/osc-delft.github.io/blob/master/images/members/Artur_Schweidtmann_Artur%20Schweidtmann.jpg?raw=true
+
+Martijn-Nagtegaal:
+  name: Martijn Nagtegaal
+  position: PhD Candidate
+  faculty: Applied Sciences
+  department: Imaging Physics
+  expertise: MR Physics, image processing, data visualization, Python, Jupyter Notebooks, Open code
+  motivation: I believe that sharing code, data and the analysis is just as vital as sharing the findings in a paper to make sure that real progress is made. In practice this is not that easy, so I am still learning!
+  orcid: 0000-0002-6563-865X
+  twitter: MaNagtegaal
+  email: m.a.nagtegaal@tudelft.nl
+  photo: https://github.com/osc-delft/osc-delft.github.io/blob/master/images/members/profile_picture_square_Martijn%20Nagtegaal.jpg?raw=true
+
+Franklin-van-der-Hoeven:
+  name: Franklin van der Hoeven
+  position: Programme Manager Open Science
+  faculty: Architecture and Built Environment
+  expertise: Urban Design, Built Heritage, Climate adaptation, High-rise Development, Open Access publishing
+  motivation: Knowledge is power and power should be shared
+  orcid: 0000-0001-9308-0828
+  linkedin: https://www.linkedin.com/in/frankvdhoeven/
+  email: f.d.vanderhoeven@tudelft.nl
+  website: https://research.tudelft.nl/en/persons/fd-van-der-hoeven
+  photo: https://github.com/osc-delft/osc-delft.github.io/blob/master/images/members/frankl1nx_Franklin%20Hoeven.jpg?raw=true
+
+Martina-Cuschieri:
+  name: Martina Cuschieri
+  position: Daily MSc Coordinator Biomedical Engineering and BioMechanical Design
+  faculty: Mechanical, Maritime and Material Engineering (3mE)
+  expertise: Biomedical engineering, project coordination, coaching.
+  linkedin: https://www.linkedin.com/in/martinacuschieri/
+  photo: https://github.com/osc-delft/osc-delft.github.io/blob/master/images/members/IMG-20190806-WA0005turned_Martina%20Cuschieri.jpeg?raw=true
+
+Lianne-Simonse:
+  name: Lianne Simonse
+  position: Assistant Professor
+  faculty: Industrial Design Engineering
+  department: Design for Organisations and Strategy (DOS)
+  expertise: Strategic Design, Future vision design, Design roadmapping, Care model design, Design for AI in eHealth
+  motivation: Involved in projects on Design for Ethics in AI and Design for Medical AI
+  orcid: 0000-0001-8860-6522
+  email: L.W.L.Simonse@tudelft.nl
+  website: https://www.tudelft.nl/en/ide/about-ide/people/simonse-lwl/
+  photo: https://github.com/osc-delft/osc-delft.github.io/blob/master/images/members/LS1_9846_Lianne%20Simonse.jpg?raw=true
