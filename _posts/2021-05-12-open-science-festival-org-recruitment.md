@@ -17,6 +17,8 @@ Would you like to:
 
 This is a unique opportunity for you!
 
+*Update 06/07/21: Due to scheduling clashes and a tight timeline, this event has now been postponed to the week beginning Jan 31, 2022. This allows more time for our community members and organising teams to design a more comprehensive, inspiring event!*
+
 The Open Science Community Delft, together with the TU Delft Open Science Programme, are planning **a 2-day open science event in the first week of November, 2021, with and for TUD researchers and teachers**.
 
 Aims of the event:
