@@ -9,6 +9,23 @@
 #
 ---
 
+- title: "Open Science Coffee: Research Code Review"
+  date_time: Wednesday, September 1, 2021, 10-11am CEST
+  location: Online through Zoom ([register here](https://tudelft.zoom.us/meeting/register/tJwtcOypqzwpHNZPRVlObq8dK_DIGy0yWLrs))
+  content: |
+        More researchers are writing code to process, analyse and visualise their data. For reproducible and robust research, it is increasingly important that this code is reviewed.
+
+        Join this inaugural Open Science Coffee to learn more and discuss best practices, challenges and opportunities in reviewing research code. Our 3 invited panellists with share their experience and perspectives with participants:
+          - Anton Akhmerov: Associate Professor, Department of Quantum Nanoscience & QuTech, TU delft
+          - Stephen Eglen: Professor of Computational Neuroscience, University of Cambridge & Co-Founder, [CODECHECK](https://codecheck.org.uk)
+          - Djura Smits: Research Software Engineer, Netherlands eScience Center
+
+        We will also discuss the latest developments in code reviewing practices. We're excited to hear your questions and thoughts!
+
+        This event is open to all members and non-members - [**register here to participate**](https://tudelft.zoom.us/meeting/register/tJwtcOypqzwpHNZPRVlObq8dK_DIGy0yWLrs)
+
+        The session will also be recorded - a summary and recording will be shared on our [Stories page](https://osc-delft.github.io) shortly after the event.
+
 - title: "Plan S Ask-me-anything (AMA)"
   date_time: 3 x 1hr sessions
   location: Online through Zoom
