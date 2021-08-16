@@ -178,6 +178,16 @@
         "maintenance",
         "projectManagement"
       ]
+    },
+    {
+      "login": "sje30",
+      "name": "Stephen Eglen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1095067?v=4",
+      "profile": "http://damtp.cam.ac.uk/user/eglen",
+      "contributions": [
+        "bug",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
