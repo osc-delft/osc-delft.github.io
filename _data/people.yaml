@@ -1290,3 +1290,27 @@ Arkady-Zgonnikov:
   website: https://www.tudelft.nl/staff/a.zgonnikov/
   email: a.zgonnikov@tudelft.nl
   photo: https://github.com/osc-delft/osc-delft.github.io/blob/master/images/members/Zgonnikov,%20Arkady_Arkady%20Zgonnikov.jpg?raw=true
+
+Olger-Siebinga:
+  name: Olger Siebinga
+  position: PhD Candidate
+  faculty: Mechanical, Maritime and Material Engineering (3mE)
+  department: Cognitive Robotics
+  expertise: Human-robot interaction, Automated Driving, Human Driver Modelling
+  orcid: 0000-0002-5614-1262
+  email: o.siebinga@tudelft.nl
+  photo: https://github.com/osc-delft/osc-delft.github.io/blob/master/images/members/OlgerSiebinga_Portrait_cropped_Olger%20Siebinga.jpg?raw=true
+
+Pirouz-Nourian:
+  name: Pirouz Nourian
+  position: Assistant Professor of Design Informatics
+  faculty: Architecture and the Built Environment
+  department: Architectural Engineering + Technology
+  expertise: Generative Design, Spatial Computing, Vectorized Programming, Spectral Graph Theory, Computer-Aided Design
+  motivation: I am a research software engineer and a maths/computer science educator at the faculty of architecture. Learning from colleagues in other faculties about the best practices in open-science is my main motivation. I would also consider myself as a concerned citizen about the ongoing closed science practices in academic research. I am all in for lobbying for open science.
+  orcid: 0000-0002-3817-7931
+  twitter: Pirouzaan
+  linkedin: https://www.linkedin.com/in/pirouz-nourian-71b10427/
+  email: p.nourian@tudelft.nl
+  website: https://genesis-lab.dev/
+  photo: https://github.com/osc-delft/osc-delft.github.io/blob/master/images/members/me6_Pirouz%20Nourian.jpg?raw=true
