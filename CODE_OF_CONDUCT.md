@@ -1,7 +1,5 @@
 [The original text of this CoC is accessible here: https://osf.io/6gsye/]
 
-[This code is currently open to questions/queries from OSCD community members, until November 30. If no queries are received by that date, we will proceed to adopt this as the official OSCD Code of Conduct. Members can email Emmy Tsang (f [dot] tsang [at] tudelft [dot] nl for any queries or concerns.]
-
 The Open Science Community Delft (OSCD) is part of the International Network of Open Science and Scholarship Communities (INOSC). While every community is unique, we share a set of Guiding Principles and adhere to a Code of Conduct. Please find version 1.0 below.
 
 # Guiding Principles
@@ -26,7 +24,7 @@ Open Science/Scholarship Communities (OSCs) organize, promote, and facilitate op
 - Retaliation against an individual for reporting harassment or other unacceptable behaviors
 - Retaliation against an individual for participating in the investigation of a report of harassment or otherunacceptable behaviors
 - Advocating or encouraging any of the above behaviors
-- Falsely reporting harassment or other unacceptable behaviors
+- Falsely reporting harassment or other unacceptable behaviors.
 Critical examination of beliefs and viewpoints does not, by itself, constitute hostile conduct or harassment. Similarly,use of sexual imagery or language in the context of a professional discussion might not constitute hostile conduct orharassment if necessary to the topic of discussion.
 
 ## Reporting
