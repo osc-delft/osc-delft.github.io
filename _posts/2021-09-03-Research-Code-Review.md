@@ -6,7 +6,7 @@ photo:
   name: Photo by Anas Alshanti on Unsplash
   url: https://unsplash.com/@anasalshanti
 authors:
-   - emmyft
+   - Emmy Tsang
 youtubeId: KPSBNc8FNKM
 ---
 

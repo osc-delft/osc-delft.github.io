@@ -8,10 +8,23 @@
 #   website:
 #
 ---
+- title: "Open Science Coffee: Diversity & Inclusion in Research, Technology and Design"
+  date_time: Wednesday, October 6, 12:45-1:45pm CEST
+  location: Online through Zoom ([register here](https://tudelft.zoom.us/meeting/register/tJUtcOCsrj8qGtRXTxv86bSZKOe_EQ_D_5cF))
+  content: |
+        TU Delft researchers are designing and engineering technologies, systems and frameworks that aim to solve some of the biggest global challenges, from climate change to health. At the same time, we see new technologies causing unwarranted consequences that often fall on minorities and the most vulnerable in our society. Our society is increasingly losing trust in "experts". Our research environments are built for the elite and wealthy, systemically excluding the under-represented. While "open science" and "team science" climb on the agendas of organisations from UNESCO to the Dutch National Funder NWO, are our research, engineering and design processes open for all to participate? Who is missing from our conversations and processes and how does this impact our work? How do we ensure that our work can truly be *global, collaborative and open*?
+
+        3 panellists (to be announced) from research, design and technology development backgrounds will lead the discussion and share their experience and thoughts.
+
+        This event is open to all members and non-members - [**register here to participate**](https://tudelft.zoom.us/meeting/register/tJUtcOCsrj8qGtRXTxv86bSZKOe_EQ_D_5cF)
+
+        The session will also be recorded - a summary and recording will be shared on our [Stories page](https://osc-delft.github.io/posts) shortly after the event.
+
+
 
 - title: "Open Science Coffee: Research Code Review"
   date_time: Wednesday, September 1, 2021, 10-11am CEST
-  location: Online through Zoom ([register here](https://tudelft.zoom.us/meeting/register/tJwtcOypqzwpHNZPRVlObq8dK_DIGy0yWLrs))
+  location: Online through Zoom
   content: |
         More researchers are writing code to process, analyse and visualise their data. For reproducible and robust research, it is increasingly important that this code is reviewed.
 
@@ -22,16 +35,4 @@
 
         We will also discuss the latest developments in code reviewing practices. We're excited to hear your questions and thoughts!
 
-        This event is open to all members and non-members - [**register here to participate**](https://tudelft.zoom.us/meeting/register/tJwtcOypqzwpHNZPRVlObq8dK_DIGy0yWLrs)
-
-        The session will also be recorded - a summary and recording will be shared on our [Stories page](https://osc-delft.github.io) shortly after the event.
-
-- title: "Plan S Ask-me-anything (AMA)"
-  date_time: 3 x 1hr sessions
-  location: Online through Zoom
-  content: |
-        Beginning 2021, funders who support [Plan S](https://www.openaccess.nl/nl/in-nederland/plan-s) worldwide, including NWO, the European Commission and ERC, will adopt new open access publishing mandates for their grantees. At these AMA sessions, Just de Leeuwe (Publishing advisor, TU Delft library) will explain how this may impact researchers' publishing strategy and answer your questions regarding Plan S.
-
-        These sessions have now been postponed to Fall/Winter 2021. If you have questions regarding Plan S, please contact the library at library [at] tudelft [nl] - we're more than happy to hear from you!
-
-        [Subscribe to our low-volume Open Access newsletter](https://listserv.tudelft.nl/mailman/listinfo/openaccessnews) to get the latest updates on changes in national and institutional policies, funders' mandate, and more.
+        The session has now completed - [a recording and summary](https://osc-delft.github.io/posts/2021/09/03/Research-Code-Review/) is available.
