@@ -1335,3 +1335,36 @@ Kees-den-Heijer:
   email: c.denheijer@tudelft.nl
   photo: https://data2day.nl/assets/img/photos/LINK%20Fotografie%201901_80716%20LINKEDIN.jpg
   expertise: Data Management, Software Development, Version Control, Cloud Computing
+
+Claudiu-Forgaci:
+  name: Claudiu Forgaci
+  position: Assistant Professor of Urban Design
+  faculty: Architecture and the Built Environment
+  department: Urbanism
+  expertise: Urban Design; Spatial Analysis; Urban Resilience; Interdisciplinarity; Transdisciplinarity.
+  motivation: Recognising the multifacetedness of research conducted in the field of urbanism in the context of increasingly interconnected cities, I am particularly interested in mixed methodologies enabled by digital tools that can capture the complexities of real-world urban phenomena. Open science can accelerate developments in the field by enabling collaboration and exchange of knowledge amongst researchers, as well as engagement with society through processes of co-creation. For these reasons and more, I am invested in contributing to the growth and development of the open science community.
+  orcid: 0000-0003-3218-5102
+  twitter: claudiuforgaci
+  email: C.Forgaci@tudelft.nl
+  linkedin: https://www.linkedin.com/in/claudiuforgaci/
+  photo: https://github.com/osc-delft/osc-delft.github.io/blob/master/images/members/DSC00084-pasphoto-adjusted_Claudiu%20Forgaci.jpg?raw=true
+
+Michael-Wimmer:
+  name: Michael Wimmer
+  position: Associate Professor
+  faculty: Applied Sciences & QuTech
+  department: QuTech
+  expertise: quantum device physics, numerical simulation
+  orcid: 0000-0001-6654-2310
+  email: m.t.wimmer@tudelft.nl
+  website: https://quantumtinkerer.tudelft.nl/members/michael/
+  photo: https://github.com/osc-delft/osc-delft.github.io/blob/master/images/members/MichaelWimmer_Michael%20Wimmer.jpg?raw=true
+
+Enno-Schroder:
+  name: Enno Schröder
+  position: Assistant Professor
+  faculty: Technology, Policy and Management
+  department: VTI
+  expertise: Economics of Climate, Trade, and Growth
+  motivation: Publish or perish, gatekeepers, and metrics fetishism are driving out good scientists and science.
+  email: e.schroeder@tudelft.nl
