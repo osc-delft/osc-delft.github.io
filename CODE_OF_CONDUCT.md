@@ -2,7 +2,7 @@
 
 **Reusing this Code of Conduct?**
 - We love that you are thinking about having a Code of Conduct for your community/event, and that you like ours here.
-- Please copy-and-paste the text here into a separate document (e.g. gDoc that your entire community can access), or clone [this repo](https://github.com/osc-delft/code-of-conduct-template).
+- Please copy-and-paste the text here into a separate document (e.g. gDoc that your entire community can access), or use [this template repo](https://github.com/osc-delft/code-of-conduct-template).
 - Pay special attention to the reporting and enforcement sections and change them to suit your community/event.
 
 ---
