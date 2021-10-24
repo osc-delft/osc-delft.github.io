@@ -1387,3 +1387,38 @@ Sid-Kumar:
   website: https://www.mech-mat.com/
   email: Sid.Kumar@tudelft.nl
   photo: https://github.com/osc-delft/osc-delft.github.io/blob/master/images/members/photo_Sid%20Kumar.JPG?raw=true
+
+Kishan-Ramesh-Kumar:
+  name: Kishan Ramesh Kumar
+  position: PhD Candidate
+  department: Geosciences
+  faculty: Civil Engineering and Geosciences
+  expertise: Geomechanics, finite element methods, scientific computing, hydrogen energy storage, fluid mechanics
+  motivation: I strongly believe in open science and sharing the knowledge transparently. This will help in sharing the information with more people which will promote the research topic and advance the research findings in the community.
+  orcid: 0000-0001-5476-379X
+  linkedin: https://nl.linkedin.com/in/kishan-ramesh-kumar-b27999a0
+  email: k.rameshkumar-2@tudelft.nl
+  website: https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/reservoir-engineering/staff/phd-students/ramesh-kumar-k
+  photo: https://github.com/osc-delft/osc-delft.github.io/blob/master/images/members/WhatsApp%20Image%202021-10-13%20at%2017.26.39_Kishan%20Ramesh%20Kumar.jpeg?raw=true
+
+Leila-Gharavi:
+  name: Leila Gharavi
+  position: PhD Candidate
+  department: Delft Center for Systems and Control
+  faculty: Mechanical, Maritime and Material Engineering (3mE)
+  expertise: Mechanical Engineering, Systems and Control, Nonlinear Dynamics, Vibration Analysis, Robotics, Soft Robotics, Mechatronics, Autonomous Driving, Autonomous Vehicles
+  motivation: I believe that science and its findings should belong to all the members of the society.
+  orcid: 0000-0003-0301-3504
+  linkedin: https://www.linkedin.com/in/leila-gharavi-0b140880/
+  email: L.Gharavi@tudelft.nl
+  website: https://www.tudelft.nl/en/staff/l.gharavi/?cHash=ffebec46a6f9803672c575077e23f55d
+  photo: https://github.com/osc-delft/osc-delft.github.io/blob/master/images/members/IMG_6612%202_Leila%20Gharavi.jpg?raw=true
+
+Alex-Berg:
+  name: Alex Berg
+  position: PhD Candidate
+  department: Cognitive Robotics
+  faculty: Mechanical, Maritime and Material Engineering (3mE)
+  expertise: Control Systems, Programming (Python, C#, ...), Design of Virtual Environments (Unity), Mechanical Engineering,
+  motivation: I am motivated to join the open science community because of the horrible state it currently is in. Basically, close to nothing is reusable even for the scientific community, let alone people outside of that looking to make use of scientific work.
+  orcid: 0000-0003-4625-0331
