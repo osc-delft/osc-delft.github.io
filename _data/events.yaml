@@ -8,17 +8,34 @@
 #   website:
 #
 ---
+- title: "R Cafe"
+  date_time: Monday November 1, 10-11
+  location: TU Delft Library, main hall
+  content: |
+        Would you like to build your R skills, write R code with others, or ask questions about working with R? Bring your laptop and join the R Cafe!
+
+        More information? Contact dcc@tudelft.nl
+
 - title: "Open Science Coffee: Open Data & Software in Tackling the Climate Crisis"
   date_time: Friday, November 5, 11-12 CET
   location: Online through Zoom ([register here](https://tudelft.zoom.us/meeting/register/tJckcOGvqDsuHdVhqdFVeKJ_6n1qfaE5gpTx))
   content: |
         The climate crisis is a global issue. To gain a full understanding of the issue and to design effective solutions and interventions, it is essential to have data and software that can process, analyse and visualise the data.  It is also crucial that researchers, technologists, policymakers, and everyone interested in helping tackle the climate crisis have access to and can use and collaborate around the data and software. What are the challenges and opportunities in working with climate data? How can open data and software help facilitate collaboration across research, industry and governments in our fight against the climate crisis?
-        
+
         Three panellists will lead the discussion:
         * Nick van de Giessen, Full Professor, Faculty of Civil Engineering and Geosciences, TU Delft
         * Maarten Plieger, Senior Software Engineer, Koninklijk Nederlands Meteorologisch Instituut (KNMI)
         * Diána Szász: Programme Lead - Data Ecosystems and Innovation, Open Data Institute (ODI)
-        
+
         This event is open to all members and non-members - [**register here to participate**](https://tudelft.zoom.us/meeting/register/tJckcOGvqDsuHdVhqdFVeKJ_6n1qfaE5gpTx)
 
         A summary of the session will be shared on our [Stories page](https://osc-delft.github.io/posts) shortly after the event.
+
+- title: "Delft Open Hardware Hack and Play: HPC with a Raspberry Pi Cluster II"
+  date_time: Friday, November 19, 13-17
+  location: TU Delft Library, Orange and Blue rooms
+  content: |
+        Do you work with servers or planning to do so? Are you looking to take advantage of clusters? Are you interested in cloud technology or IoT?
+
+        In this event we are planning to put together and operating a cluster using the clusterhat architecture.
+  website: https://www.eventbrite.co.uk/e/delft-open-hardware-hack-and-playhpc-with-a-raspberry-pi-cluster-ii-tickets-189735513027
