@@ -1366,7 +1366,6 @@ Enno-Schroder:
   faculty: Technology, Policy and Management
   department: VTI
   expertise: Economics of Climate, Trade, and Growth
-  motivation: Publish or perish, gatekeepers, and metrics fetishism are driving out good scientists and science.
   email: e.schroeder@tudelft.nl
 
 Giacomo-Bizinoto-Ferreira-Bosco:
@@ -1422,3 +1421,55 @@ Alex-Berg:
   expertise: Control Systems, Programming (Python, C#, ...), Design of Virtual Environments (Unity), Mechanical Engineering,
   motivation: I am motivated to join the open science community because of the horrible state it currently is in. Basically, close to nothing is reusable even for the scientific community, let alone people outside of that looking to make use of scientific work.
   orcid: 0000-0003-4625-0331
+
+Alessandra-Candian:
+  name: Alessandra Candian
+  position: Open Science & Academic Skills Teacher
+  department: Education Support
+  faculty: TU Delft Library
+  expertise: Education, Scholarly Writing and Communicating, Outreach, DEI, Theoretical Chemistry, Physics, Astrophysics
+  motivation: I strongly believe in a scientific community that is equitable and safe, where knowledge is transparently shared and research output is recognised and rewarded. I also would like to stay update with the latest development in Open Science so I can facilitate students and researchers to develop their opens science skills through trainings and courses.
+  orcid: 0000-0002-5431-4449
+  twitter: donnainfiorino
+  email: a.candian@tudelft.nl
+  photo: https://github.com/osc-delft/osc-delft.github.io/blob/master/images/members/Picture_v1_Alessandra%20Candian.jpg?raw=true
+
+Ryan-Lane:
+  name: Ryan Lane
+  position: PhD Candidate
+  department: Imaging physics
+  faculty: Applied Sciences
+  expertise: python; big data; electron microscopy; fluorescence microscopy
+  motivation: I feel that I have benefitted immensely from open science and open source communities in the past, allowing me to flexibly learn as a student and grow as a scientist. So I will gladly jump at opportunities to give back.
+  orcid: 0000-0002-5887-2069
+  linkedin: https://www.linkedin.com/in/ryanilane/
+  email: r.i.lane@tudelft.nl
+  photo: https://github.com/osc-delft/osc-delft.github.io/blob/master/images/members/prof_pic__ryan_lane_Ryan%20Lane.jpg?raw=true
+
+Lukas-Schulze-Balhorn:
+  name: Lukas Schulze Balhorn
+  position: PhD Candidate
+  department: Chemical Engineering
+  faculty: Applied Sciences
+  expertise: Chemical Engineering, Energy Systems, Computer Vision, Machine Learning
+  photo: https://github.com/osc-delft/osc-delft.github.io/blob/master/images/members/Lukas_profile_pic_Lukas%20Schulze%20Balhor.jpg?raw=true
+
+Qinghe-Gao:
+  name: Gao Qinghe
+  position: PhD Candidate
+  department: Chemical Engineering
+  faculty: Applied Sciences
+  email: Q.Gao-1@tudelft.nl
+
+Guillaume-Rongier:
+  name: Guillaume Rongier
+  position: Assistant Professor
+  faculty: Civil Engineering and Geosciences
+  department: Geoscience & Engineering
+  expertise: Geology, Geomodeling, Geostatistics, Machine Learning, Sedimentology
+  motivation: I believe reproducibility remains too often overlooked in the scientific community, and it ends up being detrimental not just to us scientists but to society as a whole. Open science offers us the principles to better include data and software as an integral part of the scientific literature, increasing its substance and the robustness of the findings it reports.
+  orcid: 0000-0002-5910-6868
+  linkedin: https://www.linkedin.com/in/grongier/
+  email: G.Rongier@tudelft.nl
+  website: https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/applied-geology/staff/academic-staff/rongier-g
+  photo: https://github.com/osc-delft/osc-delft.github.io/blob/master/images/members/IMG_1061_light_square_Guillaume%20Rongier.jpeg?raw=true
