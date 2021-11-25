@@ -54,6 +54,8 @@ Sharing data and allowing others to understand and use it increases the impact o
 
 There is also a need for more technological innovation, especially discovery mechanisms (e.g. search tools) for data, and for more social innovation, e.g. to incentivise researchers to increase the reusability of their data.
 
+*Clarification: 4TU.ResearchData, mentioned in the discussion, serves not only employees of the partner institutions (Eindhoven University of Technology, the University of Twente or Delft University of Technology), but all researchers worldwide. Researchers can deposit up to 10GB research data free of charge. Visit <https://data.4tu.nl/> to find out more.*
+
 *The 2021 series of Delft Open Science Coffee has now concluded - we'd like to thank everyone who attended and contributed. We are currently evaluating where we have done well and what could be improved, and we would appreciate your feedback! Please leave your comments in this [GitHub issue](https://github.com/osc-delft/ideas-and-plans/issues/7), or email community coordinator Emmy at f [dot] tsang [at] tudelft [dot] nl.*
 
 ## Useful links and resources
