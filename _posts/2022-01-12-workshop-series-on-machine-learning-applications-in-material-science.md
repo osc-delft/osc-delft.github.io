@@ -12,7 +12,7 @@ authors:
 
 This workshop series aims to introduce early career researchers in materials science to fundamental machine learning concepts, as well as tools and techniques for applying machine learning approaches to their work, including handling and sharing data as well as building machine learning and deep learning models.
 
-These workshops are designed for early career researchers (ECR) in the field of materials science (PhD candidates, postdocs, assistant professors/research associates): through group interviews and surveys, community members have helped us understand material science ECRs' needs and interests, as well as volunteered to help instruct in/support these workshops. We would like to use this opportunity to thank everyone who contributed!
+These workshops, co-organised by [Material Pioneers](https://materialpioneers.com/), [4TU.ResearchData](https://data.4tu.nl/info/en/) and the Open Science Community Delft, are designed for early career researchers (ECR) in the field of materials science (PhD candidates, postdocs, assistant professors/research associates): through group interviews and surveys, community members have helped us understand material science ECRs' needs and interests, as well as volunteered to help instruct in/support these workshops. We would like to use this opportunity to thank everyone who contributed!
 
 The workshops are open for all ECRs in material science worldwide. They will take place online via Zoom.
 
