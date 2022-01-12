@@ -8,9 +8,11 @@
 #   website:
 #
 ---
-- title: "R Cafe"
-  date_time: Friday November 26, 10-11.30
-  location: Online via MS Teams- [Register here](https://bit.ly/3DqT9Y2)
+- title: "Opening up a Flow battery by Sanli Faez"
+  date_time: "Friday, January 21, 14:30-16:30 CET"
+  location: Online - [Register here](https://www.eventbrite.co.uk/e/tickets-seminar-opening-up-a-flow-battery-by-sanli-faez-228310020417)
   content: |
-        Would you like to build your R skills, write R code with others, or ask questions about working with R? Join the next (virtual) R Cafe!
-  website: https://bit.ly/3DqT9Y2
+        In the future we will use more energy, batteries will play a critical role in providing us with this energy. Sanli Faez is working on an Open Source Flow Battery to democratise the energy market. Sanli Feaz is an assistant professor at the University Utrecht and a big supporter of open science and open-source working. He records regular podcasts and is now one of the pioneers of making open flow batteries!
+
+        We will also be showcasing some of the projects that have been built by the members of the Open Hardware community at Delft, these will include the Open Centrifuge, the Fume sensor, Raspberry Pi Computer Cluster and the award winning Plastic Scanner. Join us to know more about these projects or on how to work on your own!
+  website: https://www.eventbrite.co.uk/e/tickets-seminar-opening-up-a-flow-battery-by-sanli-faez-228310020417
