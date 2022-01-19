@@ -19,11 +19,12 @@ Join the Open Science Community!
 Signing up means that:
 - You will receive a newsletter (hosted on Mailman) every two months, with the latest opportunities and news related to open science and the Open Science Community Delft - you can read some of [our past newsletters](https://github.com/osc-delft/newsletters)
 - (optional) You can be listed on our website as a community member: https://osc-delft.github.io/members
+- (optional) You can join our community slack space, where you can ask questions, participate in discussions and learn about the most up-to-date opportunities and events.
 
 To join the Open Science Community Delft, you have to be an employee/a student of TU Delft, and agree to abide by our community [Code of Conduct](https://github.com/osc-delft/osc-delft.github.io/blob/develop/CODE_OF_CONDUCT.md).
 
-*To access the sign-up form, please log in with your Microsoft account (use NetID@tudelft.net and your NetID account password).*
+[**Go to the sign-up form**](https://forms.gle/v2dtynQ2j6wSMWTS6)
 
-[**Go to the sign-up form**](https://forms.office.com/Pages/ResponsePage.aspx?id=TVJuCSlpMECM04q0LeCIe5b6siKuJadBi47i1ux3Gu1UQ1BZV1JJSk9WQlY3MUJHWllJRUpXR0NJSS4u)
+*Please sign-up using your @tudelft.nl email address - this way we confirm that you are affiliated with TU Delft!*
 
-If you have any questions about joining the community, please don't hesitate to [contact Emmy Tsang, OSC Delft coordinator](mailto:f.tsang@tudelft.nl).
+If you have any questions about joining the community, please don't hesitate to [contact your community coordinator](mailto:opensciece@tudelft.nl).
