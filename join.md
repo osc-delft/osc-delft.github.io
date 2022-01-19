@@ -27,4 +27,4 @@ To join the Open Science Community Delft, you have to be an employee/a student o
 
 *Please sign-up using your @tudelft.nl email address - this way we confirm that you are affiliated with TU Delft!*
 
-If you have any questions about joining the community, please don't hesitate to [contact your community coordinator](mailto:opensciece@tudelft.nl).
+If you have any questions about joining the community, please don't hesitate to [contact your community coordinator](mailto:openscience@tudelft.nl).
