@@ -19,7 +19,7 @@ Our community members:
 
 If you would like to join the community, please [fill in this sign up form](https://osc-delft.github.io/join) - our community coordinator will be in touch within two weeks.
 
-If you spot any errors on the list below or would like to update some information on your profile, please [submit an issue](https://github.com/osc-delft/osc-delft.github.io/issues/new/choose) or [email the community coordinator](mailto:f.tsang@tudelft.nl)
+If you spot any errors on the list below or would like to update some information on your profile, please [submit an issue](https://github.com/osc-delft/osc-delft.github.io/issues/new/choose) or [email the community coordinator](mailto:opensciece@tudelft.nl)
 
 # Aerospace Engineering (AE)
 

@@ -21,7 +21,7 @@ photos:
 - Benefit from the collective existing knowledge of the community members and community managers
 - Assistance with event organisation and community management, e.g. running mailing lists
 
-If you would like to start a new initiative or bring your community into OSC Delft, please use our [idea sandbox](https://github.com/osc-delft/ideas-and-plans) to propose and discuss the idea, or [email our community coordinator](mailto:f.tsang@tudelft.nl)
+If you would like to start a new initiative or bring your community into OSC Delft, please use our [idea sandbox](https://github.com/osc-delft/ideas-and-plans) to propose and discuss the idea, or [email our community coordinator](mailto:openscience@tudelft.nl).
 
 # Data champions
 
