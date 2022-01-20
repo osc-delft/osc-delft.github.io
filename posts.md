@@ -12,7 +12,7 @@ This is a collection of articles, blog posts and reports written by community me
 
 Your article can also be featured here!
 - Do you have an existing blog post, publication or presentation related to open science that you would like to share with another community member? You can request to link to it from this page! Please [submit an issue](https://github.com/osc-delft/osc-delft.github.io/issues) with a URL to the article.
-- Would you like to share your ideas, thoughts and/or experience about open science with other community members? You can write a blog post here. [Contact our community coordinator Emmy](mailto:f.tsang@tudelft.nl), she's also happy to advise on writing and help editing, and brainstorm and co-author the post with you!
+- Would you like to share your ideas, thoughts and/or experience about open science with other community members? You can write a blog post here. [Contact our community coordinator](mailto:openscience@tudelft.nl). We will also happy to advise on writing and help editing, and brainstorm and co-author the post with you!
 
 {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
 
@@ -25,20 +25,20 @@ Your article can also be featured here!
         {% if post.image %}
         <div class="card-image">
             <figure class="image">
-            <img src="{{ post.image }}" alt="{{ post.title }}">
+              <img src="{{ post.image }}" alt="{{ post.title }}">
             </figure>
         </div>
         {% endif %}
 
         <div class="card-content">
             <div class="content">
-                <div class="title">
+                <p class="title">
                 {% if post.external %}
-                    <a href="{{ post.external }}" target="_blank"><p>{{ post.title | escape }}</p></a>
+                    <a href="{{ post.external }}" target="_blank">{{ post.title | escape }}</a>
                 {% else %}
-                    <a href="{{ post.url }}"><p>{{ post.title | escape }}</p></a>
+                    <a href="{{ post.url }}">{{ post.title | escape }}</a>
                 {% endif %}
-                </div>
+                </p>
 
                 <p class="subtitle">
                     <time datetime="{{ post.date | date: date_format }}">{{ post.date | date: date_format }}</time>
