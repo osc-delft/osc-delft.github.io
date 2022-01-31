@@ -56,7 +56,7 @@ I roughly achieved what I wanted to learn. While I did not come to publishing op
 I will be launching the GitHub page for the project when it is ready. This will be spread via Twitter and a Slack channel of my field. I will be talking about it on a conference in a next few months, to promote the project further and come in contact with like-minded people. To make sure the project will get sustained attention, I would like to expand the contributor guide, make the home page more attractive, keep updating the website with the latest developments, write a blog and introduce a wiki to better separate the different topics and contributions.
 
 # Want to know more?
-Visit the (Project repository)[https://github.com/arentkievits/OpenMB-SEM] or the (website)[https://arentkievits.github.io/OpenMB-SEM/]!
+Visit the [Project repository](https://github.com/arentkievits/OpenMB-SEM) or the [website](https://arentkievits.github.io/OpenMB-SEM/)!
 
 
 
