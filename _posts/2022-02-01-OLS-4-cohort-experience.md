@@ -44,7 +44,7 @@ My mentors helped me refine the vision statement and project canvas and gave me 
 
 Through one of my mentors, an expert in my field, I came in contact with the UK community of my field and was introduced to a research software engineer working on the same topic. We had a very fruitful discussion and a I learned a lot about how it is like to work as a research software engineer. 
 
-And after a few weeks, **Boom!** I had a clear project plan and a functional project repository on GitHub! It included all essential elements for an open science community, including a code of conduct, license, informative readme, contributor guide and documentation. I could directly host all the information on a clear and tidy looking webpage. 
+And after a few weeks, **Boom!** I had a clear project plan and a functional [project repository on GitHub](https://github.com/arentkievits/OpenMB-SEM)! It included all essential elements for an open science community, including a code of conduct, license, informative readme, contributor guide and documentation. I could directly host all the information on a clear and tidy looking [webpage](https://arentkievits.github.io/OpenMB-SEM/). 
 
 # The first OpenMB-SEM contribution
 The showpiece of my project was an interactive JuPyter Notebook environment which I created to present my first research data. The Notebook contains info about the experiments and interactive elements which make it easy to look at the data. It is fully functional and comes with clear installation instructions which should make it easier to reproduce the results at home. Thanks to my mentors, who advised me on the format and helped me with testing, it is now almost ready to deploy it alongside a publication. 
