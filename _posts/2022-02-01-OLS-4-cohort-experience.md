@@ -50,7 +50,7 @@ And after a few weeks, **Boom!** I had a clear project plan and a functional pro
 The showpiece of my project was an interactive JuPyter Notebook environment which I created to present my first research data. The Notebook contains info about the experiments and interactive elements which make it easy to look at the data. It is fully functional and comes with clear installation instructions which should make it easier to reproduce the results at home. Thanks to my mentors, who advised me on the format and helped me with testing, it is now almost ready to deploy it alongside a publication. 
 
 # Looking back on my goals
-I roughly achieved what I wanted to learn. While I did not achieve publishing open access yet, I did learn a thing or to about preprints. But in the end, I realized that I had learned much more about open science than I could hope for! 
+I roughly achieved what I wanted to learn. While I did not achieve publishing open access yet, I did learn a thing or two about preprints. But in the end, I realized that I had learned much more about open science than I could hope for! 
 
 ### "This is a big unsolved problem: don’t get dishearthened if it seems like a lot. It is a lot and the whole community is wrestling with this! Your contribution is going to be crucial to solve this issue!"
 
