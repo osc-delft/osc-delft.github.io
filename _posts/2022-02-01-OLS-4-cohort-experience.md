@@ -59,6 +59,7 @@ I will soon be launching the GitHub page. This will be spread via Twitter and a 
 
 # Want to know more?
 Visit the [Project repository](https://github.com/arentkievits/OpenMB-SEM) or the [website](https://arentkievits.github.io/OpenMB-SEM/)!
+Also, if you're interested, check out the [OLS program](https://openlifesci.org)!
 
 
 
