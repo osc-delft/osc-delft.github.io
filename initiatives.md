@@ -38,7 +38,7 @@ If you answered 'yes' to any of the above, consider joining OSC Delft and becomi
 - *Network* with other data champions from different faculties and departments through participating in bi-annual meetings for all TU Delft’s Data Champions
 
 ## Data champions rewards
-- Build new networks and collaborations - data champions have reached out through the network to find new collaborations for projects and gran applications
+- Build new networks and collaborations - data champions have reached out through the network to find new collaborations for projects and grant applications
 - Recognition by faculty management - faculty management and staff recognise and value the input and expertise from data champions in data-related initiatives
 - Upskilling opportunities - for example, data champions can hone their communication skills through presenting to a large, diverse audience
 - Close working relationships with faculty data stewards, faculty support staff and staff from the university corporate offices, e.g. Library, ICT,
