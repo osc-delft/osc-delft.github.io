@@ -22,20 +22,21 @@
 #
 # Mandatory: first-name, last-name, faculty
 ---
+
 Andreas-Demetriou:
   name: Andreas M. Demetriou
   photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Andreas_Demetriou.jpeg
   position: PhD candidate
   faculty: Electrical Engineering, Mathmatics and Computer Sciences 
-  department:
-  twitter: handle only
-  email:
-  website:
-  github: username only
-  orcid: number (with hyphens) only
-  linkedin: full URL required
-  researchgate: full URL required
-  expertise:
+# department:
+# twitter: handle only
+  email: a.m.demetriou@tudelft.nl
+# website:
+# github: username only
+#  orcid: number (with hyphens) only
+# linkedin: full URL required
+# researchgate: full URL required
+#  expertise:
 # motivation:
 #    -
 
