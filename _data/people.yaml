@@ -22,6 +22,19 @@
 #
 # Mandatory: first-name, last-name, faculty
 ---
+Amin-Ebrahimi:
+  name: Amin Ebrahimi
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Amin_Ebrahimi.jpg
+  position: Postdoctoral Researcher
+  faculty: Mechanical, Maritime and Material Engineering
+  department: Materials Science and Engineering
+  twitter: AminEbrahimi
+  email: a.ebrahimi@tudelft.nl
+  website: http://homepage.tudelft.nl/4j8w3/
+  orcid: 0000-0002-4912-2549
+  linkedin: https://nl.linkedin.com/in/ebrahimiamin
+  expertise: Fluid Mechanics, Heat and Mass Transfer, Computational Sciences, Data- and physics-driven design and optimisation, Metallurgy and Materials processing, Energy systems and Thermal engineering, Micro- Nano-fluidics
+
 Tim-Nijssen:
   name: Tim Nijssen
   photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Tim_Nijssen.jpg
