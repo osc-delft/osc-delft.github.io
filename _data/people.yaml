@@ -22,6 +22,21 @@
 #
 # Mandatory: first-name, last-name, faculty
 ---
+Liliana-Vargas-Meleza:
+  name: Liliana Vargas Meleza
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Liliana_Vargas_Meleza.jpg
+  position: Data Engineer
+  faculty: Civil Engineering and Geosciences
+  department: Geoscience and Engineering (GSE)
+# twitter: handle only
+  email: L.VargasMeleza@tudelft.nl
+# website:
+# github: username only
+  orcid: 0000-0002-6880-1539
+  linkedin: https://www.linkedin.com/in/lvargasmeleza
+# researchgate: full URL required
+  expertise: Geophysics, Petrophysics, Data Management, Databases
+  motivation: To be part of creating a culture change in which scientific staff collectively and cooperatively start embracing open science and open data
 
 Andreas-M-Demetriou:
   name: Andreas M. Demetriou
