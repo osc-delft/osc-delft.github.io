@@ -22,6 +22,19 @@
 #
 # Mandatory: first-name, last-name, faculty
 ---
+Tim-Nijssen:
+  name: Tim Nijssen
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Tim_Nijssen.jpg
+  position: Postdoctoral Researcher
+  faculty: Applied Sciences
+  department: Biotechnology
+  email: t.m.j.nijssen@tudelft.nl
+  website: https://www.tudelft.nl/staff/t.m.j.nijssen/?cHash=6d343bf58e77da862075648192a0063c
+  orcid: 0000-0002-2574-8547
+  linkedin: https://www.linkedin.com/in/tim-nijssen-5a0b87b0/
+  expertise: Fluid dynamics, Numerical methods, Computational Fluid Dynamics, Granular flow, Chemical engineering, Heat and mass transfer
+  motivation: Contributing to shaping the scientific world to be more open, honest and fair, and learning best practices to apply to my own work
+
 Bjørn-Peare-Bartholdy:
   name: Bjørn Peare Bartholdy
   photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Bj%C3%B8rn_Peare_Bartholdy.jpeg
