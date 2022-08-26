@@ -86,22 +86,6 @@ Ahmad-Alrefaei:
   expertise: Catalysis Engineering 
   motivation: I want to improve my knowledge 
 
-Andreas-Demetriou:
-  name: Andreas Demetriou
-  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Andreas_Demetriou.jpeg
-  position: PhD candidate
-  faculty: Electrical Engineering, Mathematics and Computer Science
-  department: Intelligent Systems
-  twitter: a_m_demetriou
-  email: a.m.demetriou@tudelft.nl
-  website: https://www.amdemetriou.com/
-# github: username only
-  orcid: 0000-0002-0724-2278
-# linkedin: full URL required
-# researchgate: full URL required
-  expertise: Ground Truthing in Machine Learning, Psychometrics, Survey Science
-  motivation: I think academic work cannot be considered knowledge unless it is shared completely so that it can be verified through review, reproduction, and replication. I also think that science is a human endeavor largely funded publicly, and think it is a moral violation that it is not accessible to the public. 
-
 Amin-Ebrahimi:
   name: Amin Ebrahimi
   photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Amin_Ebrahimi.jpg
