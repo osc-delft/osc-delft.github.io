@@ -22,6 +22,86 @@
 #
 # Mandatory: first-name, last-name, faculty
 ---
+Trivik-Verma:
+  name: Trivik Verma
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Trivik_Verma.jpeg
+  position: assistant professor
+  faculty: Technology, Policy and Management
+  department: Multi-Actor Systems
+  twitter: TrivikV
+  email: t.verma@tudelft.nl
+  website: https://www.tudelft.nl/staff/t.verma/?cHash=a5ccf17524b932838851536da16505d5
+# github: username only
+  orcid: 0000-0003-2761-5155
+# linkedin: full URL required
+# researchgate: full URL required
+  expertise: urban science, urban planning, inequalities, spatial data science, complexity theory, network analysis, citizen participation, democracy, open-source
+  motivation: I want to support open, integrated and equitable use of data and tools for the benefit all peoples. 
+
+Mark-Bakker:
+  name: Mark Bakker
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Mark_Bakker.jpg
+  position: Professor
+  faculty: Civil Engineering and Geosciences
+  department: Water Management
+# twitter: handle only
+  email: mark.bakker@tudelft.nl
+  website: https://research.tudelft.nl/en/persons/mark-bakker
+# github: username only
+  orcid: 0000-0002-5629-2861
+# linkedin: full URL required
+# researchgate: full URL required
+  expertise: Groundwater dynamics, Python programming, Education
+# motivation:
+
+Marc-Schleiss:
+  name: Marc Schleiss
+# photo: URL to photo
+  position: Assistant professor
+  faculty: Civil Engineering and Geosciences
+  department: Geoscience and Remote Sensing
+# twitter: handle only
+  email: m.a.schleiss@tudelft.nl
+  website: https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-remote-sensing/staff/scientific-staff/dr-ma-marc-schleiss
+# github: username only
+  orcid: 0000-0002-4667-5500
+# linkedin: full URL required
+# researchgate: full URL required
+  expertise: Precipitation sciences, weather radar, remote sensing, statistics, atmospheric sciences, weather, extremes, climate change, flooding
+  motivation: I collect a lot of measurements which I would like to share with others. 
+
+Ahmad-Alrefaei:
+  name: Ahmad Alrefaei
+# photo: URL to photo
+  position: PhD candidate
+  faculty: Applied Sciences
+  department: Chemical Engineering 
+# twitter: handle only
+# email: a.h.alrefaei@tudelft.nl
+# website:
+# github: username only
+# orcid: number (with hyphens) only
+# linkedin: full URL required
+# researchgate: full URL required
+  expertise: Catalysis Engineering 
+  motivation: I want to improve my knowledge 
+
+Andreas-Demetriou:
+  name: Andreas Demetriou
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Andreas_Demetriou.jpeg
+  position: PhD candidate
+  faculty: Electrical Engineering, Mathematics and Computer Science
+  department: Intelligent Systems
+  twitter: a_m_demetriou
+  email: a.m.demetriou@tudelft.nl
+  website: https://www.amdemetriou.com/
+# github: username only
+  orcid: 0000-0002-0724-2278
+# linkedin: full URL required
+# researchgate: full URL required
+  expertise: Ground Truthing in Machine Learning, Psychometrics, Survey Science
+  motivation: I think academic work cannot be considered knowledge unless it is shared completely so that it can be verified through review, reproduction, and replication. I also think that science is a human endeavor largely funded publicly, and think it is a moral violation that it is not accessible to the public. 
+
 Amin-Ebrahimi:
   name: Amin Ebrahimi
   photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Amin_Ebrahimi.jpg
