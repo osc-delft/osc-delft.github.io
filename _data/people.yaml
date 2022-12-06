@@ -241,7 +241,6 @@ Irene-Dedoussi:
     
  Isidora-Araya-Day:
     name: Isidora Araya Day
-    photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Isidora_Araya_Day.jpg
     position: PhD candidate
     faculty: Applied Sciences
     department: QuTech
@@ -249,6 +248,7 @@ Irene-Dedoussi:
     orcid: 0000-0002-2948-4198
     expertise: Condensed matter topology, quantum physics
     motivation: I want to improve my practices so my research is more inclusive and available to others.
+    photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Isidora_Araya_Day.jpg
 
 Junzi-Sun:
     name: Junzi Sun
