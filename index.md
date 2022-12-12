@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Open Science Community Delft
-image: /images/about.jpg
+image: /images/about2.jpg
 photos:
   name: David Pisnoy
   license: https://unsplash.com/license
