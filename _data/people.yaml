@@ -23,15 +23,21 @@
 # Mandatory: first-name, last-name, faculty
 ---
  Isidora-Araya-Day:
-    name: Isidora Araya Day
-    position: PhD candidate
-    faculty: Applied Sciences
-    department: QuTech
-    email: i.m.arayaday@tudelft.nl
-    orcid: 0000-0002-2948-4198
-    expertise: Condensed matter topology, quantum physics
-    motivation: I want to improve my practices so my research is more inclusive and available to others.
-    photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Isidora_Araya_Day.jpg
+  name: Isidora Araya Day
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Isidora_Araya_Day.jpg
+  position: PhD candidate
+  faculty: Applied Sciences
+  department: QuTech
+# twitter:
+  email: i.m.arayaday@tudelft.nl
+# website: 
+# github: username only
+  orcid: 0000-0002-2948-4198
+# linkedin: full URL required
+# researchgate: full URL required
+  expertise: Condensed matter topology, quantum physics
+  motivation: I want to improve my practices so my research is more inclusive and available to others.
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Isidora_Araya_Day.jpg
     
 Trivik-Verma:
   name: Trivik Verma
