@@ -22,6 +22,38 @@
 #
 # Mandatory: first-name, last-name, faculty
 ---
+Tobias-Schmiedel:
+  name: Tobias Schmiedel
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Tobias_Schmiedel_2.jpg
+  position: Assistant Professor
+  faculty: Civil Engineering and Geosciences
+  department: Geosciences & Enginieering
+# twitter: TrivikV
+  email: t.schmiedel@tudelft.nl
+  website: https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/resource-engineering/staff/dr-t-tobias-schmiedel
+# github: username only
+  orcid: 0000-0001-9368-7494
+  linkedin: www.linkedin.com/in/tobias-schmiedel
+# researchgate: full URL required
+  expertise: Minerals, rocks and volcanoes, natural resources from magmatic sources, Gemstones
+  motivation: I am eager to find new ways of bringing science to society. Not only to schools but we are life long learners. How do we promote adult education? 
+
+Seyyed-Abbas-Noorian-Najafabadi:
+  name: Seyyed Abbas Noorian Najafabadi
+# photo: 
+  position: Postdoc
+  faculty: Architecture and Built Environment
+# department: 
+# twitter:
+  email: S.A.NoorianNajafabadi@tudelft.nl
+  website: https://www.tudelft.nl/en/staff/s.a.nooriannajafabadi/?cHash=25e13cdc0c38188b55a9dc0e80d4feed
+# github: username only
+  orcid: 0000-0002-8184-236X
+# linkedin: full URL required
+# researchgate: full URL required
+  expertise: Chemistry, Nanostructure, Textile engineering, Indoor air quality
+# motivation: 
+
 Isidora-Araya-Day:
   name: Isidora Araya Day
   photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Isidora_Araya_Day.jpg
