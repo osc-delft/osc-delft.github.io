@@ -22,22 +22,7 @@
 #
 # Mandatory: first-name, last-name, faculty
 ---
-Alessandro-Bombelli:
-  name: Alessandro Bombelli
-  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Alessandro%20Bombelli%20-%20Alessandro_Bombelli_2.png
-  position: Lecturer
-  faculty: Aerospace Engineering
-  department: Control & Operations
-# twitter: 
-  email: a.bombelli@tudelft.nl
-# website: 
-# github: username only
-  orcid: 0000-0001-7889-9552
-# linkedin:
-# researchgate: full URL required
-  expertise: Operations Research, Linear Optimization, Network Science, Python, Data Visualization 
-  motivation: I am particularly interested in developing more open source tools for educational purposes, such as tutorial, crash courses, and even online/print-and-play board games n the context of operations research and network science
-  
+
 Rik-Volger:
   name: Rik Volger
   photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Rik_Volger.jpg
