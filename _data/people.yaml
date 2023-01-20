@@ -22,6 +22,102 @@
 #
 # Mandatory: first-name, last-name, faculty
 ---
+Alessandro-Bombelli:
+  name: Alessandro Bombelli
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Alessandro%20Bombelli%20-%20Alessandro_Bombelli_2.png
+  position: Lecturer
+  faculty: Aerospace Engineering
+  department: Control & Operations
+# twitter: 
+  email: a.bombelli@tudelft.nl
+# website: 
+# github: username only
+  orcid: 0000-0001-7889-9552
+# linkedin:
+# researchgate: full URL required
+  expertise: Operations Research, Linear Optimization, Network Science, Python, Data Visualization 
+  motivation: I am particularly interested in developing more open source tools for educational purposes, such as tutorial, crash courses, and even online/print-and-play board games n the context of operations research and network science
+  
+Rik-Volger:
+  name: Rik Volger
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Rik_Volger.jpg
+  position: PhD Candidate
+  faculty: Applied Sciences
+  department: Biotechnology
+# twitter: 
+  email: r.volger@tudelft.nl
+# website: 
+# github: username only
+  orcid: 0000-0001-8979-1977
+# linkedin:
+# researchgate: full URL required
+  expertise: Biotechnology; Software Development; Biotechnology for Space Applications; Modelling of Biological Systems
+  motivation: I think knowledge should be gathered for the benefit of society as a whole. Paywalls are detrimental to that. On top of that, good science can be reproduced, for which access to source code and data is essential.
+
+Özge-Okur:
+  name: Özge Okur
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/%C3%96zge_Okur.jpg
+  position: Assistant professor
+  faculty: Technology, Policy and Management
+# department: 
+# twitter: 
+  email: o.okur-1@tudelft.nl
+# website: 
+# github: username only
+# orcid: 
+  linkedin: www.linkedin.com/in/özge-okur-454b271a6
+# researchgate: full URL required
+  expertise: Renewable energy systems, energy community, sustainable education, energy storage
+# motivation: 
+
+Alexander-Smit:
+  name: Alexander Smit
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Alexander_Smit.jpeg
+  position: Assistant professor
+  faculty: Technology, Policy and Management
+  department: Values, Technology and Innovation
+# twitter: 
+  email: A.C.Smit@tudelft.nl
+# website: 
+# github: username only
+  orcid: 0000-0002-3331-8117
+  linkedin: https://www.linkedin.com/in/alexandercsmit/
+# researchgate: full URL required
+  expertise: Business analytics, data-driven innovation, data science, innovation, organization
+# motivation: 
+
+Roberto-Merino-Martinez:
+  name: Roberto Merino-Martinez
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Roberto_Merino.jpg
+  position: Assistant professor
+  faculty: Aerospace Engineering
+  department: Control and Operations
+  twitter: rmerinomartinez
+  email: r.merinomartinez@tudelft.nl
+  website: https://www.tudelft.nl/en/staff/r.merinomartinez/?cHash=b144b2607d620f8d2c5b95fbff760d18
+# github: username only
+  orcid: 0000-0003-2261-9595
+# linkedin: https://www.linkedin.com/in/patrick-altmeyer-a2a25494/
+# researchgate: full URL required
+  expertise: Aircraft noise, wind turbine noise, aeroacoustics, psychoacoustics, acoustic imaging, microphone arrays, beamforming
+  motivation: I strongly believe that open science is the future and that we should all work towards it to enable collaborations, avoid unnecessary redundancies, and, overall, provide progress in science.
+
+Patrick-Altmeyer:
+  name: Patrick Altmeyer
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Patrick_Altmeyer.jpg
+  position: PhD Candidate
+  faculty: Electrical Engineering, Mathematics and Computer Science
+  department: INSY/MMC
+  twitter: paltmey
+  email: p.altmeyer@tudelft.nl
+  website: https://www.paltmeyer.com/
+# github: username only
+  orcid: 0000-0003-4726-8613
+  linkedin: https://www.linkedin.com/in/patrick-altmeyer-a2a25494/
+# researchgate: full URL required
+  expertise: Explainable AI, probabilistic machine learning, data science, finance, economics, monetary policy, software development, Julia
+  motivation: I have been using open-source software and open-access research for many years. More recently I also actively contribute to both, through the development of Julia packages and my blog.
+
 Cynthia-Liem:
   name: Cynthia Liem
   photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Cynthia_Liem.jpg
