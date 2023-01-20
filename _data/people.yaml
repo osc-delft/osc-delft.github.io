@@ -22,6 +22,70 @@
 #
 # Mandatory: first-name, last-name, faculty
 ---
+Cynthia-Liem:
+  name: Cynthia Liem
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Cynthia_Liem.jpg
+  position: Associate Professor
+  faculty: Electrical Engineering, Mathematics and Computer Science
+  department: Intelligent Systems, Faculty of EEMCS
+  twitter: informusiccs
+  email: c.c.s.liem@tudelft.nl
+  website: https://www.cynthialiem.com/; https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/cynthia-liem
+# github: username only
+  orcid: 0000-0002-5385-7695
+  linkedin: https://www.linkedin.com/in/cynthialiem/
+# researchgate: full URL required
+  expertise: Public-interest information filtering (search and recommendation), trustworthy and responsible AI, data-driven decision-making, methodology in interdisciplinary settings, public outreach
+  motivation: As an academic who explicitly would like to act in the public interest, open science is a key element of achieving this
+
+Manuel-Garcia-Alvarez:
+  name: Manuel Garcia Alvarez
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Manuel_Garcia_Alvarez.jpg
+  position: Research Software Engineer
+  faculty: DCC
+# department: 
+# twitter: 
+  email: m.g.garciaalvarez@tudelft.nl
+  website: https://www.tudelft.nl/staff/m.g.garciaalvarez/?cHash=060e581a13c6c58cc71428abe4b0d7eb
+# github: username only
+  orcid: 0000-0003-1579-9989
+# linkedin:
+# researchgate: full URL required
+  expertise:    Geoinformatics, Web development, Collaborative development, Computer vision 
+  motivation: I believe access to scientific knowledge is key for the development of society
+
+Dennis-Pohl:
+  name: Dennis Pohl
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Dennis_Pohl.jpg
+  position: Postdoc
+  faculty: Architecture and Built Environment
+  department: Architecture 
+# twitter: TrivikV
+  email: d.pohl@tudelft.nl
+  website: https://research.tudelft.nl/en/persons/d-pohl
+# github: username only
+  orcid: 0000-0002-4847-1501
+# linkedin:
+# researchgate: full URL required
+  expertise: Architectural History, Global Governance, Digital Culture, History of Computation
+  motivation: To learn more about how open science and open data can improve architectural practice
+
+George-Vrachliotis:
+  name: George Vrachliotis
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Georg_Vrachliotis.jpg
+  position: Professor
+  faculty: Architecture and Built Environment
+  department: Architecture 
+# twitter: TrivikV
+  email: g.vrachliotis@tudelft.nl
+  website: https://www.tudelft.nl/bk/over-faculteit/hoogleraren/profdr-g-vrachliotis
+# github: username only
+  orcid: 0000-0001-7590-845X
+  linkedin: linkedin.com/in/georg-vrachliotis-63a36a1a
+# researchgate: full URL required
+  expertise: Theory of Architecture, Digital Culture, Design Theory, History of Technology 
+  motivation: The 21st century will require us to develop concepts for thinking about design in an open data-based way that deeply considers ecology. Open data has great potential in the design of sustainable space. Therefore, I initiated and lead "The New Open", a new flagship project of the Department of Architecture, TU Delft, to explore the role of open data for design and social change. 
+
 Tobias-Schmiedel:
   name: Tobias Schmiedel
   photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Tobias_Schmiedel_2.jpg
