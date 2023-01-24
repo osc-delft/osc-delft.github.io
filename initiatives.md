@@ -96,14 +96,14 @@ Citizen science is a relatively new concept within science, but is getting more 
 - Citizen science is a great opportunity to test new technologies or innovations on a larger scale.
 - Citizen science helps find the research angle that focuses on the immediate needs of the community that it involves, allowing for research results to be easily used for bringing about change.
 
-[Find out more on our Citizen Science website] (https://www.tudelft.nl/citizenscience) 
+[Find out more on our Citizen Science website](https://www.tudelft.nl/citizenscience) 
 
 ## What do Citizen Science Community members do?
 - Discuss relevant challenges, solutions and opportunities in citizen science projects in regular lunch meetings
 - Organize training, MOOCs and events to raise awareness about Citizen Science
 - Advocate for improved services and infrastructure at TU Delft to make utilizing Citizen science methodology easier and more efficient
 
-[Visit our website] (https://www.tudelft.nl/citizenscience) to find out more about Citizen Science principles and tools, and [join the community] (https://docs.google.com/forms/d/e/1FAIpQLScaVcoGP5TceSZYd571EkaWUzTmlitjm9HUYxEkt4YZV_kMWg/viewform?usp=sf_link)
+[Visit our website](https://www.tudelft.nl/citizenscience) to find out more about Citizen Science principles and tools, and [join the community](https://docs.google.com/forms/d/e/1FAIpQLScaVcoGP5TceSZYd571EkaWUzTmlitjm9HUYxEkt4YZV_kMWg/viewform?usp=sf_link)
 
 
 # Urbanism
