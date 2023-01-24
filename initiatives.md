@@ -85,5 +85,25 @@ excellent work and, intensive peer review for and quality assurance.
 </div>
 
 # Citizen Science
+**Citizen Science Community** at TU Delft is a bottom-up initiative that brings together researchers, educators and university staff passionate about Citizen Science as a methodology for research. We believe that Citizen Science is a catalyst for closing the gap between traditional scientific community and the people who benefit from the results of the research. Yet while the methodology has existed for a while, there is no manual on how to apply it and no one-size-fits-all approach. We are trying to close this gap by sharing experiences, ideas and best practices, as well as supporting each other in various project initiatives.
+
+## What is Citizen Science
+Citizen science actively involves the public in scientific research that generates new knowledge or understanding, and thus has the potential to bring together science, policy makers, and society as a whole in an impactful way.
+
+Citizen science is a relatively new concept within science, but is getting more and more popular as part of research projects. It has multiple benefits:
+- It is an efficient way to collect and process data. A group of citizen scientists that each do a little work, can collect a lot more data in a much smaller timeframe than any researcher or research-group can gather in the same timeframe. 
+- Citizen scientist can collect from places that can be hard to reach for researchers, like backyards or schoolyards. 
+- Citizen science is a great opportunity to test new technologies or innovations on a larger scale.
+- Citizen science helps find the research angle that focuses on the immediate needs of the community that it involves, allowing for research results to be easily used for bringing about change.
+
+[Find out more on our Citizen Science website] (https://www.tudelft.nl/citizenscience) 
+
+## What do Citizen Science Community members do?
+- Discuss relevant challenges, solutions and opportunities in citizen science projects in regular lunch meetings
+- Organize training, MOOCs and events to raise awareness about Citizen Science
+- Advocate for improved services and infrastructure at TU Delft to make utilizing Citizen science methodology easier and more efficient
+
+[Visit our website] (https://www.tudelft.nl/citizenscience) to find out more about Citizen Science principles and tools, and [join the community] (https://docs.google.com/forms/d/e/1FAIpQLScaVcoGP5TceSZYd571EkaWUzTmlitjm9HUYxEkt4YZV_kMWg/viewform?usp=sf_link)
+
 
 # Urbanism
