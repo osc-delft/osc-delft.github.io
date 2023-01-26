@@ -12,7 +12,7 @@ This page shows Open Science funding available specifically for the Open Science
 
 # Mainstreaming Open Science Fund
 
-The Mainstreaming Open Science Fund is an ad-hoc funding initiative that was made possible due to the financial support of the Open Science Programme. The funding was announced in August 2022, and projects were awarded with amounts up to 10.000 EUR in September 2022 to implement various Open Science activities at TU Delft throughout 2022-2023. Only official members of the Open Science Community Delft were eligible to apply. Out of 15 projects, 11 were awarded varying amounts from 2.000 EUR to a maximum of 10.000 EUR.
+The Mainstreaming Open Science Fund is an ad-hoc funding initiative that was made possible due to the financial support of the Open Science Programme. The funding was announced in August 2022, and projects were awarded in September 2022 to implement various Open Science activities at TU Delft throughout 2022-2023. Only official members of the Open Science Community Delft were eligible to apply. Out of 15 projects, 11 were awarded varying amounts from 2.000 EUR to a maximum of 10.000 EUR.
 
 The main purpose of the funding is to stimulate bottom-up pilot initiatives that fall outside of traditional research funding and focus on either of the two goals:
 - Building community/ies around Open Science Practice(s), or
