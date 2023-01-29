@@ -22,6 +22,198 @@
 #
 # Mandatory: first-name, last-name, faculty
 ---
+Alessandro-Bombelli:
+  name: Alessandro Bombelli
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Alessandro%20Bombelli%20-%20Alessandro_Bombelli_2.png
+  position: Lecturer
+  faculty: Aerospace Engineering
+  department: Control & Operations
+# twitter: 
+  email: a.bombelli@tudelft.nl
+# website: 
+# github: username only
+  orcid: 0000-0001-7889-9552
+# linkedin:
+# researchgate: full URL required
+  expertise: Operations Research, Linear Optimization, Network Science, Python, Data Visualization 
+  motivation: I am particularly interested in developing more open source tools for educational purposes, such as tutorial, crash courses, and even online/print-and-play board games n the context of operations research and network science
+
+Rik-Volger:
+  name: Rik Volger
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Rik_Volger.jpg
+  position: PhD Candidate
+  faculty: Applied Sciences
+  department: Biotechnology
+# twitter: 
+  email: r.volger@tudelft.nl
+# website: 
+# github: username only
+  orcid: 0000-0001-8979-1977
+# linkedin:
+# researchgate: full URL required
+  expertise: Biotechnology; Software Development; Biotechnology for Space Applications; Modelling of Biological Systems
+  motivation: I think knowledge should be gathered for the benefit of society as a whole. Paywalls are detrimental to that. On top of that, good science can be reproduced, for which access to source code and data is essential.
+
+Özge-Okur:
+  name: Özge Okur
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/%C3%96zge_Okur.jpg
+  position: Assistant professor
+  faculty: Technology, Policy and Management
+# department: 
+# twitter: 
+  email: o.okur-1@tudelft.nl
+# website: 
+# github: username only
+# orcid: 
+  linkedin: www.linkedin.com/in/özge-okur-454b271a6
+# researchgate: full URL required
+  expertise: Renewable energy systems, energy community, sustainable education, energy storage
+# motivation: 
+
+Alexander-Smit:
+  name: Alexander Smit
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Alexander_Smit.jpeg
+  position: Assistant professor
+  faculty: Technology, Policy and Management
+  department: Values, Technology and Innovation
+# twitter: 
+  email: A.C.Smit@tudelft.nl
+# website: 
+# github: username only
+  orcid: 0000-0002-3331-8117
+  linkedin: https://www.linkedin.com/in/alexandercsmit/
+# researchgate: full URL required
+  expertise: Business analytics, data-driven innovation, data science, innovation, organization
+# motivation: 
+
+Roberto-Merino-Martinez:
+  name: Roberto Merino-Martinez
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Roberto_Merino.jpg
+  position: Assistant professor
+  faculty: Aerospace Engineering
+  department: Control and Operations
+  twitter: rmerinomartinez
+  email: r.merinomartinez@tudelft.nl
+  website: https://www.tudelft.nl/en/staff/r.merinomartinez/?cHash=b144b2607d620f8d2c5b95fbff760d18
+# github: username only
+  orcid: 0000-0003-2261-9595
+# linkedin: https://www.linkedin.com/in/patrick-altmeyer-a2a25494/
+# researchgate: full URL required
+  expertise: Aircraft noise, wind turbine noise, aeroacoustics, psychoacoustics, acoustic imaging, microphone arrays, beamforming
+  motivation: I strongly believe that open science is the future and that we should all work towards it to enable collaborations, avoid unnecessary redundancies, and, overall, provide progress in science.
+
+Patrick-Altmeyer:
+  name: Patrick Altmeyer
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Patrick_Altmeyer.jpg
+  position: PhD Candidate
+  faculty: Electrical Engineering, Mathematics and Computer Science
+  department: INSY/MMC
+  twitter: paltmey
+  email: p.altmeyer@tudelft.nl
+  website: https://www.paltmeyer.com/
+# github: username only
+  orcid: 0000-0003-4726-8613
+  linkedin: https://www.linkedin.com/in/patrick-altmeyer-a2a25494/
+# researchgate: full URL required
+  expertise: Explainable AI, probabilistic machine learning, data science, finance, economics, monetary policy, software development, Julia
+  motivation: I have been using open-source software and open-access research for many years. More recently I also actively contribute to both, through the development of Julia packages and my blog.
+
+Cynthia-Liem:
+  name: Cynthia Liem
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Cynthia_Liem.jpg
+  position: Associate Professor
+  faculty: Electrical Engineering, Mathematics and Computer Science
+  department: Intelligent Systems, Faculty of EEMCS
+  twitter: informusiccs
+  email: c.c.s.liem@tudelft.nl
+  website: https://www.cynthialiem.com/; https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/cynthia-liem
+# github: username only
+  orcid: 0000-0002-5385-7695
+  linkedin: https://www.linkedin.com/in/cynthialiem/
+# researchgate: full URL required
+  expertise: Public-interest information filtering (search and recommendation), trustworthy and responsible AI, data-driven decision-making, methodology in interdisciplinary settings, public outreach
+  motivation: As an academic who explicitly would like to act in the public interest, open science is a key element of achieving this
+
+Manuel-Garcia-Alvarez:
+  name: Manuel Garcia Alvarez
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Manuel_Garcia_Alvarez.jpg
+  position: Research Software Engineer
+  faculty: DCC
+# department: 
+# twitter: 
+  email: m.g.garciaalvarez@tudelft.nl
+# website: https://www.tudelft.nl/staff/m.g.garciaalvarez/?cHash=060e581a13c6c58cc71428abe4b0d7eb
+# github: username only
+# orcid: 0000-0003-1579-9989
+# linkedin:
+# researchgate: full URL required
+  expertise:    Geoinformatics, Web development, Collaborative development, Computer vision 
+  motivation: I believe access to scientific knowledge is key for the development of society
+
+Dennis-Pohl:
+  name: Dennis Pohl
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Dennis_Pohl.jpg
+  position: Postdoc
+  faculty: Architecture and Built Environment
+  department: Architecture 
+# twitter: TrivikV
+  email: d.pohl@tudelft.nl
+  website: https://research.tudelft.nl/en/persons/d-pohl
+# github: username only
+  orcid: 0000-0002-4847-1501
+# linkedin:
+# researchgate: full URL required
+  expertise: Architectural History, Global Governance, Digital Culture, History of Computation
+  motivation: To learn more about how open science and open data can improve architectural practice
+
+George-Vrachliotis:
+  name: George Vrachliotis
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Georg_Vrachliotis.jpg
+  position: Professor
+  faculty: Architecture and Built Environment
+  department: Architecture 
+# twitter: TrivikV
+  email: g.vrachliotis@tudelft.nl
+  website: https://www.tudelft.nl/bk/over-faculteit/hoogleraren/profdr-g-vrachliotis
+# github: username only
+  orcid: 0000-0001-7590-845X
+  linkedin: linkedin.com/in/georg-vrachliotis-63a36a1a
+# researchgate: full URL required
+  expertise: Theory of Architecture, Digital Culture, Design Theory, History of Technology 
+  motivation: The 21st century will require us to develop concepts for thinking about design in an open data-based way that deeply considers ecology. Open data has great potential in the design of sustainable space. Therefore, I initiated and lead "The New Open", a new flagship project of the Department of Architecture, TU Delft, to explore the role of open data for design and social change. 
+
+Tobias-Schmiedel:
+  name: Tobias Schmiedel
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Tobias_Schmiedel_2.jpg
+  position: Assistant Professor
+  faculty: Civil Engineering and Geosciences
+  department: Geosciences & Enginieering
+# twitter: TrivikV
+  email: t.schmiedel@tudelft.nl
+  website: https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/resource-engineering/staff/dr-t-tobias-schmiedel
+# github: username only
+  orcid: 0000-0001-9368-7494
+  linkedin: www.linkedin.com/in/tobias-schmiedel
+# researchgate: full URL required
+  expertise: Minerals, rocks and volcanoes, natural resources from magmatic sources, Gemstones
+  motivation: I am eager to find new ways of bringing science to society. Not only to schools but we are life long learners. How do we promote adult education? 
+
+Seyyed-Abbas-Noorian-Najafabadi:
+  name: Seyyed Abbas Noorian Najafabadi
+# photo: 
+  position: Postdoc
+  faculty: Architecture and Built Environment
+# department: 
+# twitter:
+  email: S.A.NoorianNajafabadi@tudelft.nl
+  website: https://www.tudelft.nl/en/staff/s.a.nooriannajafabadi/?cHash=25e13cdc0c38188b55a9dc0e80d4feed
+# github: username only
+  orcid: 0000-0002-8184-236X
+# linkedin: full URL required
+# researchgate: full URL required
+  expertise: Chemistry, Nanostructure, Textile engineering, Indoor air quality
+# motivation: 
+
 Isidora-Araya-Day:
   name: Isidora Araya Day
   photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Isidora_Araya_Day.jpg
@@ -167,7 +359,7 @@ Andreas-M-Demetriou:
 
 Matteo-Pini:
   name: Matteo Pini
-  photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/m.pini_photo.jpg
+  photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/m.pini_photo.jpg
   position: Assistant Professor
   faculty: Aerospace Engineering
   department: Aerodynamics, Wind Energy, Flight Performance and Propulsion
@@ -179,7 +371,7 @@ Matteo-Pini:
 
 Roland-Schmehl:
   name: Roland Schmehl
-  photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/9/0/csm_roland%20schmell_c774b95dcc.jpg
+  photo: https://d2k0ddhflgrk1i.cloudfront.net/_processed_/9/0/csm_roland%20schmell_c774b95dcc.jpg
   position: Associate Professor/Member advisory board
   faculty: Aerospace Engineering
   department: AWEP
@@ -205,11 +397,11 @@ Alessandra-Menicucci:
   website: https://www.tudelft.nl/en/staff/?no_cache=1
   orcid: 0000-0002-7064-6275
   linkedin: https://www.linkedin.com/in/amenicucci
-  photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/2020_Alessandra_Menicucci.jpg
+  photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/2020_Alessandra_Menicucci.jpg
 
 Lora-Armstrong:
   name: Lora Armstrong
-  photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/4/6/csm_LArmstrong_data_champions%20%281%29_ecf70aba29.jpg
+  photo: https://d2k0ddhflgrk1i.cloudfront.net/_processed_/4/6/csm_LArmstrong_data_champions%20%281%29_ecf70aba29.jpg
   position: Data manager
   faculty: Civil Engineering &amp; Geosciences
   department: Geoscience &amp; Engineering
@@ -230,7 +422,7 @@ Guido-de-Croon:
     email: G.C.H.E.deCroon@tudelft.nl
     website: https://www.tudelft.nl/en/staff/g.c.h.e.decroon/
     orcid: 0000-0001-8265-1496
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/a/b/csm_s4k2t_0d40368030.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/_processed_/a/b/csm_s4k2t_0d40368030.jpg
 
 Boyang-Chen:
     name: Boyang Chen
@@ -241,7 +433,7 @@ Boyang-Chen:
     expertise: Damage modelling of composites
     website: https://www.tudelft.nl/staff/b.chen-2/
     orcid: 0000-0001-7393-4363
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/2020_b_chen.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/2020_b_chen.jpg
 
 Irene-Dedoussi:
     name: Irene Dedoussi
@@ -254,7 +446,7 @@ Irene-Dedoussi:
     website: https://www.tudelft.nl/staff/i.c.dedoussi/
     orcid: 0000-0002-8966-9469
     linkedin: https://www.linkedin.com/in/irene-dedoussi
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/2/5/csm_2019_Irene%20Dedoussi_de28c15863.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/_processed_/2/5/csm_2019_Irene%20Dedoussi_de28c15863.jpg
     
 Junzi-Sun:
     name: Junzi Sun
@@ -267,7 +459,7 @@ Junzi-Sun:
     twitter: junzi
     website: https://junzis.com
     orcid: 0000-0003-3888-1192
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/junzi%20sun.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/junzi%20sun.jpg
 
 Roeland-de-Breuker:
     name: Roeland de Breuker
@@ -280,7 +472,7 @@ Roeland-de-Breuker:
     website: https://www.tudelft.nl/staff/r.debreuker/
     orcid: 0000-0002-7882-2173
     linkedin: https://www.linkedin.com/in/roeland-de-breuker-98268a3/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/2/9/csm_2019_RoelandDeBreuker_e74ad44320.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/_processed_/2/9/csm_2019_RoelandDeBreuker_e74ad44320.jpg
 
 Saullo-Giovani-Pereira-Castro:
     name: Saullo Giovani Pereira Castro
@@ -291,7 +483,7 @@ Saullo-Giovani-Pereira-Castro:
     expertise:  Git, Github, Travis CI, Coverage, Python, Cython, C++, FORTRAN
     email: S.G.P.Castro@tudelft.nl
     website: https://www.tudelft.nl/staff/s.g.p.castro/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Castro.JPG
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Castro.JPG
 
 Stefan-Hickel:
     name: Stefan Hickel
@@ -304,7 +496,7 @@ Stefan-Hickel:
     website: https://www.tudelft.nl/staff/s.hickel/
     orcid: 0000-0002-7463-9531
     linkedin: https://www.linkedin.com/in/hickel
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Stefan_Hickel.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Stefan_Hickel.jpg
 
 Calvin-Rans:
     name: Calvin Rans
@@ -319,7 +511,7 @@ Calvin-Rans:
     researchgate: https://www.researchgate.net/profile/Calvin_Rans
     orcid: 0000-0001-5539-1262
     linkedin: https://www.linkedin.com/in/ranscalvin
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/calvin_rans.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/calvin_rans.jpg
 
 Leila-Inigo-de-la-Cruz:
     name: Leila Iñigo de la Cruz
@@ -331,7 +523,7 @@ Leila-Inigo-de-la-Cruz:
     expertise: Functional genetics approaches to experimental evolution, budding yeast polarity network, documentation system centred on the use of open source tools oriented to easy customization and flexible collaboration.&nbsp;
     email: leilaicruz@gmail.com
     website: https://www.tudelft.nl/index.php?id=59822
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/cruz.png
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/cruz.png
 
 Arjen-Jakobi:
     name: Arjen Jakobi
@@ -342,7 +534,7 @@ Arjen-Jakobi:
     expertise: Structural biology, cryo-EM, computational and experimental biophysics
     email: A.Jakobi@tudelft.nl
     orcid: 0000-0002-7761-2027
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Jakobi.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Jakobi.jpg
 
 Jacob-Hoogenboom:
     name: Jacob Hoogenboom
@@ -354,7 +546,7 @@ Jacob-Hoogenboom:
     email: j.p.hoogenboom@tudelft.nl
     website: https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/imphys/people/jacob-hoogenboom/
     orcid: 0000-0002-5680-2809
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/5/1/csm_JacobHogenboom_5281_WEB_517ee31d66.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/_processed_/5/1/csm_JacobHogenboom_5281_WEB_517ee31d66.jpg
 
 Zoltan-Perko:
     name: Zoltán Perkó
@@ -367,7 +559,7 @@ Zoltan-Perko:
     website: https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/radiation-science-technology/research/research-groups/reactor-physics-and-nuclear-materials/people/zoltan-perko/
     orcid: 0000-0002-0975-4226
     linkedin: https://nl.linkedin.com/in/zoltan-perko-4046a127
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/zoltan-perko.png
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/zoltan-perko.png
 
 Anton-Akhmerov:
     name: Dr. A.R. (Anton) Akhmerov
@@ -379,7 +571,7 @@ Anton-Akhmerov:
     email: datachampion@antonakhmerov.org
     website: https://www.tudelft.nl/staff/a.r.akhmerov/
     orcid: 0000-0001-8031-1340
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/c/7/csm_Anton_256646a14f.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/_processed_/c/7/csm_Anton_256646a14f.jpg
 
 Eva-Kalmar:
     name: Eva Kalmar
@@ -392,7 +584,7 @@ Eva-Kalmar:
     website: https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/science-education-and-communication/people/eva-kalmar/
     orcid: 0000-0003-4616-8047
     linkedin: https://www.linkedin.com/in/evakalmar/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Eva%20Kalmar.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Eva%20Kalmar.jpg
 
 Raul-Ortiz-Merino:
     name: Dr. Raul Ortiz Merino
@@ -405,7 +597,7 @@ Raul-Ortiz-Merino:
     twitter: rortiz_esr
     website: https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-sections/industrial-microbiology/jack-pronk-group/people/
     orcid: 0000-0003-4186-8941
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/4/b/csm_Merino_RaulOrtiz_2019_06c3c37eca.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/_processed_/4/b/csm_Merino_RaulOrtiz_2019_06c3c37eca.jpg
 
 Joseph-Weston:
     name: Joseph Weston
@@ -417,7 +609,7 @@ Joseph-Weston:
     email: J.B.Weston@tudelft.nl
     website: https://quantumtinkerer.tudelft.nl/members/joseph/
     linkedin: https://www.linkedin.com/in/jbostonweston/?originalSubdomain=nl
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/0/5/csm_JosephWeston_4e6b69d923.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/_processed_/0/5/csm_JosephWeston_4e6b69d923.jpg
 
 Gary-Steele:
     name: Gary Steele
@@ -428,7 +620,7 @@ Gary-Steele:
     expertise: Quantum physics&nbsp;
     email: g.a.steele@tudelft.nl
     website: https://www.tudelft.nl/en/staff/g.a.steele/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/gary-steele.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/gary-steele.jpg
 
 Marcel-van-den-Broek:
     name: Marcel van den Broek
@@ -439,7 +631,7 @@ Marcel-van-den-Broek:
     expertise: As a Bioinformatics technician I am involved in sequencing (illumina, Oxford Nanopore) projects. Expertise in De Novo assembly, sequencing pipelines, unix/linux bash scripting and Python.&nbsp;
     email: Marcel.vandenBroek@tudelft.nl
     website: https://www.tudelft.nl/en/staff/marcel.vandenbroek/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/MarcelvdBroek.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/MarcelvdBroek.jpg
 
 Marcel-Bus:
     name: Marcel Bus
@@ -451,7 +643,7 @@ Marcel-Bus:
     email: m.bus@tudelft.nl
     website: https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/chemical-engineering/about-the-department/technicians/
     orcid: 0000-0003-4348-4538
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Bus.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Bus.jpg
 
 Valentina-A-Cortes-Urra:
     name: Valentina A. Cortés Urra
@@ -464,7 +656,7 @@ Valentina-A-Cortes-Urra:
     website: https://www.tudelft.nl/staff/v.a.cortesurra/
     orcid: 0000-0002-5587-3867
     linkedin: https://www.linkedin.com/in/valentinacortesurra/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/8/8/csm_v_a_cortes_urra_962d60f15e.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/_processed_/8/8/csm_v_a_cortes_urra_962d60f15e.jpg
 
 Ali-Sobhani:
     name: Ali Sobhani
@@ -476,7 +668,7 @@ Ali-Sobhani:
     website: https://www.tudelft.nl/staff/ali.sobhani/
     orcid: 0000-0003-4474-7774
     linkedin: https://www.linkedin.com/in/alisobhani/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/9/6/csm_imgp4335_a_def-b_w_701d75d351.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/_processed_/9/6/csm_imgp4335_a_def-b_w_701d75d351.jpg
 
 Henriette-Bier:
     name: Henriette Bier
@@ -487,7 +679,7 @@ Henriette-Bier:
     email: h.h.bier@tudelft.nl
     website: https://www.tudelft.nl/staff/h.h.bier/
     researchgate: https://www.researchgate.net/profile/Henriette_Bier
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/7/d/csm_Bier%20henriette_dc31cbdf40.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/_processed_/7/d/csm_Bier%20henriette_dc31cbdf40.jpg
 
 Balazs-Dukai:
     name: Balázs Dukai
@@ -501,7 +693,7 @@ Balazs-Dukai:
     website: https://3d.bk.tudelft.nl/bdukai/
     orcid: 0000-0003-0193-5863
     linkedin: https://www.linkedin.com/in/balazsdukai/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/3/1/csm_2019_Balazs_Dukai_small_8c87be96c6.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/_processed_/3/1/csm_2019_Balazs_Dukai_small_8c87be96c6.jpg
 
 Mahda-Foroughi:
     name: Mahda Foroughi
@@ -512,7 +704,7 @@ Mahda-Foroughi:
     email: m.foroughi@tudeft.nl
     website: https://www.linkedin.com/in/mahda-foroughi-44527015a/
     linkedin: https://www.linkedin.com/in/mahda-foroughi-44527015a/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/4/b/csm_2019_MahdaForoughi_33265a384e.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/_processed_/4/b/csm_2019_MahdaForoughi_33265a384e.jpg
 
 Michiel-Fremouw:
     name: Michiel Fremouw
@@ -524,7 +716,7 @@ Michiel-Fremouw:
     email: M.A.Fremouw@tudelft.nl
     website: https://www.tudelft.nl/staff/m.a.fremouw/
     linkedin: https://www.linkedin.com/in/michiel-fremouw/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Michiel-Fremouw.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Michiel-Fremouw.jpg
 
 Sian-Jones:
     name: Sian Jones
@@ -535,7 +727,7 @@ Sian-Jones:
     email: s.a.jones@tudelft.nl
     website: https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/sections/reservoir-engineering/staff/research-staff/sa-sian-jones-dr/
     orcid: 0000-0003-0198-5692</a></p></div>
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Sian1.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Sian1.jpg
 
 Alexandros-Daniilidis:
     name: Alexandros Daniilidis
@@ -548,7 +740,7 @@ Alexandros-Daniilidis:
     website: https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/sections/reservoir-engineering/staff/research-staff/a-alexandros-daniilidis-msc/
     orcid: 0000-0002-2374-8391
     linkedin: https://www.linkedin.com/in/daniilidis-alexandros/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/csm_Alex%20Daniilidis_0773d29846.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/csm_Alex%20Daniilidis_0773d29846.jpg
 
 Ruud-van-der-Ent:
     name: Ruud van der Ent
@@ -561,7 +753,7 @@ Ruud-van-der-Ent:
     website: https://www.tudelft.nl/staff/r.j.vanderent/
     orcid: 0000-0002-9063-4714
     linkedin: https://www.linkedin.com/in/ruud-van-der-ent-79142b11/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Vanderent.JPG
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Vanderent.JPG
 
 Frans-van-der-Meer:
     name: Frans van der Meer
@@ -573,7 +765,7 @@ Frans-van-der-Meer:
     email: F.P.vanderMeer@tudelft.nl
     website: https://www.tudelft.nl/en/ceg/about-faculty/departments/materials-mechanics-management-design-3md/sections-labs/applied-mechanics/chairs/computational-mechanics/staff/scientific-staff/drir-fp-van-der-meer/
     linkedin: https://www.linkedin.com/in/frans-van-der-meer-1478a810/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/frans-van-der-meer.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/frans-van-der-meer.jpg
 
 Rolf-Hut:
     name: Rolf Hut
@@ -586,7 +778,7 @@ Rolf-Hut:
     twitter: RolfHut
     website: https://www.tudelft.nl/en/ceg/about-faculty/departments/watermanagement/staff/staff-water-resources-management/academic-staff/dr-ir-rolf-hut/
     orcid: 0000-0002-6691-1259
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Hut.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Hut.jpg
 
 Paul-van-Gent:
     name: Paul van Gent
@@ -599,7 +791,7 @@ Paul-van-Gent:
     website: https://www.tudelft.nl/en/ceg/about-faculty/departments/transport-planning/staff/personal-pages/gent-p-van/
     orcid: 0000-0002-5697-5697
     linkedin: https://www.linkedin.com/in/paul-van-gent-3b5b5817/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/paul-van-gent.png
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/paul-van-gent.png
 
 Mark-van-Koningsveld:
     name: Mark van Koningsveld
@@ -612,7 +804,7 @@ Mark-van-Koningsveld:
     website: https://www.tudelft.nl/en/ceg/about-faculty/departments/hydraulic-engineering/sections/rivers-ports-waterways-and-dredging-engineering/staff/prof-dr-ir-m-mark-van-koningsveld/
     orcid: 0000-0002-8590-9533
     linkedin: https://www.linkedin.com/in/markvankoningsveld/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/mark-van-koningsveld.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/mark-van-koningsveld.jpg
 
 Ehab-Al-Khannaq:
     name: Ehab Al-Khannaq
@@ -624,7 +816,7 @@ Ehab-Al-Khannaq:
     email: E.N.M.Al-Khannaq@tudelft.nl
     website: https://www.tudelft.nl/en/ceg/about-faculty/departments/transport-planning/staff/personal-pages/dr-enm-ehab-al-khannaq/
     linkedin: https://www.linkedin.com/in/ehab-nabiel-alkhanak-ph-d-9449113b/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/ehab_al-khannaq.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/ehab_al-khannaq.jpg
 
 Suryansh-Sharma:
     name: Suryansh Sharma
@@ -635,7 +827,7 @@ Suryansh-Sharma:
     email: suryansh@evilscientist.cc
     orcid: 0000-0002-9880-6365
     linkedin: https://www.linkedin.com/in/suryanshsharma/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Suryansh%20Sharma%20DC%20image.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Suryansh%20Sharma%20DC%20image.jpg
 
 Giordano-Lipari:
     name: Giordano Lipari
@@ -650,7 +842,7 @@ Giordano-Lipari:
     twitter: hydrodynamics
     website: https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics/numerical-analysis/people/g-lipari/
     linkedin: https://www.linkedin.com/in/hydrodynamics
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Lipari%2C%20Giordano.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Lipari%2C%20Giordano.jpg
 
 Elena-Congeduti:
     name: Elena Congeduti
@@ -662,7 +854,7 @@ Elena-Congeduti:
     email: econgeduti@gmail.com
     website: https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/interactive-intelligence/people/current-group-members/elena-congeduti/
     orcid: 0000-0002-5680-2809
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/csm_Elena%20Congeduti_70e597123c.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/csm_Elena%20Congeduti_70e597123c.jpg
 
 Thomas-Abeel:
     name: Thomas Abeel
@@ -675,7 +867,7 @@ Thomas-Abeel:
     twitter: ThomasAbeel
     website: https://www.tudelft.nl/en/eemcs/the-faculty/departments/intelligent-systems/pattern-recognition-bioinformatics/the-delft-bioinformatics-lab/people/thomas-abeel/
     linkedin: https://www.linkedin.com/in/abeel
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/thomas_abeel2.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/thomas_abeel2.jpg
 
 Willem-Paul-Brinkman:
     name: Willem-Paul Brinkman
@@ -688,7 +880,7 @@ Willem-Paul-Brinkman:
     website: https://www.tudelft.nl/en/eemcs/the-faculty/departments/intelligent-systems/interactive-intelligence/people/currrent-group-members/willem-paul-brinkman/
     orcid: 0000-0002-7205-7431
     linkedin: https://www.linkedin.com/in/willem-paul-brinkman-32b844
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Willem-Paul-Brinkman.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Willem-Paul-Brinkman.jpg
 
 Jose-Rueda-Torres:
     name: José Rueda Torres
@@ -700,7 +892,7 @@ Jose-Rueda-Torres:
     email: J.L.RuedaTorres@tudelft.nl
     website: https://www.tudelft.nl/staff/j.l.ruedatorres/
     orcid: 0000-0001-8485-7092
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/a/0/csm_2019_JoseRuedaTorres_c444939ab7.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/_processed_/a/0/csm_2019_JoseRuedaTorres_c444939ab7.jpg
 
 Jerry-de-Vos:
     name: Jerry de Vos
@@ -713,7 +905,7 @@ Jerry-de-Vos:
     website: https://jerrydevos.nl/img/banner-min1.png
     orcid: 0000-0001-7288-0228
     linkedin: https://www.linkedin.com/in/jerrydevos/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/4/2/csm_Jerry%20de%20Vos%20-%20Profile%20picture_569d4c0639.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/_processed_/4/2/csm_Jerry%20de%20Vos%20-%20Profile%20picture_569d4c0639.jpg
 
 Jacky-Bourgeois:
     name: Jacky Bourgeois
@@ -724,7 +916,7 @@ Jacky-Bourgeois:
     email: j.bourgeois@tudelft.nl
     website: https://www.tudelft.nl/en/ide/about-ide/people/bourgeois-j/
     linkedin: https://uk.linkedin.com/in/jacky-bourgeois-1685b923
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Bourgeois.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Bourgeois.jpg
 
 Valeria-Pannunzio:
     name: Valeria Pannunzio
@@ -737,7 +929,7 @@ Valeria-Pannunzio:
     website: https://www.tudelft.nl/en/ide/about-ide/people/pannunzio-vp/
     orcid: 0000-0003-1090-5703
     linkedin: https://www.linkedin.com/in/valeria-pannunzio-1ab97510b/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Pannunzio_Valeria.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Pannunzio_Valeria.jpg
 
 Natalia-Romero-Herrera:
     name: Natalia Romero Herrera
@@ -748,7 +940,7 @@ Natalia-Romero-Herrera:
     email: n.a.romero@tudelft.nl
     website: https://www.tudelft.nl/en/ide/about-ide/people/romero-herrera-na/
     orcid: 0000-0002-9074-4139
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Romero__Natalia.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Romero__Natalia.jpg
 
 Jose-Carlos-Urra-Llanusa:
     name: José Carlos Urra Llanusa
@@ -759,7 +951,7 @@ Jose-Carlos-Urra-Llanusa:
     email: J.C.UrraLlanusa@tudelft.nl
     orcid: 0000-0002-8583-6231
     linkedin: https://www.linkedin.com/in/josecarlosurra86/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Jose-Carlos-Urra-Llanusa-data.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Jose-Carlos-Urra-Llanusa-data.jpg
     github: jurra
     website: https://www.tudelft.nl/en/library/current-topics/libraryfor-researchers/library-for-researchers/setting-up-research/dcc/about-us
 
@@ -773,7 +965,7 @@ Sebastian-Fajardo:
     expertise: Social and technological complexity, collective action, community formation, archaeology, anthropology.
     email: s.d.fajardobernal@tudelft.nl
     website: https://www.tudelft.nl/staff/s.d.fajardobernal/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/b/7/csm_Fajardo_Sebastian_af0026aaca.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/_processed_/b/7/csm_Fajardo_Sebastian_af0026aaca.jpg
 
 Alejandro-M-Aragon:
     name: Alejandro M. Aragón
@@ -784,7 +976,7 @@ Alejandro-M-Aragon:
     expertise: Computational solid mechanics, modeling, enriched finite element methods, phononic crystals, acoustic metamaterials, topology optimization, contact mechanics, fracture mechanics, massively parallel scientific computing.
     website: https://www.tudelft.nl/3me/afdelingen/precision-and-microsystems-engineering-pme/people/assistant-professors/alejandro-m-aragon/
     linkedin: https://www.linkedin.com/in/amaragon/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/2020_aragon__alegandro__600x800_assistant_prof.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/2020_aragon__alegandro__600x800_assistant_prof.jpg
 
 Pavlo-Bazilinskyy:
     name: Pavlo Bazilinskyy
@@ -797,7 +989,7 @@ Pavlo-Bazilinskyy:
     website: https://www.tudelft.nl/staff/p.bazilinskyy/
     orcid: 0000-0003-2275-6207
     linkedin: https://www.linkedin.com/in/bazilinskyy/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Bazilinskyy_3mE_2019.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Bazilinskyy_3mE_2019.jpg
 
 Kim-Batselier:
     name: Kim Batselier
@@ -810,7 +1002,7 @@ Kim-Batselier:
     email: k.batselier@tudelft.nl
     website: https://www.tudelft.nl/en/staff/k.batselier/
     orcid: 0000-0001-9565-8240
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/c/4/csm_Batselier_Kim_65cb86ab86.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/_processed_/c/4/csm_Batselier_Kim_65cb86ab86.jpg
 
 Sergio-Grammatico:
     name: Sergio Grammatico
@@ -823,7 +1015,7 @@ Sergio-Grammatico:
     twitter: SGrm87
     website: https://www.tudelft.nl/en/3me/about/departments/delft-center-for-systems-and-control/people/professors/dr-ing-s-grammatico-sergio/
     orcid: 0000-0001-7381-2630
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Sergio-Grammatico.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Sergio-Grammatico.jpg
 
 Othon-Moultos:
     name: Othon Moultos
@@ -836,7 +1028,7 @@ Othon-Moultos:
     website: https://www.tudelft.nl/en/3me/about/departments/process-energy/people/engineering-thermodynamics/dr-o-moultos/
     orcid: 0000-0002-6021-2350
     linkedin: https://www.linkedin.com/in/othonas-moultos-498585a9/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Moultos.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Moultos.jpg
 
 Poulumi-Dey:
     name: Poulumi Dey
@@ -849,7 +1041,7 @@ Poulumi-Dey:
     website: https://www.tudelft.nl/en/3me/about/departments/materials-science-and-engineering/research/computational/people/
     orcid: 0000-0001-7477-9684
     linkedin: https://www.linkedin.com/in/poulumi-dey-452b14b6/?originalSubdomain=nl
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/PoulumiDey.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/PoulumiDey.jpg
 
 Emiliano-Trodini:
     name: Emiliano Trodini
@@ -860,7 +1052,7 @@ Emiliano-Trodini:
     expertise: Electrical engineering, Nanotechnology, Materials Science&nbsp;
     email: E.Trodini@tudelft.nl
     website: https://www.tudelft.nl/staff/e.trodini/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Trodini.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Trodini.jpg
 
 Joost-de-Winter:
     name: Joost de Winter
@@ -871,7 +1063,7 @@ Joost-de-Winter:
     email: J.C.F.deWinter@tudelft.nl
     website: https://www.tudelft.nl/staff/j.c.f.dewinter/
     researchgate: https://www.researchgate.net/profile/Joost_De_Winter
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/DeWinterJ.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/DeWinterJ.jpg
 
 Jack-Casey:
     name: Jack Casey
@@ -882,7 +1074,7 @@ Jack-Casey:
     expertise: Philosophy of Science, Logic, Philosophy of Technology, Ethics, Epistemology
     email: j.j.casey@tudelft.nl
     orcid: 0000-0002-1281-8200
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/photo_on_25-02-2020_at_17.10_copy.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/photo_on_25-02-2020_at_17.10_copy.jpg
 
 Baiba-Pudane:
     name: Baiba Pudāne
@@ -895,7 +1087,7 @@ Baiba-Pudane:
     website: https://www.tudelft.nl/en/tpm/about-the-faculty/departments/engineering-systems-and-services/people/phd-candidates/b-baiba-pudane/
     orcid: 0000-0002-9551-9125
     linkedin: https://www.linkedin.com/in/baiba-pud%C4%81ne-02a43733/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Baiba%20Pudane_2019.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Baiba%20Pudane_2019.jpg
 
 Yilin-Huang:
     name: Yilin Huang
@@ -908,7 +1100,7 @@ Yilin-Huang:
     website: https://www.tudelft.nl/en/tpm/about-the-faculty/departments/multi-actor-systems/people/assistant-professors/dr-y-yilin-huang/
     orcid: 0000-0001-7330-2817
     linkedin: https://www.linkedin.com/in/yilinhuang
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Yilin_Huang.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Yilin_Huang.jpg
 
 Scott-Cunningham:
     name: Scott Cunningham
@@ -921,7 +1113,7 @@ Scott-Cunningham:
     twitter: cunningham_sw
     website: https://www.tudelft.nl/en/tpm/about-the-faculty/departments/multi-actor-systems/people/former-employees/s-scott-cunningham/
     orcid: 0000-0002-4396-1990
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/scott-cunningham.JPG
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/scott-cunningham.JPG
 
 Juan-M-Duran:
     name: Juan M. Durán
@@ -932,7 +1124,7 @@ Juan-M-Duran:
     expertise: Computer science; Philosophy of science and technology; History of science and technology; Philosophy of AI; Ethics
     email: j.m.duran@tudelft.nl
     website: https://www.tudelft.nl/en/tpm/about-the-faculty/departments/values-technology-and-innovation/people/assistant-professors/dr-jm-juan-duran/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Juan-Duran.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Juan-Duran.jpg
 
 Anneke-Zuiderwijk-van-Eijk:
     name: Anneke Zuiderwijk-van Eijk
@@ -946,7 +1138,7 @@ Anneke-Zuiderwijk-van-Eijk:
     website: https://www.tudelft.nl/en/tpm/about-the-faculty/departments/engineering-systems-and-services/people/assistant-professors/dr-amg-anneke-zuiderwijk-van-eijk/
     orcid: 0000-0001-6482-0399
     linkedin: https://www.linkedin.com/in/anneke-zuiderwijk-van-eijk-2a26a623/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/anneke-zuiderwijk.JPG
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/anneke-zuiderwijk.JPG
 
 Robert-Fonod:
     name: Róbert Fónod
@@ -957,7 +1149,7 @@ Robert-Fonod:
     expertise: Guidance, navigation, and control; model-based fault diagnosis; fault-tolerant systems; distributed space systems
     email: r.fonod@tudelft.nl
     linkedin: https://www.linkedin.com/in/rfonod/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Robert-Fonod.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Robert-Fonod.jpg
 
 Victor-Koppejan:
     name: Victor Koppejan
@@ -968,7 +1160,7 @@ Victor-Koppejan:
     email: v.w.koppejan@tudelft.nl
     orcid: 0000-0002-9434-3156
     linkedin: https://nl.linkedin.com/in/victorkoppejan
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/victor-koppejan.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/victor-koppejan.jpg
 
 Enzo-Falco:
     name: Enzo Falco
@@ -980,7 +1172,7 @@ Enzo-Falco:
     email: E.Falco@tudelft.nl
     orcid: 0000-0001-7014-0023
     linkedin: https://nl.linkedin.com/in/enzo-falco-3786696a
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Enzo-Falco-1.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Enzo-Falco-1.jpg
 
 Elena-Zhebel:
     name: Elena Zhebel
@@ -991,7 +1183,7 @@ Elena-Zhebel:
     expertise: Scientific programming from development to production.<br>Programming languages C/C++, Fortran, Python, Pascal, CUDA, Matlab.<br>User of git (and GitLabs, GitHub), doxygen, PyCharm IDE and profiling tools.<br>Parallel programming, such as MPI, OpenMP, CUDA on GPUs.
     email: e.v.zhebel@tudelft.nl
     linkedin: https://www.linkedin.com/in/dr-elena-zhebel-6947b16/
-    photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/0/a/csm_ElenaZhebel_d493344e47.jpg
+    photo: https://d2k0ddhflgrk1i.cloudfront.net/_processed_/0/a/csm_ElenaZhebel_d493344e47.jpg
 
 
 Susan-Branchett:
@@ -1006,7 +1198,7 @@ Susan-Branchett:
   twitter: sebranchett
   github: sebranchett
   website: https://www.tudelft.nl/staff/s.e.branchett/
-  photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Branchett.JPG
+  photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Branchett.JPG
 
 Amir-Ebrahimi-Fard:
   name: Amir Ebrahimi Fard
@@ -1019,7 +1211,7 @@ Amir-Ebrahimi-Fard:
   twitter: amiref_1991
   orcid: 0000-0003-4903-8918
   website: https://www.tudelft.nl/en/tpm/about-the-faculty/departments/multi-actor-systems/people/phd-candidates/a-amir-ebrahimi-fard/
-  photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/AmirFard.jpg
+  photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/AmirFard.jpg
 
 Ashley-Cryan:
   name: Ashley Cryan
@@ -1032,7 +1224,7 @@ I am a Data Manager with the TU Delft Library Research Data Services Team - exci
   linkedin: http://www.linkedin.com/in/ashleycryan
   orcid: 0000-0002-5410-2163
   website: https://www.tudelft.nl/en/staff/a.e.cryan/
-  photo: https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Ashley-Cryan.jpg
+  photo: https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Datastewardship/our-datachampions/Ashley-Cryan.jpg
 
 Agnes-Broer:
   name: Agnes Broer
@@ -1059,7 +1251,7 @@ Yan-Wang:
   twitter: yan_wang
   website: https://www.tudelft.nl/library/actuele-themas/research-data-management/r/support/data-stewardship/contact/yan-wang/
   email: y.wang-16@tudelft.nl
-  photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/5/c/csm_Yan%20Wang_2019_11718c4ad9.jpg
+  photo: https://d2k0ddhflgrk1i.cloudfront.net/_processed_/5/c/csm_Yan%20Wang_2019_11718c4ad9.jpg
 
 Yasemin-Turkyilmaz-van-der-Velden:
   name: Yasemin Türkyilmaz-van der Velden
@@ -1151,7 +1343,7 @@ Nergis-Tomen:
 
 Aaron-Ding:
   name: Aaron Ding
-  position: Assistant Professor
+  position: Associate Professor
   faculty: Technology, Policy and Management
   department: Engineering Systems and Services
   expertise: Edge Intelligence, Trustworthy AI, IoT
