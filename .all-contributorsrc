@@ -5,6 +5,27 @@
   "imageSize": 100,
   "commit": false,
   "contributors": [
+      {
+      "login": "iarayad",
+      "name": "Isidora Araya Day",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30697242?s=400&v=4",
+      "profile": "https://github.com/iarayad",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+        {
+      "login": "TanyaYankelevich",
+      "name": "Tanya Yankelevich",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107634879?v=4",
+      "profile": "https://github.com/TanyaYankelevich",
+      "contributions": [
+        "question",
+        "content",
+        "ideas",
+        "maintenance"
+      ]
+    },
     {
       "login": "EstherPlomp",
       "name": "Esther Plomp",
