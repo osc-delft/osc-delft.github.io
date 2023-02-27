@@ -22,6 +22,22 @@
 #
 # Mandatory: first-name, last-name, faculty
 ---
+Dieter-Werthmüller:
+  name: Dieter Werthmüller
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Dieter_Werthm%C3%BCller.jpg
+  position: Researcher, Software Developer, Lecturer
+  faculty: Civil Engineering and Geosciences
+  department: GSE
+# twitter: 
+  email: d.werthmuller@tudelft.nl
+  website: https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/staff/support-staff/dr-d-dieter-werthmueller
+# github: username only
+  orcid: 0000-0002-8575-2484
+# linkedin: https://www.linkedin.com/in/dieterwerthmuller
+# researchgate: full URL required
+  expertise: Electromagnetic geophysics, modelling and inversion; open-source enthusiast; community animal. 
+# motivation: 
+
 Alessandro-Bombelli:
   name: Alessandro Bombelli
   photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Alessandro%20Bombelli%20-%20Alessandro_Bombelli_2.png
