@@ -13,12 +13,9 @@
   location: X TU Delft Mekelweg 8 Building 37 2628 CD Delft
   content: |
          Computational research environments facilitate research data production by providing the necessary processing and analysis tools. They are well connected to some research infrastructure, e.g. code repositories. But, their interoperability with research data repositories is weak, and the researchers need to manually upload their research data to the repositories, mostly through web forms and interfaces.
-
-The fairly toolset seamlessly integrates research environments and data repositories, and allows local data and metadata management, quick data publication, unattended data uploading, smart dataset synchronization, and quick dataset cloning. The toolset includes a Python library providing a standard API to manage and publish datasets on various data repository platforms (e.g. Zenodo, Figshare, 4TU.ResearchData), a command line tool that enables research data management without programming skills, and a JupyterLab extension to manage datasets through a graphical user interface.
-
-The toolset is relevant for researchers at all levels, data stewards, RSEs, data managers, and practically anyone who develops or manages research data and data repositories. The main target group of this event is the TU Delft community. But the invitation is open to research and support staff (specially DCC staff) from all universities in The Netherlands. During the workshop, we will present the toolset, train participants on how to use it to make research outputs FAIR, and collect feedback for improvement and further development.
-
-This event is sponsored by the Open Science Program and the Open Science Community of TU Delft via the Mainstreaming Open Science Fund. And co-organized by TU Delft Digital Competence Centre & Center of Expertise in Big Geodata Science, University of Twente.
+         The fairly toolset seamlessly integrates research environments and data repositories, and allows local data and metadata management, quick data publication, unattended data uploading, smart dataset synchronization, and quick dataset cloning. The toolset includes a Python library providing a standard API to manage and publish datasets on various data repository platforms (e.g. Zenodo, Figshare, 4TU.ResearchData), a command line tool that enables research data management without programming skills, and a JupyterLab extension to manage datasets through a graphical user interface.
+         The toolset is relevant for researchers at all levels, data stewards, RSEs, data managers, and practically anyone who develops or manages research data and data repositories. The main target group of this event is the TU Delft community. But the invitation is open to research and support staff (specially DCC staff) from all universities in The Netherlands. During the workshop, we will present the toolset, train participants on how to use it to make research outputs FAIR, and collect feedback for improvement and further development.
+         This event is sponsored by the Open Science Program and the Open Science Community of TU Delft via the Mainstreaming Open Science Fund. And co-organized by TU Delft Digital Competence Centre & Center of Expertise in Big Geodata Science, University of Twente.
   website: https://www.eventbrite.nl/e/fairly-toolset-workshop-tickets-549425976887
 
 - title: Open Science Community Delft Networking Event
@@ -28,7 +25,6 @@ This event is sponsored by the Open Science Program and the Open Science Communi
          Our community has so many passionate and inspiring Open Science advocates, it’s time we meet each other, learn about each other’s work and have fun. The programme revolves around community members with pitches of new ideas as well as thematic tables to discuss different topics on Open Science. And all this while enjoying food and drinks.
          To receive the invite, contact Tanya, the Community Coordinator (t.y.yankelevich@tudelft.nl) so you can connect with other community members. You can also let her know if you’d like to have a space to share your initiative with the community.
          The event is designed for OSCDelft community members. Not a member yet, but would like to join? Fill out the sign-up sheet here: https://osc-delft.github.io/join
-
 #   website:
 
 - title: "Opening up a Flow battery by Sanli Faez"
