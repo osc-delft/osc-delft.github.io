@@ -22,6 +22,118 @@
 #
 # Mandatory: first-name, last-name, faculty
 ---
+Vladimir-Nećakov:
+  name: Vladimir-Nećakov
+# photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Vladimir_Necakov.png
+  position: Research Assistant
+  faculty: Architecture and Built Environment
+  department: MBE (DCM)
+# twitter: 
+  email: v.necakov@tudelft.nl
+  website: https://www.tudelft.nl/en/staff/v.necakov/?cHash=8a89c2ca9fb6d7e4c1cab9a3880111e7
+# github: 
+  orcid: 0009-0005-9183-2308
+  linkedin: https://www.linkedin.com/in/vladimirnecakov
+# researchgate: full URL required
+  expertise: Research, Architecture, Management in Built Environment, Process optimization, BIM, Technical versatility, UX, UI, Immersive Digital Art 
+  motivation: Open science is the path to follow as a researcher.  
+
+Clémentine-Cottineau:
+  name: Clémentine Cottineau
+# photo: 
+  position: Assistant Professor
+  faculty: Architecture and Built Environment
+  department: Urbanism
+  twitter: @clementinecttn
+# email: c.cottineau@tudelft.nl
+  website: http://clementinecttn.github.io/
+# github: 
+  orcid: 0000-0002-2452-3901
+# linkedin: 
+# researchgate: full URL required
+  expertise: Urban geography, economic geography, spatial analysis, agent-based modelling, systematic literature review, computational social science
+  motivation: I want to share research insights, methods, data, code and tools openly
+
+Boram-Kimhur:
+  name: Boram Kimhur
+# photo: 
+  position: Lecturer
+  faculty: Architecture and Built Environment
+# department: 
+# twitter: 
+  email: b.kim@tudelft.nl
+  website: https://boramkimhur.com/ 
+# github: 
+# orcid: 
+  linkedin: https://www.linkedin.com/in/boramkimhur/
+# researchgate: full URL required
+# expertise: 
+# motivation: 
+
+Reinout-Kleinhans:
+  name: Reinout Kleinhans
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Reinout_Kleinhans.jpg
+  position: Associate Professor
+  faculty: Architecture and Built Environment
+  department: Urbanism
+  twitter: @RJKleinhans
+  email: r.j.kleinhans@tudelft.nl
+  website: www.reinoutkleinhans.com
+# github: 
+  orcid: 0000-0002-5714-2128
+# linkedin: 
+# researchgate: full URL required
+  expertise: Urban regeneration, co-creation, participatory planning, digital platforms, citizen engagement, community-engaged learning (CEL)
+  motivation: I am mostly interested in (conditions for) proper citizen engagement in policy, research, and education. 
+
+Xuehang-Wang:
+  name: Xuehang Wang
+# photo: 
+  position: Assistant professor
+  faculty: Applied Sciences
+  department: RST
+# twitter: 
+# email: x.wang-22@tudelft.nl
+  website: xwang.nl
+# github: 
+  orcid: 0000-0002-8984-6162
+# linkedin: 
+# researchgate: full URL required
+  expertise: Energy storage 
+# motivation: 
+  
+Martin-Holub:
+  name: Martin Holub
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Martin_Holub.jpg
+  position: PhD Candidate
+  faculty: Applied Sciences
+  department: Bionanoscience
+  twitter: @martinholub_
+# email: m.holub@tudelft.nl
+  website: martinholub.com
+  github: etamassia
+  orcid: 0000-0002-8365-0927
+  linkedin: https://www.linkedin.com/in/holubmartin/
+# researchgate: full URL required
+  expertise: Molecular biology, microcontroler programming, bioinformatics, scientific and popular writing 
+  motivation: Building an open community, encouraging diy-nature of participants, providing platform where they can learn more about specific scientific field by doing (in my case this is synthetic and molecular biology)
+  
+Eugenio-Tamassia:
+  name: Eugenio Tamassia
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Eugenio_Tamassia.jpg
+  position: PhD Candidate
+  faculty: Mechanical, Maritime and Material Engineering
+  department: Cognitive Robotics (CoR)
+# twitter: 
+  email: e.tamassia@tudelft.nl
+  website: https://www.tudelft.nl/en/3me/about/departments/cognitive-robotics-cor/people/robot-dynamics
+  github: etamassia
+  orcid: 0000-0002-1952-1178
+# linkedin: 
+# researchgate: full URL required
+  expertise: Academic Teaching, Autonomous Systems, Cognitive Robotics, Decision Making, Knowledge Representation, Motion Planning, Symbolic Reasoning, Tool Manipulation 
+  motivation: As a researcher, participating in open science projects can enhance the rigor and impact of my research, foster collaborations and networking, and promote the democratization of scientific knowledge.
+
 Stuart-Pearson:
   name: Stuart Pearson
   photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Stuart_Pearson.jpg
