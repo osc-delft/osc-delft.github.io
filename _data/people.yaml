@@ -22,22 +22,6 @@
 #
 # Mandatory: first-name, last-name, faculty
 ---
-Stuart-Pearson:
-  name: Stuart Pearson
-  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Stuart_Pearson.jpg
-  position: Assistant Professor
-  faculty: Civil Engineering and Geosciences
-  department: Hydraulic Engineering
-  twitter: @sgpearso
-  email: s.g.pearson@tudelft.nl
-  website: https://coastallycurious.com/
-# github: username only
-  orcid: 0000-0002-3986-4469
-  linkedin: https://www.linkedin.com/in/stuart-g-pearson/
-# researchgate: full URL required
-  expertise: Coastal engineering, sediment transport, hydrodynamics, connectivity and network analysis, numerical modelling, field measurements
-  motivation: Open science is the way forward, both in research and education. Making our work open encourages and enhances collaboration and also holds us to a higher standard.
-
 Julie-Beardsell:
   name: Julie Beardsell
   photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Julie_Beardsell.JPG
