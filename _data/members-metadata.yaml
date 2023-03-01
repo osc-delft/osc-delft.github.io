@@ -133,6 +133,7 @@ threemE:
   - Arkady-Zgonnikov
   - Hongpeng-Zhou
   - Amin-Ebrahimi
+  - Eugenio-Tamassia
 
 tpm:
   - Jack-Casey
@@ -247,7 +248,12 @@ datachampions:
     - Ajay-Seth
     - Bianca-Giovanardi
     - Martijn-Nagtegaal
+    - Eugenio-Tamassia
 
 openhardware:
   - Jose-Carlos-Urra-Llanusa
   - Jerry-de-Vos
+  - Eugenio-Tamassia
+  
+citizen science:
+  - Eugenio-Tamassia
