@@ -18,6 +18,8 @@ The main purpose of the funding is to stimulate bottom-up pilot initiatives that
 - Building community/ies around Open Science Practice(s), or
 - Advancing Open Science practices within one or several faculties of TU Delft.
 
+
+
 The following projects received the funding:
 - **The TU Delft R Café: Building a Community of Practice for Open Science with R**
 
