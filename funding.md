@@ -29,11 +29,13 @@ Alexandria aims to be an open-source, open-access, online platform proof-of-conc
 - **WAM2layers-Showcase**
 **Recepients: Dr Ruud van der Ent (CEG), Vincent de Feiter (CEG and Wageningen University)**
 In this project, we aim to improve and increase the use among students of the fully open access atmospheric water vapor tracking software WAM2layers, originally developed by Ruud van der Ent. Moreover, we aim to show how a bunch of poorly organized scripts developed into user-friendly software and as such want to encourage colleagues to do the same.
+
 **Goals**
 The goals of this new initiative are:
 1)	Increasing the easiness through which students and colleagues can use the WAM2layers software at TU Delft
 2)	Increasing the easiness through which anyone can use the WAM2layers software
 3)	Showcasing this project within TU Delft (primarily aimed at CEG-colleagues) as an example of how to turn a script into a professional piece of FAIR software.
+
 **Methods**
 We aim to build a database of input data at TU Delft server and set up the model specifically for Delft Blue. Provide a (video) guide for CEG-students/colleagues how use the model at TU Delft with high performance computing of Delft Blue specifically. Moreover, we intend to organise a few workshops where we will show to our colleagues how a series of scripts was transformed into FAIR software. We hope to inspire and advice colleagues of what can be done with their code they may have on their own computer, but not yet shared with the world. 
 - **The New Open Design Handbook**
