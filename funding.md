@@ -20,7 +20,8 @@ The main purpose of the funding is to stimulate bottom-up pilot initiatives that
 
 
 
-# The following projects received the funding:
+## The following projects received seed funding:
+
 - **The TU Delft R Café: Building a Community of Practice for Open Science with R**
 
 **Recepients: Ashley Cryan (TU Delft Library), Aleksandra Wilczynska (TU Delft Library)**
