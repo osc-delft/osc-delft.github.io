@@ -485,10 +485,10 @@ Bjørn-Peare-Bartholdy:
   name: Bjørn Peare Bartholdy
   photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Bj%C3%B8rn_Peare_Bartholdy.jpeg
   position: Data Steward
-  faculty: Mechanical, Maritime and Material Engineering
-  # twitter: osteobjorn
-  # email: b.p.bartholdy@tudelft.nl
-  # orcid: 0000-0003-3985-1016
+  faculty: Mechanical, Maritime and Material Engineering (3mE)
+  github: bbartholdy
+  email: b.p.bartholdy@tudelft.nl
+  orcid: 0000-0003-3985-1016
   expertise: Open Access, Open Methods, Open Data, Reproducibility, Executable Manuscripts
   motivation: I like to learn new skills-tools that facilitate an open research process, and transfer those skills to others. I also find it interesting to see how others make their research transparent, reproducible and impactful through open science practices.
 
