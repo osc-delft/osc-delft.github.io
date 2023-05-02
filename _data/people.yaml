@@ -23,7 +23,7 @@
 # Mandatory: first-name, last-name, faculty
 ---
 Vladimir-Nećakov:
-  name: Vladimir-Nećakov
+  name: Vladimir Nećakov
 # photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Vladimir_Necakov.png
   position: Research Assistant
   faculty: Architecture and Built Environment
