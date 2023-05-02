@@ -22,6 +22,22 @@
 #
 # Mandatory: first-name, last-name, faculty
 ---
+Saskia-Postema:
+  name: Saskia Postema
+# photo: 
+  position: Project Manager
+  faculty: Universiteitsdienst/Support 
+  department: Community Engagement
+  twitter: saskiapostema
+  email: s.p.s.postema@tudelft.nl
+# website: 
+# github: 
+# orcid:
+# linkedin:
+# researchgate: full URL required
+  expertise: Political participation, civic engagement (particularly youth engagement), DEI 
+# motivation:
+  
 Vladimir-Nećakov:
   name: Vladimir Nećakov
 # photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Vladimir_Necakov.png
