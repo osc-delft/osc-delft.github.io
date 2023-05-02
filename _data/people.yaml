@@ -22,6 +22,22 @@
 #
 # Mandatory: first-name, last-name, faculty
 ---
+Daiqi-Lin:
+  name: Daiqi Lin
+# photo: 
+  position: PhD Candidate
+  faculty: Applied Sciences 
+  department: Chemical Engineering
+# twitter:
+  email: d.l.lin@tudelft.nl
+# website: 
+# github: 
+# orcid: 
+# linkedin:
+# researchgate: full URL required
+  expertise: Computational fluid dynamics 
+  motivation: I want to promote the medical data sharing worldwide.
+
 Arjan-Droste:
   name: Arjan Droste
 # photo: 
