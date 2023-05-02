@@ -22,6 +22,22 @@
 #
 # Mandatory: first-name, last-name, faculty
 ---
+Andjela-Tomic:
+  name: Andjela Tomic
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Andjela_Tomic.jpg
+  position: Senior Technical Developer 
+  faculty: TU Delft Library 
+# department:
+# twitter:
+# email:
+# website:
+# github: 
+  orcid: 0000-0002-4786-3714
+  linkedin: https://www.linkedin.com/in/andjela-tomic-a7982931/
+# researchgate: full URL required
+  expertise: Software and Hardware development 
+  motivation: Community sharing
+
 Antony-Bartlett:
   name: Antony Bartlett
   photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Antony_Bartlett.jpeg
