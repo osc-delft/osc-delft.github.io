@@ -22,6 +22,22 @@
 #
 # Mandatory: first-name, last-name, faculty
 ---
+Xinyan-Fan:
+  name: Xinyan Fan
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Xinyan_Fan.jpg
+  position: Data Steward 
+  faculty: Civil Engineering and Geosciences 
+# department:
+# twitter:
+  email: x.fan-1@tudelft.nl
+  website: https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact/xinyan-fan
+# github: 
+  orcid: 0000-0002-2581-6335
+  linkedin: https://www.linkedin.com/in/xinyan-fan-55616449/
+# researchgate: full URL required
+  expertise: FAIR data and software, Remote Sensing, Geospatial Data Analysis, Crop Growth Modeling, Machine Learning 
+  motivation: Transparency is key to scientific progress. I am motivated to seek out new skills and tools that help design and implement more transparent workflows in research process. As a data steward, I am dedicated to transfer the knowledge to others to facilitate a more transparent research environment where Open Science is embraced as the norm.
+
 Andjela-Tomic:
   name: Andjela Tomic
   photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Andjela_Tomic.jpg
