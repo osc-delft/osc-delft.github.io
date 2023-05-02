@@ -22,6 +22,22 @@
 #
 # Mandatory: first-name, last-name, faculty
 ---
+Arjan-Droste:
+  name: Arjan Droste
+# photo: 
+  position: Assistant Professor
+  faculty: Civil Engineering and Geosciences 
+  department: Water Management
+# twitter:
+  email: A.M.Droste@tudelft.nl
+# website: 
+# github: 
+  orcid: 0000-0003-0218-5160
+# linkedin:
+# researchgate: full URL required
+  expertise: Urban Hydrometeorology, Opportunistic Sensing, Statistics, Climate, Emissions, Air Quality, Rainfall 
+  motivation: Open science stimulates collaboration and communication to the outside world, which is growing increasingly skeptical of the scientific institutions. For a healthy science, we need to be honest and open.
+
 Saskia-Postema:
   name: Saskia Postema
 # photo: 
