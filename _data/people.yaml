@@ -22,6 +22,22 @@
 #
 # Mandatory: first-name, last-name, faculty
 ---
+Antony-Bartlett:
+  name: Antony Bartlett
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Antony_Bartlett.jpeg
+  position: PhD Candidate 
+  faculty: Electrical Engineering, Mathematics and Computer Science 
+  department: INSY
+  twitter: test_ninja
+  email: a.j.bartlett@tudelft.nl
+  website: https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/antony-bartlett
+# github: 
+  orcid: 0009-0008-2654-8556
+# linkedin: 
+# researchgate: full URL required
+  expertise: Software Engineering, Testing, Automation, DevOps, TestOps, Ruby, Python, Julia, Machine Learning 
+  motivation: I believe in free information. By blocking access to scientific information we run the risk of reducing future ideas and great thinkers. Paywalls are evil!
+
 Mina-Akhavan:
   name: Mina Akhavan
   photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Mina_Akhavan.jpeg
