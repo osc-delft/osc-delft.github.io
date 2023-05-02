@@ -22,6 +22,22 @@
 #
 # Mandatory: first-name, last-name, faculty
 ---
+Angela-Rout:
+  name: Angela Rout
+# photo: 
+  position: Assistant Professor
+  faculty: Architecture and Built Environment 
+  department: Architecture
+# twitter:
+  email: A.e.rout@tudelft.nl
+# website: 
+# github: 
+# orcid: 
+  linkedin: https://www.linkedin.com/in/angela-rout-4796648/?trk=public_profile_samename-profile&originalSubdomain=nl
+# researchgate: full URL required
+  expertise: Data visualisation in architectural design, spatiotemporal analysis. Social sciences. 
+  motivation: Open publishing is important to me.
+
 Daiqi-Lin:
   name: Daiqi Lin
 # photo: 
