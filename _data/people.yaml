@@ -22,6 +22,22 @@
 #
 # Mandatory: first-name, last-name, faculty
 ---
+Tanya-Yankelevich:
+  name: Tanya Yankelevich
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Tanya_Yankelevich.jpg
+  position: Community Manager 
+  faculty: TU Delft Open Science Programme 
+# department:
+  twitter: T_Yankelevich
+  email: t.y.yankelevich@tudelft.nl
+# website: 
+# github: 
+# orcid: 
+  linkedin: https://www.linkedin.com/in/tatsianayankelevich/
+# researchgate: full URL required
+  expertise: Open Science policies, Citizen Science, Human Rights, Disarmament, International Cooperation, Community building, Stakeholder management
+  motivation: I believe Open Science should be the default scientific mode and would like to contribute towards the culture change that will make this a reality.
+
 Xinyan-Fan:
   name: Xinyan Fan
   photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Xinyan_Fan.jpg
