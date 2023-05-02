@@ -43,10 +43,11 @@ as:
   - Arent-Kievits
   - Tygo-Huurnink
   - Aaron-Wenteler
-  - Tim-Nijssen
   - Ahmad-Alrefaei 
   - Isidora-Araya-Day
   - Rik-Volger
+  - Martin-Holub
+  - Xuehang-Wang
 
 abe:
   - Valentina-A-Cortes-Urra
@@ -62,6 +63,9 @@ abe:
   - Seyyed-Abbas-Noorian-Najafabadi
   - George-Vrachliotis
   - Dennis-Pohl
+  - Reinout-Kleinhans
+  - Boram-Kimhur
+  - Vladimir-Nećakov
 
 ceg:
   - Lora-Armstrong
@@ -80,6 +84,8 @@ ceg:
   - Marc-Schleiss
   - Mark-Bakker
   - Tobias-Schmiedel
+  - Dieter-Werthmüller
+  - Stuart-Pearson
 
 eemcs:
   - Suryansh-Sharma
@@ -131,6 +137,8 @@ threemE:
   - Hongpeng-Zhou
   - Amin-Ebrahimi
   - Bjørn-Peare-Bartholdy
+  - Eugenio-Tamassia
+  - Tim-Nijssen
 
 tpm:
   - Jack-Casey
@@ -158,6 +166,7 @@ other:
   - Just-de-Leeuwe
   - Aleksandra-Wilczynska
   - Manuel-Garcia-Alvarez
+  - Julie-Beardsell
 
 alumni:
   - Amir-Ebrahimi-Fard
@@ -244,7 +253,17 @@ datachampions:
     - Ajay-Seth
     - Bianca-Giovanardi
     - Martijn-Nagtegaal
+    - Eugenio-Tamassia
+    - Xuehang-Wang
 
 openhardware:
   - Jose-Carlos-Urra-Llanusa
   - Jerry-de-Vos
+  - Eugenio-Tamassia
+  - Martin-Holub
+  
+citizen science:
+  - Eugenio-Tamassia
+  - Martin-Holub
+  - Reinout-Kleinhans
+  - Boram-Kimhur

@@ -106,4 +106,4 @@ Citizen science is a relatively new concept within science, but is getting more 
 [Visit our website](https://www.tudelft.nl/citizenscience) to find out more about Citizen Science principles and tools, and [join the community](https://docs.google.com/forms/d/e/1FAIpQLScaVcoGP5TceSZYd571EkaWUzTmlitjm9HUYxEkt4YZV_kMWg/viewform?usp=sf_link)
 
 
-# Urbanism
+# Rbanism

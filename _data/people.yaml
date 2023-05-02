@@ -22,6 +22,166 @@
 #
 # Mandatory: first-name, last-name, faculty
 ---
+Vladimir-Nećakov:
+  name: Vladimir-Nećakov
+# photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Vladimir_Necakov.png
+  position: Research Assistant
+  faculty: Architecture and Built Environment
+  department: MBE (DCM)
+# twitter: 
+  email: v.necakov@tudelft.nl
+  website: https://www.tudelft.nl/en/staff/v.necakov/?cHash=8a89c2ca9fb6d7e4c1cab9a3880111e7
+# github: 
+  orcid: 0009-0005-9183-2308
+  linkedin: https://www.linkedin.com/in/vladimirnecakov
+# researchgate: full URL required
+  expertise: Research, Architecture, Management in Built Environment, Process optimization, BIM, Technical versatility, UX, UI, Immersive Digital Art 
+  motivation: Open science is the path to follow as a researcher.  
+
+Clémentine-Cottineau:
+  name: Clémentine Cottineau
+# photo: 
+  position: Assistant Professor
+  faculty: Architecture and Built Environment
+  department: Urbanism
+  twitter: clementinecttn
+# email: c.cottineau@tudelft.nl
+  website: http://clementinecttn.github.io/
+# github: 
+  orcid: 0000-0002-2452-3901
+# linkedin: 
+# researchgate: full URL required
+  expertise: Urban geography, economic geography, spatial analysis, agent-based modelling, systematic literature review, computational social science
+  motivation: I want to share research insights, methods, data, code and tools openly
+
+Boram-Kimhur:
+  name: Boram Kimhur
+# photo: 
+  position: Lecturer
+  faculty: Architecture and Built Environment
+# department: 
+# twitter: 
+  email: b.kim@tudelft.nl
+  website: https://boramkimhur.com/ 
+# github: 
+# orcid: 
+  linkedin: https://www.linkedin.com/in/boramkimhur/
+# researchgate: full URL required
+# expertise: 
+# motivation: 
+
+Reinout-Kleinhans:
+  name: Reinout Kleinhans
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Reinout_Kleinhans.jpg
+  position: Associate Professor
+  faculty: Architecture and Built Environment
+  department: Urbanism
+  twitter: RJKleinhans
+  email: r.j.kleinhans@tudelft.nl
+  website: www.reinoutkleinhans.com
+# github: 
+  orcid: 0000-0002-5714-2128
+# linkedin: 
+# researchgate: full URL required
+  expertise: Urban regeneration, co-creation, participatory planning, digital platforms, citizen engagement, community-engaged learning (CEL)
+  motivation: I am mostly interested in (conditions for) proper citizen engagement in policy, research, and education. 
+
+Xuehang-Wang:
+  name: Xuehang Wang
+# photo: 
+  position: Assistant professor
+  faculty: Applied Sciences
+  department: RST
+# twitter: 
+# email: x.wang-22@tudelft.nl
+  website: xwang.nl
+# github: 
+  orcid: 0000-0002-8984-6162
+# linkedin: 
+# researchgate: full URL required
+  expertise: Energy storage 
+# motivation: 
+  
+Martin-Holub:
+  name: Martin Holub
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Martin_Holub.jpg
+  position: PhD Candidate
+  faculty: Applied Sciences
+  department: Bionanoscience
+  twitter: martinholub_
+# email: m.holub@tudelft.nl
+  website: martinholub.com
+  github: etamassia
+  orcid: 0000-0002-8365-0927
+  linkedin: https://www.linkedin.com/in/holubmartin/
+# researchgate: full URL required
+  expertise: Molecular biology, microcontroler programming, bioinformatics, scientific and popular writing 
+  motivation: Building an open community, encouraging diy-nature of participants, providing platform where they can learn more about specific scientific field by doing (in my case this is synthetic and molecular biology)
+  
+Eugenio-Tamassia:
+  name: Eugenio Tamassia
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Eugenio_Tamassia.jpg
+  position: PhD Candidate
+  faculty: Mechanical, Maritime and Material Engineering
+  department: Cognitive Robotics (CoR)
+# twitter: 
+  email: e.tamassia@tudelft.nl
+  website: https://www.tudelft.nl/en/3me/about/departments/cognitive-robotics-cor/people/robot-dynamics
+  github: etamassia
+  orcid: 0000-0002-1952-1178
+# linkedin: 
+# researchgate: full URL required
+  expertise: Academic Teaching, Autonomous Systems, Cognitive Robotics, Decision Making, Knowledge Representation, Motion Planning, Symbolic Reasoning, Tool Manipulation 
+  motivation: As a researcher, participating in open science projects can enhance the rigor and impact of my research, foster collaborations and networking, and promote the democratization of scientific knowledge.
+
+Stuart-Pearson:
+  name: Stuart Pearson
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Stuart_Pearson.jpg
+  position: Assistant Professor
+  faculty: Civil Engineering and Geosciences
+  department: Hydraulic Engineering
+  twitter: sgpearso
+  email: s.g.pearson@tudelft.nl
+  website: https://coastallycurious.com/
+# github: username only
+  orcid: 0000-0002-3986-4469
+  linkedin: https://www.linkedin.com/in/stuart-g-pearson/
+# researchgate: full URL required
+  expertise: Coastal engineering, sediment transport, hydrodynamics, connectivity and network analysis, numerical modelling, field measurements
+  motivation: Open science is the way forward, both in research and education. Making our work open encourages and enhances collaboration and also holds us to a higher standard.
+  
+Julie-Beardsell:
+  name: Julie Beardsell
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Julie_Beardsell.JPG
+  position: Digital Competence Centre Coordinator
+  faculty: University services
+  department: ICT
+# twitter: 
+  email: j.a.beardsell@tudelft.nl
+# website: 
+# github: username only
+# orcid:
+# linkedin: https://www.linkedin.com/in/dieterwerthmuller
+# researchgate: full URL required
+# expertise: 
+# motivation:
+
+Dieter-Werthmüller:
+  name: Dieter Werthmüller
+  photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Dieter_Werthm%C3%BCller.jpg
+  position: Researcher, Software Developer, Lecturer
+  faculty: Civil Engineering and Geosciences
+  department: GSE
+# twitter: 
+  email: d.werthmuller@tudelft.nl
+  website: https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/staff/support-staff/dr-d-dieter-werthmueller
+# github: username only
+  orcid: 0000-0002-8575-2484
+# linkedin: https://www.linkedin.com/in/dieterwerthmuller
+# researchgate: full URL required
+  expertise: Electromagnetic geophysics, modelling and inversion; open-source enthusiast; community animal. 
+# motivation: 
+
 Alessandro-Bombelli:
   name: Alessandro Bombelli
   photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Alessandro%20Bombelli%20-%20Alessandro_Bombelli_2.png
@@ -311,9 +471,9 @@ Amin-Ebrahimi:
 Tim-Nijssen:
   name: Tim Nijssen
   photo: https://raw.githubusercontent.com/osc-delft/osc-delft.github.io/master/images/members/Tim_Nijssen.jpg
-  position: Postdoctoral Researcher
-  faculty: Applied Sciences
-  department: Biotechnology
+  position: Assistant Professor
+  faculty: Mechanical, Maritime and Materials Engineering
+  department: Process & Energy
   email: t.m.j.nijssen@tudelft.nl
   website: https://www.tudelft.nl/staff/t.m.j.nijssen/?cHash=6d343bf58e77da862075648192a0063c
   orcid: 0000-0002-2574-8547
