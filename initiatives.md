@@ -39,6 +39,10 @@ Any member of the OSCD is free to join the Board. Membership is not restricted t
 ## Become a Board member
 Sign up by [filling out this form](https://forms.office.com/Pages/ResponsePage.aspx?id=TVJuCSlpMECM04q0LeCIe4wwCI33_kNHuAxNk1rWjfJUNFdWTDJJTTBVWjQwRDk3VzhXM0I0WlVBTi4u). You will be contacted by the end of August 2023 with further details.
 
+## Questions? 
+Join this [online lunch discussion session](https://tudelft.zoom.us/meeting/register/tJEsd-6oqDkqGdJDSRswjm7bj5hqeNQ-zZaX#/registration) and talk to Tanya Yankelevich (OSCD Community Manager).
+
+
 
 # Data champions
 
