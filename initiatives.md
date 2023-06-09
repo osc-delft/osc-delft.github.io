@@ -27,7 +27,7 @@ If you would like to start a new initiative or bring your community into OSC Del
 Would you like to be more involved in Open Science policy development and community initiatives? Open Science Community Delft (OSCD) is forming an OSC Board with representatives of different faculties to facilitate the work of the community and bring Open Science within the faculties into the spotlight.
 
 ## What does the Board do?
-The main goal of the Board is to create a directon and maintain oversight of the community. In short, the Board will:
+The main goal of the Board is to provide leadership for community work and maintain oversight. In short, the Board will:
 - Identify needs, gaps and priorities for the work of the community,
 - Bring each faculty's prespective into the direction of work,
 - Keep the community updated about Open Science-related developments in each faculty. 
