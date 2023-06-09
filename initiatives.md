@@ -44,6 +44,8 @@ Join this [online lunch discussion session](https://tudelft.zoom.us/meeting/regi
 
 
 
+
+
 # Data champions
 
 - Are you practising or advocating for good research data management?
