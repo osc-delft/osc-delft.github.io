@@ -23,6 +23,23 @@ photos:
 
 If you would like to start a new initiative or bring your community into OSC Delft, please use our [idea sandbox](https://github.com/osc-delft/ideas-and-plans) to propose and discuss the idea, or [email our community coordinator](mailto:openscience@tudelft.nl).
 
+# OSCD Board
+Would you like to be more involved in Open Science policy development and community initiatives? Open Science Community Delft (OSCD) is forming an OSC Board with representatives of different faculties to facilitate the work of the community and bring Open Science within the faculties into the spotlight.
+
+## What does the Board do?
+The main goal of the Board is to create a directon and maintain oversight of the community. In short, the Board will:
+- Identify needs, gaps and priorities for the work of the community,
+- Bring each faculty's prespective into the direction of work,
+- Keep the community updated about Open Science-related developments in each faculty. 
+
+As a buttom-up initiative, the Board, once created, will decide on its more concrete role, term of work, commitment and individuals' involvement in the everyday functioning of the community.
+
+Any member of the OSCD is free to join the Board. Membership is not restricted to one representative per faculty, but we aim to have all faculties represented.
+
+## Become a Board member
+Sign up by [filling out this form](https://forms.office.com/Pages/ResponsePage.aspx?id=TVJuCSlpMECM04q0LeCIe4wwCI33_kNHuAxNk1rWjfJUNFdWTDJJTTBVWjQwRDk3VzhXM0I0WlVBTi4u). You will be contacted by the end of August 2023 with further details.
+
+
 # Data champions
 
 - Are you practising or advocating for good research data management?
