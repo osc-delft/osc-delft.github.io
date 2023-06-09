@@ -32,7 +32,7 @@ The main goal of the Board is to provide leadership for community work and maint
 - Bring each faculty's prespective into the direction of work,
 - Keep the community updated about Open Science-related developments in each faculty. 
 
-As a buttom-up initiative, the Board, once created, will decide on its more concrete role, term of work, commitment and individuals' involvement in the everyday functioning of the community.
+The Board, once created, will decide on its more concrete role, term of work, commitment and individuals' involvement in the everyday functioning of the community.
 
 Any member of the OSCD is free to join the Board. Membership is not restricted to one representative per faculty, but we aim to have all faculties represented.
 
