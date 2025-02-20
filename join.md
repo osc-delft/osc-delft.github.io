@@ -23,7 +23,7 @@ Signing up means that:
 
 To join the Open Science Community Delft, you have to be an employee/a student of TU Delft, and agree to abide by our community [Code of Conduct](https://github.com/osc-delft/osc-delft.github.io/blob/develop/CODE_OF_CONDUCT.md).
 
-[**Go to the sign-up form**](https://forms.gle/v2dtynQ2j6wSMWTS6)
+[**Go to the sign-up form**](https://forms.office.com/Pages/ResponsePage.aspx?id=TVJuCSlpMECM04q0LeCIe4wwCI33_kNHuAxNk1rWjfJUMkJXUUhRU1lMS0Q1QThJNTFFWkU2M05GOC4u)
 
 *Please sign-up using your @tudelft.nl email address - this way we confirm that you are affiliated with TU Delft!*
 
