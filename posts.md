@@ -8,6 +8,11 @@ photos:
   url: https://unsplash.com/photos/-3wygakaeQc
 ---
 
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/osc-delft/osc-delft.github.io/blob/master/images/red-box-declare-out-of-date.png?raw=true" width="1000">
+</div>
+<p style="text-align:center; font-size:36px;"><a href="new_website">Click here for new website</a></p>
+
 This is a collection of articles, blog posts and reports written by community members and coordinators.
 
 Your article can also be featured here!
