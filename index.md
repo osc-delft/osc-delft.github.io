@@ -13,7 +13,7 @@ The Open Science Community Delft (OSCD) is an inclusive learning community that 
 <div style="display: flex; justify-content: center;">
     <img src="https://github.com/osc-delft/osc-delft.github.io/blob/master/images/red-box-declare-out-of-date.png?raw=true" width="1000">
 </div>
-<p style="text-align:center; font-size:36px;"><a href="new_website">Click here for new website</a></p>
+<p style="text-align:center; font-size:36px;"><a href="https://www.tudelft.nl/en/open-science/community">Click here for new website</a></p>
 
 
 **We are part of a bigger group!** OSCD is part of the ***International Network of Open Science and Scholarship Communities (INOSC)*** . INOSC members include:
