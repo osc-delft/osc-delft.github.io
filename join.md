@@ -8,6 +8,11 @@ photos:
   url: https://unsplash.com/photos/DNkoNXQti3c
 ---
 
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/osc-delft/osc-delft.github.io/blob/master/images/red-box-declare-out-of-date.png?raw=true" width="1000">
+</div>
+<p style="text-align:center; font-size:36px;"><a href="new_website">Click here for new website</a></p>
+
 Are you interested in:
 - learning more about open science, including the TU Delft open science programme?
 - opportunities to share your knowledge and experience, to collaborate with others within and beyond TU Delft, and discover new research, teaching, management and engagement practices?
@@ -23,7 +28,7 @@ Signing up means that:
 
 To join the Open Science Community Delft, you have to be an employee/a student of TU Delft, and agree to abide by our community [Code of Conduct](https://github.com/osc-delft/osc-delft.github.io/blob/develop/CODE_OF_CONDUCT.md).
 
-[**Go to the sign-up form**](https://forms.gle/v2dtynQ2j6wSMWTS6)
+[**Go to the sign-up form**](https://forms.office.com/Pages/ResponsePage.aspx?id=TVJuCSlpMECM04q0LeCIe4wwCI33_kNHuAxNk1rWjfJUMkJXUUhRU1lMS0Q1QThJNTFFWkU2M05GOC4u)
 
 *Please sign-up using your @tudelft.nl email address - this way we confirm that you are affiliated with TU Delft!*
 
